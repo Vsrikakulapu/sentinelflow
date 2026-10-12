@@ -1,0 +1,82 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.13"]
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: sentinelflow
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      SENTINELFLOW_TEST_DATABASE_URL: postgresql://postgres:postgres@localhost:5432/sentinelflow
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Install
+        run: pip install -e ".[dev]" pytest-github-actions-annotate-failures
+      - name: Lint
+        run: ruff check .
+      - name: Test (unit + API + PostgreSQL integration)
+        run: pytest -ra --junitxml=report.xml
+      - name: Fail if any test was skipped
+        run: |
+          python - <<'PY'
+          import sys, xml.etree.ElementTree as ET
+          suite = ET.parse("report.xml").getroot().find("testsuite")
+          print(f"tests={suite.get('tests')} skipped={suite.get('skipped')}")
+          sys.exit(1 if int(suite.get("skipped")) else 0)
+          PY
+      - name: Attribution accuracy
+        if: matrix.python-version == '3.13'
+        run: |
+          {
+            echo "## Attribution accuracy (generated incidents, 50 seeds per scenario)"
+            python -m sentinelflow eval --seeds 50
+          } >> "$GITHUB_STEP_SUMMARY"
+
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Build and start the stack
+        run: docker compose up -d --build --wait
+      - name: Triage a generated incident end to end
+        run: |
+          curl -fsS localhost:8000/readyz
+          curl -fsS localhost:8000/database/health
+          curl -fsS localhost:8000/scenarios/bad_deploy > incident.json
+          curl -fsS -X POST -H 'content-type: application/json' -d @incident.json localhost:8000/incidents > report.json
+          python3 - <<'PY'
+          import json
+          report = json.load(open("report.json"))
+          assert report["root_cause"]["id"] == "bad_deploy", report["attribution"]
+          print(report["summary"])
+          PY
+          test "$(curl -fsS localhost:8000/incidents | python3 -c 'import json,sys; print(len(json.load(sys.stdin)))')" = "1"
+      - name: Logs on failure
+        if: failure()
+        run: docker compose logs --no-color | tail -100
+      - name: Stop
+        if: always()
+        run: docker compose down -v
