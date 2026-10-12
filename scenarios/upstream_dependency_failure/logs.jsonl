@@ -1,0 +1,718 @@
+{"ts":"2026-03-14T12:00:02.249740Z","service":"inventory-api","level":"INFO","message":"handled request 554710 in 73ms"}
+{"ts":"2026-03-14T12:00:23.689410Z","service":"checkout-api","level":"INFO","message":"order 150631 placed in 108ms"}
+{"ts":"2026-03-14T12:00:34.967280Z","service":"payments-api","level":"INFO","message":"handled request 632084 in 47ms"}
+{"ts":"2026-03-14T12:00:49.276458Z","service":"checkout-api","level":"INFO","message":"order 198702 placed in 183ms"}
+{"ts":"2026-03-14T12:01:05.442781Z","service":"checkout-api","level":"INFO","message":"order 545140 placed in 105ms"}
+{"ts":"2026-03-14T12:01:34.626177Z","service":"inventory-api","level":"INFO","message":"handled request 515949 in 26ms"}
+{"ts":"2026-03-14T12:01:37.837555Z","service":"payments-api","level":"INFO","message":"handled request 711316 in 27ms"}
+{"ts":"2026-03-14T12:01:49.611127Z","service":"checkout-api","level":"INFO","message":"order 229815 placed in 147ms"}
+{"ts":"2026-03-14T12:02:02.794961Z","service":"checkout-api","level":"INFO","message":"order 239643 placed in 164ms"}
+{"ts":"2026-03-14T12:02:06.183343Z","service":"inventory-api","level":"INFO","message":"handled request 698951 in 44ms"}
+{"ts":"2026-03-14T12:02:25.148343Z","service":"checkout-api","level":"INFO","message":"order 666950 placed in 120ms"}
+{"ts":"2026-03-14T12:02:34.254821Z","service":"payments-api","level":"INFO","message":"handled request 687472 in 43ms"}
+{"ts":"2026-03-14T12:03:03.576070Z","service":"checkout-api","level":"INFO","message":"order 315963 placed in 217ms"}
+{"ts":"2026-03-14T12:03:27.936112Z","service":"inventory-api","level":"INFO","message":"handled request 575198 in 66ms"}
+{"ts":"2026-03-14T12:03:32.864668Z","service":"checkout-api","level":"INFO","message":"order 165839 placed in 234ms"}
+{"ts":"2026-03-14T12:03:40.823998Z","service":"payments-api","level":"INFO","message":"handled request 548363 in 60ms"}
+{"ts":"2026-03-14T12:04:04.911301Z","service":"checkout-api","level":"INFO","message":"order 414834 placed in 224ms"}
+{"ts":"2026-03-14T12:04:17.276266Z","service":"inventory-api","level":"INFO","message":"handled request 176756 in 35ms"}
+{"ts":"2026-03-14T12:04:29.706982Z","service":"payments-api","level":"INFO","message":"handled request 460160 in 77ms"}
+{"ts":"2026-03-14T12:04:47.662769Z","service":"checkout-api","level":"INFO","message":"order 832948 placed in 152ms"}
+{"ts":"2026-03-14T12:05:09.897726Z","service":"checkout-api","level":"INFO","message":"order 458671 placed in 128ms"}
+{"ts":"2026-03-14T12:05:20.407342Z","service":"inventory-api","level":"INFO","message":"handled request 467188 in 83ms"}
+{"ts":"2026-03-14T12:05:55.996213Z","service":"checkout-api","level":"INFO","message":"order 542182 placed in 100ms"}
+{"ts":"2026-03-14T12:05:57.721145Z","service":"payments-api","level":"INFO","message":"handled request 181390 in 60ms"}
+{"ts":"2026-03-14T12:06:03.899999Z","service":"payments-api","level":"INFO","message":"handled request 866676 in 59ms"}
+{"ts":"2026-03-14T12:06:27.372320Z","service":"checkout-api","level":"INFO","message":"order 980770 placed in 113ms"}
+{"ts":"2026-03-14T12:06:38.827731Z","service":"inventory-api","level":"INFO","message":"handled request 814328 in 77ms"}
+{"ts":"2026-03-14T12:06:56.680866Z","service":"checkout-api","level":"INFO","message":"order 597128 placed in 260ms"}
+{"ts":"2026-03-14T12:07:01.353776Z","service":"checkout-api","level":"INFO","message":"order 584122 placed in 180ms"}
+{"ts":"2026-03-14T12:07:03.537265Z","service":"inventory-api","level":"INFO","message":"handled request 905550 in 56ms"}
+{"ts":"2026-03-14T12:07:10.082903Z","service":"payments-api","level":"INFO","message":"handled request 222783 in 83ms"}
+{"ts":"2026-03-14T12:07:23.147487Z","service":"checkout-api","level":"INFO","message":"order 801133 placed in 178ms"}
+{"ts":"2026-03-14T12:08:04.834878Z","service":"checkout-api","level":"INFO","message":"order 571007 placed in 192ms"}
+{"ts":"2026-03-14T12:08:14.856890Z","service":"checkout-api","level":"INFO","message":"order 509940 placed in 217ms"}
+{"ts":"2026-03-14T12:08:32.966395Z","service":"payments-api","level":"INFO","message":"handled request 243577 in 75ms"}
+{"ts":"2026-03-14T12:08:51.839068Z","service":"inventory-api","level":"INFO","message":"handled request 391945 in 73ms"}
+{"ts":"2026-03-14T12:09:09.055254Z","service":"checkout-api","level":"INFO","message":"order 284777 placed in 128ms"}
+{"ts":"2026-03-14T12:09:13.917412Z","service":"payments-api","level":"INFO","message":"handled request 344670 in 21ms"}
+{"ts":"2026-03-14T12:09:29.097764Z","service":"inventory-api","level":"INFO","message":"handled request 717740 in 43ms"}
+{"ts":"2026-03-14T12:09:40.963384Z","service":"checkout-api","level":"INFO","message":"order 498921 placed in 149ms"}
+{"ts":"2026-03-14T12:10:00.245616Z","service":"checkout-api","level":"INFO","message":"order 539297 placed in 226ms"}
+{"ts":"2026-03-14T12:10:22.155214Z","service":"checkout-api","level":"INFO","message":"order 693851 placed in 171ms"}
+{"ts":"2026-03-14T12:10:57.013437Z","service":"inventory-api","level":"INFO","message":"handled request 786782 in 26ms"}
+{"ts":"2026-03-14T12:10:57.185876Z","service":"payments-api","level":"INFO","message":"handled request 824035 in 85ms"}
+{"ts":"2026-03-14T12:11:03.734869Z","service":"inventory-api","level":"INFO","message":"handled request 170619 in 46ms"}
+{"ts":"2026-03-14T12:11:06.212226Z","service":"payments-api","level":"INFO","message":"handled request 765100 in 71ms"}
+{"ts":"2026-03-14T12:11:23.542734Z","service":"checkout-api","level":"INFO","message":"order 518359 placed in 190ms"}
+{"ts":"2026-03-14T12:11:52.258770Z","service":"checkout-api","level":"INFO","message":"order 813634 placed in 233ms"}
+{"ts":"2026-03-14T12:12:04.218935Z","service":"inventory-api","level":"INFO","message":"handled request 318054 in 68ms"}
+{"ts":"2026-03-14T12:12:06.142776Z","service":"checkout-api","level":"INFO","message":"order 694315 placed in 128ms"}
+{"ts":"2026-03-14T12:12:06.595698Z","service":"checkout-api","level":"INFO","message":"order 729908 placed in 103ms"}
+{"ts":"2026-03-14T12:12:32.197121Z","service":"payments-api","level":"INFO","message":"handled request 481272 in 23ms"}
+{"ts":"2026-03-14T12:13:15.135465Z","service":"checkout-api","level":"INFO","message":"order 464264 placed in 244ms"}
+{"ts":"2026-03-14T12:13:21.849806Z","service":"checkout-api","level":"INFO","message":"order 228809 placed in 119ms"}
+{"ts":"2026-03-14T12:13:29.030079Z","service":"inventory-api","level":"INFO","message":"handled request 190056 in 38ms"}
+{"ts":"2026-03-14T12:13:50.936216Z","service":"payments-api","level":"INFO","message":"handled request 588625 in 81ms"}
+{"ts":"2026-03-14T12:14:01.385743Z","service":"payments-api","level":"INFO","message":"handled request 653918 in 66ms"}
+{"ts":"2026-03-14T12:14:08.796152Z","service":"inventory-api","level":"INFO","message":"handled request 669557 in 23ms"}
+{"ts":"2026-03-14T12:14:20.558150Z","service":"checkout-api","level":"INFO","message":"order 377617 placed in 212ms"}
+{"ts":"2026-03-14T12:14:49.731323Z","service":"checkout-api","level":"INFO","message":"order 269280 placed in 222ms"}
+{"ts":"2026-03-14T12:15:17.885381Z","service":"checkout-api","level":"INFO","message":"order 774147 placed in 113ms"}
+{"ts":"2026-03-14T12:15:22.001988Z","service":"payments-api","level":"INFO","message":"handled request 275156 in 65ms"}
+{"ts":"2026-03-14T12:15:41.771807Z","service":"checkout-api","level":"INFO","message":"order 373799 placed in 222ms"}
+{"ts":"2026-03-14T12:15:46.316275Z","service":"inventory-api","level":"INFO","message":"handled request 658463 in 89ms"}
+{"ts":"2026-03-14T12:16:19.779900Z","service":"checkout-api","level":"INFO","message":"order 333876 placed in 246ms"}
+{"ts":"2026-03-14T12:16:44.392381Z","service":"inventory-api","level":"INFO","message":"handled request 337753 in 45ms"}
+{"ts":"2026-03-14T12:16:48.364715Z","service":"payments-api","level":"INFO","message":"handled request 958084 in 71ms"}
+{"ts":"2026-03-14T12:16:48.690675Z","service":"checkout-api","level":"INFO","message":"order 895158 placed in 139ms"}
+{"ts":"2026-03-14T12:17:11.618697Z","service":"payments-api","level":"INFO","message":"handled request 734534 in 64ms"}
+{"ts":"2026-03-14T12:17:21.333753Z","service":"checkout-api","level":"INFO","message":"order 130387 placed in 97ms"}
+{"ts":"2026-03-14T12:17:26.833661Z","service":"inventory-api","level":"INFO","message":"handled request 858254 in 64ms"}
+{"ts":"2026-03-14T12:17:47.406848Z","service":"checkout-api","level":"INFO","message":"order 595179 placed in 156ms"}
+{"ts":"2026-03-14T12:18:12.262402Z","service":"payments-api","level":"INFO","message":"handled request 754381 in 20ms"}
+{"ts":"2026-03-14T12:18:13.610750Z","service":"checkout-api","level":"INFO","message":"order 306261 placed in 176ms"}
+{"ts":"2026-03-14T12:18:21.878153Z","service":"checkout-api","level":"INFO","message":"order 331171 placed in 116ms"}
+{"ts":"2026-03-14T12:18:28.768406Z","service":"inventory-api","level":"INFO","message":"handled request 784697 in 64ms"}
+{"ts":"2026-03-14T12:19:05.086709Z","service":"checkout-api","level":"INFO","message":"order 792674 placed in 120ms"}
+{"ts":"2026-03-14T12:19:28.681965Z","service":"payments-api","level":"INFO","message":"handled request 287193 in 75ms"}
+{"ts":"2026-03-14T12:19:47.348126Z","service":"inventory-api","level":"INFO","message":"handled request 448669 in 31ms"}
+{"ts":"2026-03-14T12:19:54.586628Z","service":"checkout-api","level":"INFO","message":"order 920304 placed in 141ms"}
+{"ts":"2026-03-14T12:20:09.069042Z","service":"inventory-api","level":"INFO","message":"handled request 587958 in 38ms"}
+{"ts":"2026-03-14T12:20:10.200220Z","service":"payments-api","level":"INFO","message":"handled request 233209 in 23ms"}
+{"ts":"2026-03-14T12:20:24.083209Z","service":"checkout-api","level":"INFO","message":"order 189044 placed in 130ms"}
+{"ts":"2026-03-14T12:20:58.299437Z","service":"checkout-api","level":"INFO","message":"order 515066 placed in 208ms"}
+{"ts":"2026-03-14T12:21:32.897134Z","service":"payments-api","level":"INFO","message":"handled request 122436 in 21ms"}
+{"ts":"2026-03-14T12:21:35.752215Z","service":"checkout-api","level":"INFO","message":"order 597399 placed in 258ms"}
+{"ts":"2026-03-14T12:21:47.961421Z","service":"inventory-api","level":"INFO","message":"handled request 861654 in 33ms"}
+{"ts":"2026-03-14T12:21:56.248051Z","service":"checkout-api","level":"INFO","message":"order 263486 placed in 230ms"}
+{"ts":"2026-03-14T12:22:14.432364Z","service":"inventory-api","level":"INFO","message":"handled request 714923 in 61ms"}
+{"ts":"2026-03-14T12:22:15.110089Z","service":"payments-api","level":"INFO","message":"handled request 407197 in 84ms"}
+{"ts":"2026-03-14T12:22:49.569315Z","service":"checkout-api","level":"INFO","message":"order 321293 placed in 97ms"}
+{"ts":"2026-03-14T12:22:56.017488Z","service":"checkout-api","level":"INFO","message":"order 554882 placed in 139ms"}
+{"ts":"2026-03-14T12:23:25.140753Z","service":"checkout-api","level":"INFO","message":"order 237440 placed in 105ms"}
+{"ts":"2026-03-14T12:23:25.237696Z","service":"inventory-api","level":"INFO","message":"handled request 626017 in 36ms"}
+{"ts":"2026-03-14T12:23:39.748490Z","service":"payments-api","level":"INFO","message":"handled request 954638 in 86ms"}
+{"ts":"2026-03-14T12:23:54.601023Z","service":"checkout-api","level":"INFO","message":"order 470969 placed in 207ms"}
+{"ts":"2026-03-14T12:24:08.493538Z","service":"inventory-api","level":"INFO","message":"handled request 749174 in 35ms"}
+{"ts":"2026-03-14T12:24:31.410395Z","service":"checkout-api","level":"INFO","message":"order 119613 placed in 202ms"}
+{"ts":"2026-03-14T12:24:46.562338Z","service":"payments-api","level":"INFO","message":"handled request 257079 in 42ms"}
+{"ts":"2026-03-14T12:24:46.590369Z","service":"checkout-api","level":"INFO","message":"order 738115 placed in 91ms"}
+{"ts":"2026-03-14T12:25:11.478368Z","service":"inventory-api","level":"INFO","message":"handled request 144248 in 32ms"}
+{"ts":"2026-03-14T12:25:19.558929Z","service":"checkout-api","level":"INFO","message":"order 643528 placed in 225ms"}
+{"ts":"2026-03-14T12:25:33.326512Z","service":"checkout-api","level":"INFO","message":"order 922369 placed in 117ms"}
+{"ts":"2026-03-14T12:25:52.993669Z","service":"payments-api","level":"INFO","message":"handled request 159582 in 51ms"}
+{"ts":"2026-03-14T12:26:26.594904Z","service":"checkout-api","level":"INFO","message":"order 742282 placed in 219ms"}
+{"ts":"2026-03-14T12:26:27.140748Z","service":"inventory-api","level":"INFO","message":"handled request 659190 in 81ms"}
+{"ts":"2026-03-14T12:26:33.703763Z","service":"checkout-api","level":"INFO","message":"order 896910 placed in 106ms"}
+{"ts":"2026-03-14T12:26:36.368261Z","service":"payments-api","level":"INFO","message":"handled request 309089 in 55ms"}
+{"ts":"2026-03-14T12:27:08.228066Z","service":"payments-api","level":"INFO","message":"handled request 227529 in 70ms"}
+{"ts":"2026-03-14T12:27:14.859348Z","service":"checkout-api","level":"INFO","message":"order 648625 placed in 156ms"}
+{"ts":"2026-03-14T12:27:26.527085Z","service":"inventory-api","level":"INFO","message":"handled request 176070 in 50ms"}
+{"ts":"2026-03-14T12:27:55.367053Z","service":"checkout-api","level":"INFO","message":"order 312429 placed in 204ms"}
+{"ts":"2026-03-14T12:28:12.761388Z","service":"checkout-api","level":"INFO","message":"order 417487 placed in 121ms"}
+{"ts":"2026-03-14T12:28:39.615391Z","service":"payments-api","level":"INFO","message":"handled request 249924 in 52ms"}
+{"ts":"2026-03-14T12:28:52.969970Z","service":"inventory-api","level":"INFO","message":"handled request 590456 in 48ms"}
+{"ts":"2026-03-14T12:28:53.821586Z","service":"checkout-api","level":"INFO","message":"order 261949 placed in 254ms"}
+{"ts":"2026-03-14T12:29:05.647527Z","service":"checkout-api","level":"INFO","message":"order 610929 placed in 131ms"}
+{"ts":"2026-03-14T12:29:09.687964Z","service":"payments-api","level":"INFO","message":"handled request 552483 in 85ms"}
+{"ts":"2026-03-14T12:29:24.228585Z","service":"inventory-api","level":"INFO","message":"handled request 541740 in 45ms"}
+{"ts":"2026-03-14T12:29:59.392287Z","service":"checkout-api","level":"INFO","message":"order 972881 placed in 147ms"}
+{"ts":"2026-03-14T12:30:05.531642Z","service":"checkout-api","level":"INFO","message":"order 483729 placed in 94ms"}
+{"ts":"2026-03-14T12:30:20.278781Z","service":"checkout-api","level":"INFO","message":"order 580951 placed in 202ms"}
+{"ts":"2026-03-14T12:30:31.046031Z","service":"inventory-api","level":"INFO","message":"handled request 409806 in 85ms"}
+{"ts":"2026-03-14T12:30:42.189083Z","service":"payments-api","level":"INFO","message":"handled request 503014 in 62ms"}
+{"ts":"2026-03-14T12:31:06.770997Z","service":"checkout-api","level":"INFO","message":"order 926658 placed in 148ms"}
+{"ts":"2026-03-14T12:31:15.933856Z","service":"payments-api","level":"INFO","message":"handled request 141511 in 43ms"}
+{"ts":"2026-03-14T12:31:16.226766Z","service":"inventory-api","level":"INFO","message":"handled request 235848 in 74ms"}
+{"ts":"2026-03-14T12:31:58.301758Z","service":"checkout-api","level":"INFO","message":"order 209869 placed in 111ms"}
+{"ts":"2026-03-14T12:32:08.962077Z","service":"checkout-api","level":"INFO","message":"order 639788 placed in 236ms"}
+{"ts":"2026-03-14T12:32:16.743738Z","service":"inventory-api","level":"INFO","message":"handled request 938428 in 43ms"}
+{"ts":"2026-03-14T12:32:29.676723Z","service":"payments-api","level":"INFO","message":"handled request 442935 in 31ms"}
+{"ts":"2026-03-14T12:32:40.558418Z","service":"checkout-api","level":"INFO","message":"order 371171 placed in 193ms"}
+{"ts":"2026-03-14T12:33:04.344846Z","service":"checkout-api","level":"INFO","message":"order 117649 placed in 252ms"}
+{"ts":"2026-03-14T12:33:05.313955Z","service":"checkout-api","level":"INFO","message":"order 373208 placed in 111ms"}
+{"ts":"2026-03-14T12:33:15.867060Z","service":"inventory-api","level":"INFO","message":"handled request 227588 in 78ms"}
+{"ts":"2026-03-14T12:33:36.490645Z","service":"payments-api","level":"INFO","message":"handled request 333211 in 28ms"}
+{"ts":"2026-03-14T12:33:59.658353Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 538053: SMTP timeout after 7s"}
+{"ts":"2026-03-14T12:34:15.713718Z","service":"payments-api","level":"INFO","message":"handled request 289945 in 45ms"}
+{"ts":"2026-03-14T12:34:37.302207Z","service":"checkout-api","level":"INFO","message":"order 145304 placed in 224ms"}
+{"ts":"2026-03-14T12:34:42.572203Z","service":"checkout-api","level":"INFO","message":"order 214768 placed in 131ms"}
+{"ts":"2026-03-14T12:34:55.934813Z","service":"inventory-api","level":"INFO","message":"handled request 759209 in 59ms"}
+{"ts":"2026-03-14T12:35:00.920767Z","service":"inventory-api","level":"INFO","message":"handled request 868690 in 84ms"}
+{"ts":"2026-03-14T12:35:12.352293Z","service":"checkout-api","level":"INFO","message":"order 567336 placed in 218ms"}
+{"ts":"2026-03-14T12:35:40.329432Z","service":"checkout-api","level":"INFO","message":"order 383663 placed in 178ms"}
+{"ts":"2026-03-14T12:35:48.220737Z","service":"payments-api","level":"INFO","message":"handled request 362614 in 24ms"}
+{"ts":"2026-03-14T12:36:11.367390Z","service":"checkout-api","level":"INFO","message":"order 597822 placed in 152ms"}
+{"ts":"2026-03-14T12:36:32.754375Z","service":"inventory-api","level":"INFO","message":"handled request 512180 in 84ms"}
+{"ts":"2026-03-14T12:36:49.135208Z","service":"payments-api","level":"INFO","message":"handled request 553171 in 83ms"}
+{"ts":"2026-03-14T12:36:56.078570Z","service":"checkout-api","level":"INFO","message":"order 211444 placed in 258ms"}
+{"ts":"2026-03-14T12:37:08.383129Z","service":"payments-api","level":"INFO","message":"handled request 464434 in 26ms"}
+{"ts":"2026-03-14T12:37:11.917469Z","service":"checkout-api","level":"INFO","message":"order 841055 placed in 252ms"}
+{"ts":"2026-03-14T12:37:12.910867Z","service":"checkout-api","level":"INFO","message":"order 340717 placed in 177ms"}
+{"ts":"2026-03-14T12:37:50.219300Z","service":"inventory-api","level":"INFO","message":"handled request 114947 in 29ms"}
+{"ts":"2026-03-14T12:38:03.324065Z","service":"checkout-api","level":"INFO","message":"order 797541 placed in 187ms"}
+{"ts":"2026-03-14T12:38:11.121122Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 382105: SMTP timeout after 8s"}
+{"ts":"2026-03-14T12:38:35.926705Z","service":"inventory-api","level":"INFO","message":"handled request 826333 in 57ms"}
+{"ts":"2026-03-14T12:38:52.232269Z","service":"payments-api","level":"INFO","message":"handled request 803115 in 56ms"}
+{"ts":"2026-03-14T12:38:52.791256Z","service":"checkout-api","level":"INFO","message":"order 551664 placed in 131ms"}
+{"ts":"2026-03-14T12:39:00.217363Z","service":"checkout-api","level":"INFO","message":"order 481829 placed in 174ms"}
+{"ts":"2026-03-14T12:39:14.666790Z","service":"payments-api","level":"INFO","message":"handled request 424584 in 47ms"}
+{"ts":"2026-03-14T12:39:21.395035Z","service":"inventory-api","level":"INFO","message":"handled request 101120 in 62ms"}
+{"ts":"2026-03-14T12:39:58.357380Z","service":"checkout-api","level":"INFO","message":"order 673648 placed in 172ms"}
+{"ts":"2026-03-14T12:40:05.451102Z","service":"payments-api","level":"INFO","message":"handled request 956733 in 31ms"}
+{"ts":"2026-03-14T12:40:08.631908Z","service":"inventory-api","level":"INFO","message":"handled request 715305 in 25ms"}
+{"ts":"2026-03-14T12:40:12.058803Z","service":"checkout-api","level":"INFO","message":"order 629253 placed in 91ms"}
+{"ts":"2026-03-14T12:40:28.478618Z","service":"checkout-api","level":"INFO","message":"order 627186 placed in 257ms"}
+{"ts":"2026-03-14T12:41:05.068963Z","service":"checkout-api","level":"INFO","message":"order 654895 placed in 129ms"}
+{"ts":"2026-03-14T12:41:17.978764Z","service":"checkout-api","level":"INFO","message":"order 760256 placed in 149ms"}
+{"ts":"2026-03-14T12:41:39.452620Z","service":"payments-api","level":"INFO","message":"handled request 850773 in 69ms"}
+{"ts":"2026-03-14T12:41:45.858681Z","service":"inventory-api","level":"INFO","message":"handled request 855684 in 83ms"}
+{"ts":"2026-03-14T12:42:02.627284Z","service":"checkout-api","level":"INFO","message":"order 975864 placed in 221ms"}
+{"ts":"2026-03-14T12:42:08.358457Z","service":"inventory-api","level":"INFO","message":"handled request 649199 in 84ms"}
+{"ts":"2026-03-14T12:42:37.639927Z","service":"payments-api","level":"INFO","message":"handled request 869499 in 84ms"}
+{"ts":"2026-03-14T12:42:43.449346Z","service":"checkout-api","level":"INFO","message":"order 774464 placed in 127ms"}
+{"ts":"2026-03-14T12:43:07.985592Z","service":"inventory-api","level":"INFO","message":"handled request 478229 in 33ms"}
+{"ts":"2026-03-14T12:43:13.796443Z","service":"payments-api","level":"INFO","message":"handled request 132674 in 25ms"}
+{"ts":"2026-03-14T12:43:47.878031Z","service":"checkout-api","level":"INFO","message":"order 845732 placed in 254ms"}
+{"ts":"2026-03-14T12:43:48.774324Z","service":"checkout-api","level":"INFO","message":"order 116860 placed in 239ms"}
+{"ts":"2026-03-14T12:44:01.130441Z","service":"checkout-api","level":"INFO","message":"order 657259 placed in 152ms"}
+{"ts":"2026-03-14T12:44:27.083171Z","service":"checkout-api","level":"INFO","message":"order 153247 placed in 250ms"}
+{"ts":"2026-03-14T12:44:29.357659Z","service":"payments-api","level":"INFO","message":"handled request 103475 in 78ms"}
+{"ts":"2026-03-14T12:44:47.861853Z","service":"inventory-api","level":"INFO","message":"handled request 884613 in 84ms"}
+{"ts":"2026-03-14T12:45:05.516516Z","service":"checkout-api","level":"INFO","message":"order 651540 placed in 106ms"}
+{"ts":"2026-03-14T12:45:14.087137Z","service":"inventory-api","level":"INFO","message":"handled request 893186 in 46ms"}
+{"ts":"2026-03-14T12:45:44.743675Z","service":"checkout-api","level":"INFO","message":"order 596876 placed in 154ms"}
+{"ts":"2026-03-14T12:45:48.553127Z","service":"payments-api","level":"INFO","message":"handled request 987235 in 53ms"}
+{"ts":"2026-03-14T12:46:37.018441Z","service":"inventory-api","level":"INFO","message":"handled request 773985 in 45ms"}
+{"ts":"2026-03-14T12:46:38.995937Z","service":"checkout-api","level":"INFO","message":"order 582701 placed in 216ms"}
+{"ts":"2026-03-14T12:46:50.731875Z","service":"checkout-api","level":"INFO","message":"order 180467 placed in 212ms"}
+{"ts":"2026-03-14T12:46:54.628000Z","service":"payments-api","level":"INFO","message":"handled request 401275 in 25ms"}
+{"ts":"2026-03-14T12:47:03.639661Z","service":"inventory-api","level":"INFO","message":"handled request 381828 in 32ms"}
+{"ts":"2026-03-14T12:47:08.845504Z","service":"checkout-api","level":"INFO","message":"order 366275 placed in 256ms"}
+{"ts":"2026-03-14T12:47:34.065702Z","service":"payments-api","level":"INFO","message":"handled request 113074 in 81ms"}
+{"ts":"2026-03-14T12:47:44.593035Z","service":"checkout-api","level":"INFO","message":"order 419204 placed in 249ms"}
+{"ts":"2026-03-14T12:48:17.132613Z","service":"checkout-api","level":"INFO","message":"order 588529 placed in 209ms"}
+{"ts":"2026-03-14T12:48:18.700480Z","service":"inventory-api","level":"INFO","message":"handled request 190024 in 80ms"}
+{"ts":"2026-03-14T12:48:27.538249Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 959725: SMTP timeout after 9s"}
+{"ts":"2026-03-14T12:48:40.542459Z","service":"checkout-api","level":"INFO","message":"order 404985 placed in 222ms"}
+{"ts":"2026-03-14T12:48:46.030186Z","service":"payments-api","level":"INFO","message":"handled request 675748 in 45ms"}
+{"ts":"2026-03-14T12:49:15.708538Z","service":"inventory-api","level":"INFO","message":"handled request 477019 in 36ms"}
+{"ts":"2026-03-14T12:49:23.210901Z","service":"checkout-api","level":"INFO","message":"order 320944 placed in 109ms"}
+{"ts":"2026-03-14T12:49:34.888342Z","service":"payments-api","level":"INFO","message":"handled request 248625 in 87ms"}
+{"ts":"2026-03-14T12:49:58.086495Z","service":"checkout-api","level":"INFO","message":"order 571283 placed in 158ms"}
+{"ts":"2026-03-14T12:50:01.490064Z","service":"inventory-api","level":"INFO","message":"handled request 103764 in 82ms"}
+{"ts":"2026-03-14T12:50:37.900092Z","service":"checkout-api","level":"INFO","message":"order 393148 placed in 118ms"}
+{"ts":"2026-03-14T12:50:42.200222Z","service":"checkout-api","level":"INFO","message":"order 342623 placed in 217ms"}
+{"ts":"2026-03-14T12:50:53.862342Z","service":"payments-api","level":"INFO","message":"handled request 609755 in 70ms"}
+{"ts":"2026-03-14T12:51:07.254561Z","service":"payments-api","level":"INFO","message":"handled request 447418 in 20ms"}
+{"ts":"2026-03-14T12:51:19.472855Z","service":"inventory-api","level":"INFO","message":"handled request 454704 in 70ms"}
+{"ts":"2026-03-14T12:51:24.325160Z","service":"checkout-api","level":"INFO","message":"order 862506 placed in 126ms"}
+{"ts":"2026-03-14T12:51:24.970872Z","service":"checkout-api","level":"INFO","message":"order 494375 placed in 170ms"}
+{"ts":"2026-03-14T12:52:22.333320Z","service":"payments-api","level":"INFO","message":"handled request 511984 in 69ms"}
+{"ts":"2026-03-14T12:52:54.093994Z","service":"checkout-api","level":"INFO","message":"order 403911 placed in 154ms"}
+{"ts":"2026-03-14T12:52:55.583932Z","service":"checkout-api","level":"INFO","message":"order 847659 placed in 93ms"}
+{"ts":"2026-03-14T12:52:59.927550Z","service":"inventory-api","level":"INFO","message":"handled request 717796 in 29ms"}
+{"ts":"2026-03-14T12:53:16.838262Z","service":"checkout-api","level":"INFO","message":"order 154124 placed in 259ms"}
+{"ts":"2026-03-14T12:53:17.137391Z","service":"payments-api","level":"INFO","message":"handled request 256148 in 51ms"}
+{"ts":"2026-03-14T12:53:25.683165Z","service":"checkout-api","level":"INFO","message":"order 388521 placed in 102ms"}
+{"ts":"2026-03-14T12:53:58.262316Z","service":"inventory-api","level":"INFO","message":"handled request 557431 in 85ms"}
+{"ts":"2026-03-14T12:54:12.206149Z","service":"inventory-api","level":"INFO","message":"handled request 184491 in 26ms"}
+{"ts":"2026-03-14T12:54:24.002500Z","service":"payments-api","level":"INFO","message":"handled request 681071 in 90ms"}
+{"ts":"2026-03-14T12:54:46.391018Z","service":"checkout-api","level":"INFO","message":"order 923281 placed in 199ms"}
+{"ts":"2026-03-14T12:54:53.055993Z","service":"checkout-api","level":"INFO","message":"order 951404 placed in 251ms"}
+{"ts":"2026-03-14T12:55:02.938614Z","service":"payments-api","level":"INFO","message":"handled request 676830 in 36ms"}
+{"ts":"2026-03-14T12:55:10.245768Z","service":"inventory-api","level":"INFO","message":"handled request 535019 in 63ms"}
+{"ts":"2026-03-14T12:55:24.653161Z","service":"checkout-api","level":"INFO","message":"order 744784 placed in 125ms"}
+{"ts":"2026-03-14T12:55:38.669443Z","service":"checkout-api","level":"INFO","message":"order 400111 placed in 214ms"}
+{"ts":"2026-03-14T12:56:07.184551Z","service":"inventory-api","level":"INFO","message":"handled request 774449 in 40ms"}
+{"ts":"2026-03-14T12:56:15.344567Z","service":"checkout-api","level":"INFO","message":"order 874630 placed in 257ms"}
+{"ts":"2026-03-14T12:56:15.610143Z","service":"checkout-api","level":"INFO","message":"order 787860 placed in 151ms"}
+{"ts":"2026-03-14T12:56:18.050177Z","service":"payments-api","level":"INFO","message":"handled request 684394 in 70ms"}
+{"ts":"2026-03-14T12:57:08.375764Z","service":"inventory-api","level":"INFO","message":"handled request 301753 in 51ms"}
+{"ts":"2026-03-14T12:57:30.036288Z","service":"checkout-api","level":"INFO","message":"order 951261 placed in 217ms"}
+{"ts":"2026-03-14T12:57:33.023193Z","service":"checkout-api","level":"INFO","message":"order 574990 placed in 175ms"}
+{"ts":"2026-03-14T12:57:59.788507Z","service":"payments-api","level":"INFO","message":"handled request 571817 in 74ms"}
+{"ts":"2026-03-14T12:58:12.128511Z","service":"payments-api","level":"INFO","message":"handled request 121057 in 72ms"}
+{"ts":"2026-03-14T12:58:14.347595Z","service":"checkout-api","level":"INFO","message":"order 370907 placed in 235ms"}
+{"ts":"2026-03-14T12:58:20.517314Z","service":"checkout-api","level":"INFO","message":"order 195519 placed in 171ms"}
+{"ts":"2026-03-14T12:58:22.970273Z","service":"inventory-api","level":"INFO","message":"handled request 882070 in 87ms"}
+{"ts":"2026-03-14T12:59:07.552428Z","service":"payments-api","level":"INFO","message":"handled request 627848 in 87ms"}
+{"ts":"2026-03-14T12:59:16.214391Z","service":"checkout-api","level":"INFO","message":"order 888645 placed in 105ms"}
+{"ts":"2026-03-14T12:59:29.888754Z","service":"checkout-api","level":"INFO","message":"order 702177 placed in 182ms"}
+{"ts":"2026-03-14T12:59:37.777614Z","service":"inventory-api","level":"INFO","message":"handled request 989855 in 47ms"}
+{"ts":"2026-03-14T13:00:01.934610Z","service":"inventory-api","level":"INFO","message":"handled request 843977 in 80ms"}
+{"ts":"2026-03-14T13:00:38.747503Z","service":"checkout-api","level":"INFO","message":"order 552813 placed in 169ms"}
+{"ts":"2026-03-14T13:00:50.921021Z","service":"payments-api","level":"INFO","message":"handled request 122869 in 36ms"}
+{"ts":"2026-03-14T13:00:53.807408Z","service":"checkout-api","level":"INFO","message":"order 503241 placed in 192ms"}
+{"ts":"2026-03-14T13:01:29.389462Z","service":"checkout-api","level":"INFO","message":"order 176690 placed in 190ms"}
+{"ts":"2026-03-14T13:01:46.986431Z","service":"inventory-api","level":"INFO","message":"handled request 334671 in 39ms"}
+{"ts":"2026-03-14T13:01:51.327760Z","service":"payments-api","level":"INFO","message":"handled request 570758 in 51ms"}
+{"ts":"2026-03-14T13:01:55.814310Z","service":"checkout-api","level":"INFO","message":"order 965693 placed in 225ms"}
+{"ts":"2026-03-14T13:02:33.090055Z","service":"payments-api","level":"INFO","message":"handled request 141467 in 20ms"}
+{"ts":"2026-03-14T13:02:46.937917Z","service":"inventory-api","level":"INFO","message":"handled request 343874 in 24ms"}
+{"ts":"2026-03-14T13:02:50.790511Z","service":"checkout-api","level":"INFO","message":"order 579540 placed in 111ms"}
+{"ts":"2026-03-14T13:02:58.313251Z","service":"checkout-api","level":"INFO","message":"order 214179 placed in 255ms"}
+{"ts":"2026-03-14T13:03:04.221115Z","service":"inventory-api","level":"INFO","message":"handled request 649911 in 44ms"}
+{"ts":"2026-03-14T13:03:15.107637Z","service":"checkout-api","level":"INFO","message":"order 767199 placed in 201ms"}
+{"ts":"2026-03-14T13:03:18.226936Z","service":"checkout-api","level":"INFO","message":"order 234182 placed in 250ms"}
+{"ts":"2026-03-14T13:03:41.914915Z","service":"payments-api","level":"INFO","message":"handled request 217579 in 32ms"}
+{"ts":"2026-03-14T13:04:00.627698Z","service":"checkout-api","level":"INFO","message":"order 416167 placed in 207ms"}
+{"ts":"2026-03-14T13:04:13.414982Z","service":"checkout-api","level":"INFO","message":"order 730258 placed in 90ms"}
+{"ts":"2026-03-14T13:04:16.716219Z","service":"payments-api","level":"INFO","message":"handled request 431724 in 51ms"}
+{"ts":"2026-03-14T13:04:28.518253Z","service":"inventory-api","level":"INFO","message":"handled request 346172 in 90ms"}
+{"ts":"2026-03-14T13:05:04.865524Z","service":"inventory-api","level":"INFO","message":"handled request 338908 in 74ms"}
+{"ts":"2026-03-14T13:05:18.443870Z","service":"checkout-api","level":"INFO","message":"order 122845 placed in 139ms"}
+{"ts":"2026-03-14T13:05:29.898615Z","service":"payments-api","level":"INFO","message":"handled request 807225 in 73ms"}
+{"ts":"2026-03-14T13:05:57.636854Z","service":"checkout-api","level":"INFO","message":"order 838882 placed in 256ms"}
+{"ts":"2026-03-14T13:06:11.884778Z","service":"payments-api","level":"INFO","message":"handled request 935782 in 57ms"}
+{"ts":"2026-03-14T13:06:13.607164Z","service":"checkout-api","level":"INFO","message":"order 135753 placed in 176ms"}
+{"ts":"2026-03-14T13:06:43.099934Z","service":"checkout-api","level":"INFO","message":"order 479919 placed in 191ms"}
+{"ts":"2026-03-14T13:06:44.347753Z","service":"inventory-api","level":"INFO","message":"handled request 629403 in 28ms"}
+{"ts":"2026-03-14T13:07:13.848529Z","service":"checkout-api","level":"INFO","message":"order 332199 placed in 157ms"}
+{"ts":"2026-03-14T13:07:45.628244Z","service":"payments-api","level":"INFO","message":"handled request 409259 in 33ms"}
+{"ts":"2026-03-14T13:07:57.115613Z","service":"inventory-api","level":"INFO","message":"handled request 619846 in 43ms"}
+{"ts":"2026-03-14T13:07:58.191523Z","service":"checkout-api","level":"INFO","message":"order 426857 placed in 139ms"}
+{"ts":"2026-03-14T13:08:03.261503Z","service":"payments-api","level":"INFO","message":"handled request 124776 in 38ms"}
+{"ts":"2026-03-14T13:08:24.923096Z","service":"inventory-api","level":"INFO","message":"handled request 844340 in 27ms"}
+{"ts":"2026-03-14T13:08:29.103164Z","service":"checkout-api","level":"INFO","message":"order 797611 placed in 104ms"}
+{"ts":"2026-03-14T13:08:56.925678Z","service":"checkout-api","level":"INFO","message":"order 253493 placed in 190ms"}
+{"ts":"2026-03-14T13:09:19.754566Z","service":"payments-api","level":"INFO","message":"handled request 294523 in 87ms"}
+{"ts":"2026-03-14T13:09:26.978518Z","service":"checkout-api","level":"INFO","message":"order 846622 placed in 170ms"}
+{"ts":"2026-03-14T13:09:43.963426Z","service":"checkout-api","level":"INFO","message":"order 183216 placed in 132ms"}
+{"ts":"2026-03-14T13:09:44.778507Z","service":"inventory-api","level":"INFO","message":"handled request 133442 in 59ms"}
+{"ts":"2026-03-14T13:10:04.694521Z","service":"payments-api","level":"INFO","message":"handled request 184686 in 64ms"}
+{"ts":"2026-03-14T13:10:22.717165Z","service":"checkout-api","level":"INFO","message":"order 492045 placed in 174ms"}
+{"ts":"2026-03-14T13:10:25.210990Z","service":"inventory-api","level":"INFO","message":"handled request 229717 in 46ms"}
+{"ts":"2026-03-14T13:10:26.546109Z","service":"checkout-api","level":"INFO","message":"order 214250 placed in 90ms"}
+{"ts":"2026-03-14T13:11:05.265616Z","service":"checkout-api","level":"INFO","message":"order 839515 placed in 211ms"}
+{"ts":"2026-03-14T13:11:11.581571Z","service":"inventory-api","level":"INFO","message":"handled request 481942 in 80ms"}
+{"ts":"2026-03-14T13:11:11.742950Z","service":"payments-api","level":"INFO","message":"handled request 667834 in 77ms"}
+{"ts":"2026-03-14T13:11:24.648110Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 951259: SMTP timeout after 8s"}
+{"ts":"2026-03-14T13:11:46.123925Z","service":"checkout-api","level":"INFO","message":"order 423694 placed in 200ms"}
+{"ts":"2026-03-14T13:12:02.438969Z","service":"checkout-api","level":"INFO","message":"order 136547 placed in 208ms"}
+{"ts":"2026-03-14T13:12:03.754797Z","service":"checkout-api","level":"INFO","message":"order 165015 placed in 155ms"}
+{"ts":"2026-03-14T13:12:11.696487Z","service":"payments-api","level":"INFO","message":"handled request 165904 in 63ms"}
+{"ts":"2026-03-14T13:12:21.778457Z","service":"inventory-api","level":"INFO","message":"handled request 451242 in 25ms"}
+{"ts":"2026-03-14T13:13:01.455402Z","service":"inventory-api","level":"INFO","message":"handled request 345226 in 33ms"}
+{"ts":"2026-03-14T13:13:17.844353Z","service":"checkout-api","level":"INFO","message":"order 856623 placed in 242ms"}
+{"ts":"2026-03-14T13:13:42.998145Z","service":"checkout-api","level":"INFO","message":"order 431857 placed in 160ms"}
+{"ts":"2026-03-14T13:13:54.987576Z","service":"payments-api","level":"INFO","message":"handled request 764776 in 28ms"}
+{"ts":"2026-03-14T13:14:00.522311Z","service":"inventory-api","level":"INFO","message":"handled request 874360 in 58ms"}
+{"ts":"2026-03-14T13:14:07.962436Z","service":"payments-api","level":"INFO","message":"handled request 620660 in 43ms"}
+{"ts":"2026-03-14T13:14:47.387931Z","service":"checkout-api","level":"INFO","message":"order 550822 placed in 216ms"}
+{"ts":"2026-03-14T13:14:57.406659Z","service":"checkout-api","level":"INFO","message":"order 914068 placed in 188ms"}
+{"ts":"2026-03-14T13:15:19.667989Z","service":"checkout-api","level":"INFO","message":"order 435071 placed in 207ms"}
+{"ts":"2026-03-14T13:15:21.711506Z","service":"payments-api","level":"INFO","message":"handled request 920247 in 30ms"}
+{"ts":"2026-03-14T13:15:30.713087Z","service":"inventory-api","level":"INFO","message":"handled request 510711 in 40ms"}
+{"ts":"2026-03-14T13:15:46.368563Z","service":"checkout-api","level":"INFO","message":"order 736752 placed in 150ms"}
+{"ts":"2026-03-14T13:16:03.883982Z","service":"checkout-api","level":"INFO","message":"order 135508 placed in 213ms"}
+{"ts":"2026-03-14T13:16:15.893479Z","service":"inventory-api","level":"INFO","message":"handled request 188166 in 46ms"}
+{"ts":"2026-03-14T13:16:33.155679Z","service":"checkout-api","level":"INFO","message":"order 441582 placed in 131ms"}
+{"ts":"2026-03-14T13:16:58.815346Z","service":"payments-api","level":"INFO","message":"handled request 210332 in 29ms"}
+{"ts":"2026-03-14T13:17:10.391512Z","service":"checkout-api","level":"INFO","message":"order 239388 placed in 196ms"}
+{"ts":"2026-03-14T13:17:27.655426Z","service":"payments-api","level":"INFO","message":"handled request 806854 in 50ms"}
+{"ts":"2026-03-14T13:17:29.908516Z","service":"checkout-api","level":"INFO","message":"order 844249 placed in 204ms"}
+{"ts":"2026-03-14T13:17:44.878623Z","service":"inventory-api","level":"INFO","message":"handled request 988130 in 35ms"}
+{"ts":"2026-03-14T13:18:11.951405Z","service":"payments-api","level":"INFO","message":"handled request 359448 in 43ms"}
+{"ts":"2026-03-14T13:18:14.720418Z","service":"inventory-api","level":"INFO","message":"handled request 260769 in 56ms"}
+{"ts":"2026-03-14T13:18:16.059953Z","service":"checkout-api","level":"INFO","message":"order 366397 placed in 156ms"}
+{"ts":"2026-03-14T13:18:17.635405Z","service":"checkout-api","level":"INFO","message":"order 392968 placed in 235ms"}
+{"ts":"2026-03-14T13:19:23.764176Z","service":"checkout-api","level":"INFO","message":"order 357896 placed in 219ms"}
+{"ts":"2026-03-14T13:19:31.578525Z","service":"payments-api","level":"INFO","message":"handled request 781197 in 32ms"}
+{"ts":"2026-03-14T13:19:34.696845Z","service":"checkout-api","level":"INFO","message":"order 442190 placed in 106ms"}
+{"ts":"2026-03-14T13:19:39.199593Z","service":"inventory-api","level":"INFO","message":"handled request 138821 in 33ms"}
+{"ts":"2026-03-14T13:19:52.969501Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 342340: SMTP timeout after 8s"}
+{"ts":"2026-03-14T13:20:13.973561Z","service":"checkout-api","level":"INFO","message":"order 152838 placed in 138ms"}
+{"ts":"2026-03-14T13:20:36.029599Z","service":"payments-api","level":"INFO","message":"handled request 968142 in 44ms"}
+{"ts":"2026-03-14T13:20:54.862533Z","service":"checkout-api","level":"INFO","message":"order 142322 placed in 165ms"}
+{"ts":"2026-03-14T13:20:55.810425Z","service":"inventory-api","level":"INFO","message":"handled request 490318 in 85ms"}
+{"ts":"2026-03-14T13:21:13.058725Z","service":"inventory-api","level":"INFO","message":"handled request 486618 in 63ms"}
+{"ts":"2026-03-14T13:21:26.946831Z","service":"checkout-api","level":"INFO","message":"order 372575 placed in 260ms"}
+{"ts":"2026-03-14T13:21:35.768824Z","service":"payments-api","level":"INFO","message":"handled request 750062 in 64ms"}
+{"ts":"2026-03-14T13:21:56.742125Z","service":"checkout-api","level":"INFO","message":"order 210918 placed in 253ms"}
+{"ts":"2026-03-14T13:22:12.238586Z","service":"checkout-api","level":"INFO","message":"order 367296 placed in 99ms"}
+{"ts":"2026-03-14T13:22:24.539694Z","service":"inventory-api","level":"INFO","message":"handled request 489870 in 43ms"}
+{"ts":"2026-03-14T13:22:35.965402Z","service":"checkout-api","level":"INFO","message":"order 783297 placed in 142ms"}
+{"ts":"2026-03-14T13:22:48.884623Z","service":"payments-api","level":"INFO","message":"handled request 958608 in 61ms"}
+{"ts":"2026-03-14T13:23:04.676086Z","service":"checkout-api","level":"INFO","message":"order 132995 placed in 216ms"}
+{"ts":"2026-03-14T13:23:06.083266Z","service":"payments-api","level":"INFO","message":"handled request 514498 in 90ms"}
+{"ts":"2026-03-14T13:23:09.273130Z","service":"inventory-api","level":"INFO","message":"handled request 659936 in 31ms"}
+{"ts":"2026-03-14T13:23:32.882690Z","service":"checkout-api","level":"INFO","message":"order 166344 placed in 194ms"}
+{"ts":"2026-03-14T13:24:23.866328Z","service":"checkout-api","level":"INFO","message":"order 384339 placed in 194ms"}
+{"ts":"2026-03-14T13:24:25.070723Z","service":"payments-api","level":"INFO","message":"handled request 153855 in 59ms"}
+{"ts":"2026-03-14T13:24:44.720254Z","service":"inventory-api","level":"INFO","message":"handled request 474532 in 73ms"}
+{"ts":"2026-03-14T13:24:59.294324Z","service":"checkout-api","level":"INFO","message":"order 800250 placed in 168ms"}
+{"ts":"2026-03-14T13:25:12.220030Z","service":"payments-api","level":"INFO","message":"handled request 106162 in 75ms"}
+{"ts":"2026-03-14T13:25:38.668693Z","service":"checkout-api","level":"INFO","message":"order 509711 placed in 193ms"}
+{"ts":"2026-03-14T13:25:51.854782Z","service":"checkout-api","level":"INFO","message":"order 941188 placed in 183ms"}
+{"ts":"2026-03-14T13:25:54.097835Z","service":"inventory-api","level":"INFO","message":"handled request 544339 in 34ms"}
+{"ts":"2026-03-14T13:26:03.101724Z","service":"payments-api","level":"INFO","message":"handled request 249418 in 70ms"}
+{"ts":"2026-03-14T13:26:05.341867Z","service":"inventory-api","level":"INFO","message":"handled request 752418 in 67ms"}
+{"ts":"2026-03-14T13:26:24.373061Z","service":"checkout-api","level":"INFO","message":"order 482444 placed in 207ms"}
+{"ts":"2026-03-14T13:26:46.383269Z","service":"checkout-api","level":"INFO","message":"order 236288 placed in 93ms"}
+{"ts":"2026-03-14T13:27:06.527571Z","service":"payments-api","level":"INFO","message":"handled request 614336 in 45ms"}
+{"ts":"2026-03-14T13:27:09.708883Z","service":"checkout-api","level":"INFO","message":"order 280129 placed in 107ms"}
+{"ts":"2026-03-14T13:27:10.301140Z","service":"checkout-api","level":"INFO","message":"order 464846 placed in 162ms"}
+{"ts":"2026-03-14T13:27:18.096917Z","service":"inventory-api","level":"INFO","message":"handled request 977964 in 25ms"}
+{"ts":"2026-03-14T13:28:28.964189Z","service":"checkout-api","level":"INFO","message":"order 155967 placed in 245ms"}
+{"ts":"2026-03-14T13:28:38.419466Z","service":"inventory-api","level":"INFO","message":"handled request 998197 in 48ms"}
+{"ts":"2026-03-14T13:28:54.253251Z","service":"payments-api","level":"INFO","message":"handled request 750476 in 40ms"}
+{"ts":"2026-03-14T13:28:55.570069Z","service":"checkout-api","level":"INFO","message":"order 506737 placed in 112ms"}
+{"ts":"2026-03-14T13:29:10.977933Z","service":"checkout-api","level":"INFO","message":"order 328733 placed in 100ms"}
+{"ts":"2026-03-14T13:29:23.014582Z","service":"inventory-api","level":"INFO","message":"handled request 229034 in 39ms"}
+{"ts":"2026-03-14T13:29:23.984735Z","service":"payments-api","level":"INFO","message":"handled request 643049 in 40ms"}
+{"ts":"2026-03-14T13:29:36.883746Z","service":"checkout-api","level":"INFO","message":"order 305639 placed in 211ms"}
+{"ts":"2026-03-14T13:30:23.390191Z","service":"inventory-api","level":"INFO","message":"handled request 577871 in 90ms"}
+{"ts":"2026-03-14T13:30:40.073786Z","service":"payments-api","level":"INFO","message":"handled request 439951 in 35ms"}
+{"ts":"2026-03-14T13:30:43.492961Z","service":"checkout-api","level":"INFO","message":"order 301951 placed in 100ms"}
+{"ts":"2026-03-14T13:30:53.031751Z","service":"checkout-api","level":"INFO","message":"order 983409 placed in 99ms"}
+{"ts":"2026-03-14T13:31:18.492697Z","service":"checkout-api","level":"INFO","message":"order 361366 placed in 198ms"}
+{"ts":"2026-03-14T13:31:23.352723Z","service":"payments-api","level":"INFO","message":"handled request 485299 in 77ms"}
+{"ts":"2026-03-14T13:31:30.214704Z","service":"inventory-api","level":"INFO","message":"handled request 287447 in 22ms"}
+{"ts":"2026-03-14T13:31:46.685170Z","service":"checkout-api","level":"INFO","message":"order 780555 placed in 197ms"}
+{"ts":"2026-03-14T13:31:59.168257Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 587874: SMTP timeout after 6s"}
+{"ts":"2026-03-14T13:32:21.514504Z","service":"inventory-api","level":"INFO","message":"handled request 483078 in 31ms"}
+{"ts":"2026-03-14T13:32:24.020541Z","service":"payments-api","level":"INFO","message":"handled request 170381 in 36ms"}
+{"ts":"2026-03-14T13:32:26.809132Z","service":"checkout-api","level":"INFO","message":"order 748623 placed in 207ms"}
+{"ts":"2026-03-14T13:32:50.192709Z","service":"checkout-api","level":"INFO","message":"order 949901 placed in 211ms"}
+{"ts":"2026-03-14T13:33:02.439098Z","service":"checkout-api","level":"INFO","message":"order 236599 placed in 111ms"}
+{"ts":"2026-03-14T13:33:04.798077Z","service":"inventory-api","level":"INFO","message":"handled request 888590 in 84ms"}
+{"ts":"2026-03-14T13:33:30.260524Z","service":"checkout-api","level":"INFO","message":"order 789014 placed in 100ms"}
+{"ts":"2026-03-14T13:33:55.327560Z","service":"payments-api","level":"INFO","message":"handled request 428965 in 85ms"}
+{"ts":"2026-03-14T13:34:01.551389Z","service":"checkout-api","level":"INFO","message":"order 169605 placed in 247ms"}
+{"ts":"2026-03-14T13:34:11.622438Z","service":"inventory-api","level":"INFO","message":"handled request 615763 in 56ms"}
+{"ts":"2026-03-14T13:34:39.164739Z","service":"checkout-api","level":"INFO","message":"order 922338 placed in 124ms"}
+{"ts":"2026-03-14T13:34:43.925063Z","service":"payments-api","level":"INFO","message":"handled request 954578 in 34ms"}
+{"ts":"2026-03-14T13:35:03.930973Z","service":"checkout-api","level":"INFO","message":"order 467942 placed in 246ms"}
+{"ts":"2026-03-14T13:35:45.370786Z","service":"payments-api","level":"INFO","message":"handled request 266479 in 61ms"}
+{"ts":"2026-03-14T13:35:53.792234Z","service":"inventory-api","level":"INFO","message":"handled request 388350 in 78ms"}
+{"ts":"2026-03-14T13:35:54.962473Z","service":"checkout-api","level":"INFO","message":"order 273131 placed in 146ms"}
+{"ts":"2026-03-14T13:36:11.936529Z","service":"inventory-api","level":"INFO","message":"handled request 523064 in 40ms"}
+{"ts":"2026-03-14T13:36:14.243951Z","service":"payments-api","level":"INFO","message":"handled request 490350 in 24ms"}
+{"ts":"2026-03-14T13:36:30.133076Z","service":"checkout-api","level":"INFO","message":"order 603429 placed in 143ms"}
+{"ts":"2026-03-14T13:36:35.513266Z","service":"checkout-api","level":"INFO","message":"order 745782 placed in 219ms"}
+{"ts":"2026-03-14T13:37:06.904722Z","service":"payments-api","level":"INFO","message":"handled request 656501 in 26ms"}
+{"ts":"2026-03-14T13:37:10.124523Z","service":"checkout-api","level":"INFO","message":"order 922995 placed in 157ms"}
+{"ts":"2026-03-14T13:37:16.691890Z","service":"checkout-api","level":"INFO","message":"order 443748 placed in 186ms"}
+{"ts":"2026-03-14T13:37:38.179121Z","service":"inventory-api","level":"INFO","message":"handled request 477255 in 77ms"}
+{"ts":"2026-03-14T13:38:22.544387Z","service":"inventory-api","level":"INFO","message":"handled request 486866 in 38ms"}
+{"ts":"2026-03-14T13:38:34.802621Z","service":"checkout-api","level":"INFO","message":"order 209690 placed in 154ms"}
+{"ts":"2026-03-14T13:38:44.275387Z","service":"payments-api","level":"INFO","message":"handled request 489510 in 53ms"}
+{"ts":"2026-03-14T13:38:59.577276Z","service":"checkout-api","level":"INFO","message":"order 760368 placed in 190ms"}
+{"ts":"2026-03-14T13:39:10.605364Z","service":"checkout-api","level":"INFO","message":"order 879715 placed in 102ms"}
+{"ts":"2026-03-14T13:39:16.117786Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2439"}
+{"ts":"2026-03-14T13:39:17.783004Z","service":"payments-api","level":"INFO","message":"handled request 641177 in 52ms"}
+{"ts":"2026-03-14T13:39:18.604347Z","service":"inventory-api","level":"INFO","message":"handled request 714329 in 60ms"}
+{"ts":"2026-03-14T13:39:23.904789Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5723"}
+{"ts":"2026-03-14T13:39:32.256159Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7009"}
+{"ts":"2026-03-14T13:39:38.241012Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4296"}
+{"ts":"2026-03-14T13:39:43.535731Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5704"}
+{"ts":"2026-03-14T13:39:45.878352Z","service":"checkout-api","level":"INFO","message":"order 563765 placed in 148ms"}
+{"ts":"2026-03-14T13:39:49.377137Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4630"}
+{"ts":"2026-03-14T13:40:00.156930Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 472205: SMTP timeout after 7s"}
+{"ts":"2026-03-14T13:40:01.820586Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6466"}
+{"ts":"2026-03-14T13:40:07.921398Z","service":"inventory-api","level":"INFO","message":"handled request 338299 in 25ms"}
+{"ts":"2026-03-14T13:40:13.028939Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9395"}
+{"ts":"2026-03-14T13:40:17.458297Z","service":"checkout-api","level":"INFO","message":"order 756008 placed in 200ms"}
+{"ts":"2026-03-14T13:40:25.061218Z","service":"payments-api","level":"INFO","message":"handled request 481785 in 26ms"}
+{"ts":"2026-03-14T13:40:27.575177Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6087"}
+{"ts":"2026-03-14T13:40:32.099837Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7495"}
+{"ts":"2026-03-14T13:40:32.224149Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8829"}
+{"ts":"2026-03-14T13:40:44.827187Z","service":"checkout-api","level":"INFO","message":"order 332403 placed in 128ms"}
+{"ts":"2026-03-14T13:41:00.164776Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:41:04.233260Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:41:06.381759Z","service":"checkout-api","level":"INFO","message":"order 474500 placed in 226ms"}
+{"ts":"2026-03-14T13:41:09.323721Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2094"}
+{"ts":"2026-03-14T13:41:12.834585Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:41:13.455538Z","service":"checkout-api","level":"INFO","message":"order 711939 placed in 167ms"}
+{"ts":"2026-03-14T13:41:17.375650Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1356"}
+{"ts":"2026-03-14T13:41:19.048408Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6332"}
+{"ts":"2026-03-14T13:41:20.735991Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4908"}
+{"ts":"2026-03-14T13:41:25.016127Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:41:25.842755Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:41:28.894752Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5666"}
+{"ts":"2026-03-14T13:41:35.345496Z","service":"payments-api","level":"INFO","message":"handled request 314102 in 66ms"}
+{"ts":"2026-03-14T13:41:37.435774Z","service":"inventory-api","level":"INFO","message":"handled request 597970 in 40ms"}
+{"ts":"2026-03-14T13:41:50.293275Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:41:51.648309Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4541"}
+{"ts":"2026-03-14T13:42:03.687802Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:42:08.681498Z","service":"payments-api","level":"INFO","message":"handled request 797798 in 54ms"}
+{"ts":"2026-03-14T13:42:20.462101Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2016"}
+{"ts":"2026-03-14T13:42:20.821863Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2789"}
+{"ts":"2026-03-14T13:42:22.274776Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:42:24.117173Z","service":"inventory-api","level":"INFO","message":"handled request 377075 in 21ms"}
+{"ts":"2026-03-14T13:42:24.505005Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6774"}
+{"ts":"2026-03-14T13:42:24.767035Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:42:27.051186Z","service":"checkout-api","level":"INFO","message":"order 166761 placed in 253ms"}
+{"ts":"2026-03-14T13:42:30.399342Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8207"}
+{"ts":"2026-03-14T13:42:30.630638Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3531"}
+{"ts":"2026-03-14T13:42:39.166925Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:42:49.252841Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 467350: SMTP timeout after 9s"}
+{"ts":"2026-03-14T13:42:53.155163Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:42:56.195455Z","service":"checkout-api","level":"INFO","message":"order 355420 placed in 128ms"}
+{"ts":"2026-03-14T13:43:00.254240Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2924"}
+{"ts":"2026-03-14T13:43:03.691711Z","service":"inventory-api","level":"INFO","message":"handled request 126450 in 71ms"}
+{"ts":"2026-03-14T13:43:05.000460Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:43:05.589042Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8786"}
+{"ts":"2026-03-14T13:43:11.906561Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5534"}
+{"ts":"2026-03-14T13:43:14.909821Z","service":"payments-api","level":"INFO","message":"handled request 100418 in 25ms"}
+{"ts":"2026-03-14T13:43:15.798540Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3085"}
+{"ts":"2026-03-14T13:43:24.286388Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2693"}
+{"ts":"2026-03-14T13:43:30.386660Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:43:33.126356Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:43:33.369891Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:43:38.736246Z","service":"checkout-api","level":"INFO","message":"order 565310 placed in 244ms"}
+{"ts":"2026-03-14T13:43:48.286186Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9483"}
+{"ts":"2026-03-14T13:43:50.886602Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:43:56.229427Z","service":"checkout-api","level":"INFO","message":"order 869153 placed in 216ms"}
+{"ts":"2026-03-14T13:43:57.112194Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:44:00.741006Z","service":"checkout-api","level":"INFO","message":"order 677684 placed in 258ms"}
+{"ts":"2026-03-14T13:44:09.552997Z","service":"checkout-api","level":"INFO","message":"order 916706 placed in 116ms"}
+{"ts":"2026-03-14T13:44:11.971096Z","service":"inventory-api","level":"INFO","message":"handled request 737621 in 84ms"}
+{"ts":"2026-03-14T13:44:22.318265Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8410"}
+{"ts":"2026-03-14T13:44:24.573116Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5576"}
+{"ts":"2026-03-14T13:44:33.223368Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:44:35.817941Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:44:36.448312Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:44:40.727432Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5719"}
+{"ts":"2026-03-14T13:44:42.498783Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:44:51.318363Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2819"}
+{"ts":"2026-03-14T13:44:56.025241Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:44:56.455236Z","service":"payments-api","level":"INFO","message":"handled request 249177 in 72ms"}
+{"ts":"2026-03-14T13:44:56.609255Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3451"}
+{"ts":"2026-03-14T13:45:01.637091Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:45:08.046907Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:45:13.082017Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:45:17.223628Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7400"}
+{"ts":"2026-03-14T13:45:22.383636Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5915"}
+{"ts":"2026-03-14T13:45:24.914671Z","service":"checkout-api","level":"INFO","message":"order 742969 placed in 134ms"}
+{"ts":"2026-03-14T13:45:26.303885Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:45:30.514561Z","service":"checkout-api","level":"INFO","message":"order 166864 placed in 166ms"}
+{"ts":"2026-03-14T13:45:30.935950Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7299"}
+{"ts":"2026-03-14T13:45:31.187758Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:45:37.557829Z","service":"payments-api","level":"INFO","message":"handled request 859489 in 81ms"}
+{"ts":"2026-03-14T13:45:38.114230Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1110"}
+{"ts":"2026-03-14T13:45:42.923917Z","service":"inventory-api","level":"INFO","message":"handled request 106657 in 68ms"}
+{"ts":"2026-03-14T13:45:46.280182Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9184"}
+{"ts":"2026-03-14T13:46:10.613497Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:46:13.556905Z","service":"payments-api","level":"INFO","message":"handled request 210395 in 53ms"}
+{"ts":"2026-03-14T13:46:13.937801Z","service":"inventory-api","level":"INFO","message":"handled request 140703 in 35ms"}
+{"ts":"2026-03-14T13:46:15.351576Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:46:17.877124Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3375"}
+{"ts":"2026-03-14T13:46:19.043375Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4975"}
+{"ts":"2026-03-14T13:46:21.168072Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:46:25.615977Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7176"}
+{"ts":"2026-03-14T13:46:33.211122Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:46:34.049404Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:46:34.149169Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:46:34.197044Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2440"}
+{"ts":"2026-03-14T13:46:44.505297Z","service":"checkout-api","level":"INFO","message":"order 574467 placed in 134ms"}
+{"ts":"2026-03-14T13:46:44.711247Z","service":"checkout-api","level":"INFO","message":"order 587866 placed in 110ms"}
+{"ts":"2026-03-14T13:46:48.312314Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6408"}
+{"ts":"2026-03-14T13:46:56.375277Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4347"}
+{"ts":"2026-03-14T13:47:01.503823Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5203"}
+{"ts":"2026-03-14T13:47:06.601582Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:47:17.629353Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9789"}
+{"ts":"2026-03-14T13:47:31.209626Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:47:32.576450Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:47:33.218162Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9148"}
+{"ts":"2026-03-14T13:47:33.227265Z","service":"payments-api","level":"INFO","message":"handled request 557234 in 86ms"}
+{"ts":"2026-03-14T13:47:38.200840Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:47:41.694963Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:47:42.701054Z","service":"checkout-api","level":"INFO","message":"order 378908 placed in 252ms"}
+{"ts":"2026-03-14T13:47:44.979244Z","service":"checkout-api","level":"INFO","message":"order 828874 placed in 157ms"}
+{"ts":"2026-03-14T13:47:45.480718Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9822"}
+{"ts":"2026-03-14T13:47:52.405729Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1175"}
+{"ts":"2026-03-14T13:47:58.313504Z","service":"inventory-api","level":"INFO","message":"handled request 409976 in 47ms"}
+{"ts":"2026-03-14T13:48:02.393861Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6752"}
+{"ts":"2026-03-14T13:48:07.895955Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:48:11.516219Z","service":"inventory-api","level":"INFO","message":"handled request 507589 in 62ms"}
+{"ts":"2026-03-14T13:48:22.903634Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6860"}
+{"ts":"2026-03-14T13:48:25.704993Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9474"}
+{"ts":"2026-03-14T13:48:26.640222Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1170"}
+{"ts":"2026-03-14T13:48:30.175242Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:48:30.445714Z","service":"checkout-api","level":"INFO","message":"order 278016 placed in 156ms"}
+{"ts":"2026-03-14T13:48:33.331476Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:48:39.954209Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:48:40.967364Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:48:42.754383Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8046"}
+{"ts":"2026-03-14T13:48:54.282151Z","service":"checkout-api","level":"INFO","message":"order 982610 placed in 141ms"}
+{"ts":"2026-03-14T13:48:56.681874Z","service":"payments-api","level":"INFO","message":"handled request 882396 in 61ms"}
+{"ts":"2026-03-14T13:49:22.766936Z","service":"checkout-api","level":"INFO","message":"order 993311 placed in 251ms"}
+{"ts":"2026-03-14T13:49:23.572548Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3526"}
+{"ts":"2026-03-14T13:49:24.079723Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9206"}
+{"ts":"2026-03-14T13:49:28.169577Z","service":"payments-api","level":"INFO","message":"handled request 980501 in 87ms"}
+{"ts":"2026-03-14T13:49:28.618728Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8211"}
+{"ts":"2026-03-14T13:49:30.291185Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:49:30.884597Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2621"}
+{"ts":"2026-03-14T13:49:32.004824Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:49:36.843769Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:49:41.857093Z","service":"inventory-api","level":"INFO","message":"handled request 999177 in 23ms"}
+{"ts":"2026-03-14T13:49:42.018786Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:49:48.816391Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:49:51.734304Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7901"}
+{"ts":"2026-03-14T13:49:55.300674Z","service":"checkout-api","level":"INFO","message":"order 797550 placed in 227ms"}
+{"ts":"2026-03-14T13:50:00.892061Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:50:02.776659Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:50:03.384207Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:50:08.675695Z","service":"inventory-api","level":"INFO","message":"handled request 128209 in 34ms"}
+{"ts":"2026-03-14T13:50:10.038473Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6211"}
+{"ts":"2026-03-14T13:50:21.559473Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2230"}
+{"ts":"2026-03-14T13:50:21.953816Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:50:35.119938Z","service":"payments-api","level":"INFO","message":"handled request 692659 in 41ms"}
+{"ts":"2026-03-14T13:50:40.664794Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2511"}
+{"ts":"2026-03-14T13:50:43.477399Z","service":"checkout-api","level":"INFO","message":"order 698045 placed in 168ms"}
+{"ts":"2026-03-14T13:50:45.568824Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:50:47.352144Z","service":"checkout-api","level":"INFO","message":"order 510583 placed in 249ms"}
+{"ts":"2026-03-14T13:50:48.570523Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9398"}
+{"ts":"2026-03-14T13:50:52.870204Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6624"}
+{"ts":"2026-03-14T13:51:08.304131Z","service":"payments-api","level":"INFO","message":"handled request 774805 in 25ms"}
+{"ts":"2026-03-14T13:51:12.218299Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4081"}
+{"ts":"2026-03-14T13:51:17.047671Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9382"}
+{"ts":"2026-03-14T13:51:27.030695Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:51:33.102005Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:51:36.524815Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:51:37.108754Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9586"}
+{"ts":"2026-03-14T13:51:38.568441Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5831"}
+{"ts":"2026-03-14T13:51:40.565366Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9337"}
+{"ts":"2026-03-14T13:51:41.596676Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:51:41.820463Z","service":"inventory-api","level":"INFO","message":"handled request 872575 in 25ms"}
+{"ts":"2026-03-14T13:51:42.044389Z","service":"checkout-api","level":"INFO","message":"order 132369 placed in 100ms"}
+{"ts":"2026-03-14T13:51:52.222843Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7895"}
+{"ts":"2026-03-14T13:51:53.421863Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:51:55.736930Z","service":"checkout-api","level":"INFO","message":"order 461615 placed in 126ms"}
+{"ts":"2026-03-14T13:52:03.537991Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2746"}
+{"ts":"2026-03-14T13:52:06.426953Z","service":"inventory-api","level":"INFO","message":"handled request 315716 in 46ms"}
+{"ts":"2026-03-14T13:52:07.216072Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:52:09.878698Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:52:20.767233Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1693"}
+{"ts":"2026-03-14T13:52:30.175038Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:52:35.428368Z","service":"checkout-api","level":"INFO","message":"order 481058 placed in 141ms"}
+{"ts":"2026-03-14T13:52:40.014557Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:52:40.674262Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1175"}
+{"ts":"2026-03-14T13:52:41.785504Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1064"}
+{"ts":"2026-03-14T13:52:46.312977Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6025"}
+{"ts":"2026-03-14T13:52:49.053698Z","service":"checkout-api","level":"INFO","message":"order 959374 placed in 226ms"}
+{"ts":"2026-03-14T13:52:49.478672Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:52:53.476813Z","service":"payments-api","level":"INFO","message":"handled request 169151 in 69ms"}
+{"ts":"2026-03-14T13:52:53.921488Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7513"}
+{"ts":"2026-03-14T13:53:02.065609Z","service":"checkout-api","level":"INFO","message":"order 988895 placed in 252ms"}
+{"ts":"2026-03-14T13:53:05.248183Z","service":"checkout-api","level":"INFO","message":"order 887927 placed in 251ms"}
+{"ts":"2026-03-14T13:53:05.859143Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:53:06.642598Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:53:07.959224Z","service":"inventory-api","level":"INFO","message":"handled request 930437 in 46ms"}
+{"ts":"2026-03-14T13:53:11.563044Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9156"}
+{"ts":"2026-03-14T13:53:19.248891Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:53:30.242953Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3354"}
+{"ts":"2026-03-14T13:53:34.468586Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1483"}
+{"ts":"2026-03-14T13:53:37.935553Z","service":"payments-api","level":"INFO","message":"handled request 600291 in 32ms"}
+{"ts":"2026-03-14T13:53:42.440607Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:53:45.215217Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5358"}
+{"ts":"2026-03-14T13:53:48.012850Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:53:51.222930Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9707"}
+{"ts":"2026-03-14T13:54:01.707208Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2247"}
+{"ts":"2026-03-14T13:54:08.546810Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9493"}
+{"ts":"2026-03-14T13:54:08.834395Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:54:10.027504Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9560"}
+{"ts":"2026-03-14T13:54:20.190949Z","service":"checkout-api","level":"INFO","message":"order 373845 placed in 95ms"}
+{"ts":"2026-03-14T13:54:20.836026Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:54:21.054048Z","service":"checkout-api","level":"INFO","message":"order 396320 placed in 102ms"}
+{"ts":"2026-03-14T13:54:24.172707Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2990"}
+{"ts":"2026-03-14T13:54:25.864845Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:54:26.269958Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:54:28.697209Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:54:42.945731Z","service":"payments-api","level":"INFO","message":"handled request 485901 in 61ms"}
+{"ts":"2026-03-14T13:54:44.658358Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2747"}
+{"ts":"2026-03-14T13:54:46.154250Z","service":"inventory-api","level":"INFO","message":"handled request 731251 in 84ms"}
+{"ts":"2026-03-14T13:54:47.080734Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:55:08.462916Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4903"}
+{"ts":"2026-03-14T13:55:17.258926Z","service":"checkout-api","level":"INFO","message":"order 881875 placed in 97ms"}
+{"ts":"2026-03-14T13:55:20.806074Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3775"}
+{"ts":"2026-03-14T13:55:27.490035Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8055"}
+{"ts":"2026-03-14T13:55:28.136500Z","service":"inventory-api","level":"INFO","message":"handled request 150454 in 88ms"}
+{"ts":"2026-03-14T13:55:31.117342Z","service":"payments-api","level":"INFO","message":"handled request 203074 in 64ms"}
+{"ts":"2026-03-14T13:55:31.659898Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:55:34.592948Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:55:38.225895Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6289"}
+{"ts":"2026-03-14T13:55:39.370459Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:55:44.772887Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:55:47.343351Z","service":"checkout-api","level":"INFO","message":"order 132766 placed in 201ms"}
+{"ts":"2026-03-14T13:55:47.428084Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2017"}
+{"ts":"2026-03-14T13:55:55.787469Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:56:03.215118Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7487"}
+{"ts":"2026-03-14T13:56:04.386708Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:56:17.300080Z","service":"inventory-api","level":"INFO","message":"handled request 886975 in 26ms"}
+{"ts":"2026-03-14T13:56:20.514942Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8370"}
+{"ts":"2026-03-14T13:56:25.850896Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4904"}
+{"ts":"2026-03-14T13:56:26.163449Z","service":"payments-api","level":"INFO","message":"handled request 648987 in 45ms"}
+{"ts":"2026-03-14T13:56:29.449380Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 615358: SMTP timeout after 6s"}
+{"ts":"2026-03-14T13:56:29.504362Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:56:34.260533Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1719"}
+{"ts":"2026-03-14T13:56:34.472455Z","service":"checkout-api","level":"INFO","message":"order 401056 placed in 133ms"}
+{"ts":"2026-03-14T13:56:35.277997Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:56:36.691367Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 1320"}
+{"ts":"2026-03-14T13:56:36.967457Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2032"}
+{"ts":"2026-03-14T13:56:42.863405Z","service":"checkout-api","level":"INFO","message":"order 968042 placed in 113ms"}
+{"ts":"2026-03-14T13:56:47.066715Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:56:48.115923Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:56:58.475710Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:57:02.585951Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3843"}
+{"ts":"2026-03-14T13:57:14.284158Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7386"}
+{"ts":"2026-03-14T13:57:17.856181Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5128"}
+{"ts":"2026-03-14T13:57:18.301910Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:57:18.509858Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8461"}
+{"ts":"2026-03-14T13:57:19.361215Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:57:23.132866Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:57:30.399445Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:57:34.680444Z","service":"payments-api","level":"INFO","message":"handled request 266613 in 56ms"}
+{"ts":"2026-03-14T13:57:40.743640Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:57:48.914457Z","service":"inventory-api","level":"INFO","message":"handled request 833457 in 49ms"}
+{"ts":"2026-03-14T13:57:56.449705Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 9119"}
+{"ts":"2026-03-14T13:57:57.432397Z","service":"checkout-api","level":"INFO","message":"order 640163 placed in 156ms"}
+{"ts":"2026-03-14T13:57:57.597038Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2106"}
+{"ts":"2026-03-14T13:57:58.029371Z","service":"checkout-api","level":"INFO","message":"order 721338 placed in 178ms"}
+{"ts":"2026-03-14T13:58:01.318678Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4987"}
+{"ts":"2026-03-14T13:58:02.566973Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:58:05.142980Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 3784"}
+{"ts":"2026-03-14T13:58:06.595395Z","service":"checkout-api","level":"INFO","message":"order 767451 placed in 110ms"}
+{"ts":"2026-03-14T13:58:18.178483Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8936"}
+{"ts":"2026-03-14T13:58:18.484354Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:58:21.073688Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4056"}
+{"ts":"2026-03-14T13:58:21.337024Z","service":"inventory-api","level":"INFO","message":"handled request 520762 in 70ms"}
+{"ts":"2026-03-14T13:58:27.504278Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:58:27.542236Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:58:29.417502Z","service":"checkout-api","level":"INFO","message":"order 831023 placed in 233ms"}
+{"ts":"2026-03-14T13:58:34.387428Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7774"}
+{"ts":"2026-03-14T13:58:47.215988Z","service":"payments-api","level":"INFO","message":"handled request 758434 in 61ms"}
+{"ts":"2026-03-14T13:58:48.167775Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:59:01.510442Z","service":"checkout-api","level":"INFO","message":"order 316129 placed in 167ms"}
+{"ts":"2026-03-14T13:59:02.668432Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:59:10.266287Z","service":"inventory-api","level":"INFO","message":"handled request 761383 in 49ms"}
+{"ts":"2026-03-14T13:59:14.625908Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T13:59:15.791725Z","service":"payments-api","level":"INFO","message":"handled request 671407 in 84ms"}
+{"ts":"2026-03-14T13:59:16.032812Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T13:59:19.626231Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:59:19.698854Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7317"}
+{"ts":"2026-03-14T13:59:19.749764Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2072"}
+{"ts":"2026-03-14T13:59:33.018201Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 2882"}
+{"ts":"2026-03-14T13:59:42.745430Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T13:59:44.713182Z","service":"checkout-api","level":"INFO","message":"order 542635 placed in 255ms"}
+{"ts":"2026-03-14T13:59:48.558526Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6754"}
+{"ts":"2026-03-14T13:59:51.879345Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7488"}
+{"ts":"2026-03-14T13:59:56.520242Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 7918"}
+{"ts":"2026-03-14T14:00:07.612831Z","service":"checkout-api","level":"INFO","message":"order 722946 placed in 244ms"}
+{"ts":"2026-03-14T14:00:16.674908Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4885"}
+{"ts":"2026-03-14T14:00:19.599612Z","service":"payments-api","level":"INFO","message":"handled request 262871 in 77ms"}
+{"ts":"2026-03-14T14:00:22.776979Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 8651"}
+{"ts":"2026-03-14T14:00:25.611895Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 5573"}
+{"ts":"2026-03-14T14:00:33.454897Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 3/3)"}
+{"ts":"2026-03-14T14:00:34.363426Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T14:00:38.777993Z","service":"checkout-api","level":"INFO","message":"order 465413 placed in 238ms"}
+{"ts":"2026-03-14T14:00:39.059336Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 6593"}
+{"ts":"2026-03-14T14:00:39.726011Z","service":"inventory-api","level":"INFO","message":"handled request 878030 in 61ms"}
+{"ts":"2026-03-14T14:00:47.326416Z","service":"payments-api","level":"ERROR","message":"bank gateway returned 503 for charge 4961"}
+{"ts":"2026-03-14T14:00:51.296103Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T14:00:53.805230Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}
+{"ts":"2026-03-14T14:00:58.291941Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 2/3)"}
+{"ts":"2026-03-14T14:00:58.340333Z","service":"checkout-api","level":"ERROR","message":"call to payments-api failed: 503 Service Unavailable (attempt 1/3)"}

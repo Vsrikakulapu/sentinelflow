@@ -1,0 +1,1 @@
+[{"id":"d-1","service":"checkout-api","version":"v2.40.3","deployed_at":"2026-03-14T10:42:00Z","kind":"code","summary":"Copy changes"},{"id":"d-2","service":"inventory-api","version":"v5.12.0","deployed_at":"2026-03-14T10:08:00Z","kind":"code","summary":"Dependency bumps"}]

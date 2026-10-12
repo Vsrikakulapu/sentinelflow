@@ -1,0 +1,552 @@
+{"ts":"2026-03-14T12:00:53.414635Z","service":"checkout-api","level":"INFO","message":"order 142450 placed in 156ms"}
+{"ts":"2026-03-14T12:00:55.094060Z","service":"payments-api","level":"INFO","message":"handled request 970163 in 58ms"}
+{"ts":"2026-03-14T12:00:57.927893Z","service":"checkout-api","level":"INFO","message":"order 609532 placed in 193ms"}
+{"ts":"2026-03-14T12:00:58.068000Z","service":"inventory-api","level":"INFO","message":"handled request 475441 in 47ms"}
+{"ts":"2026-03-14T12:01:16.910271Z","service":"checkout-api","level":"INFO","message":"order 892518 placed in 114ms"}
+{"ts":"2026-03-14T12:01:18.608854Z","service":"inventory-api","level":"INFO","message":"handled request 865284 in 29ms"}
+{"ts":"2026-03-14T12:01:37.102140Z","service":"checkout-api","level":"INFO","message":"order 362674 placed in 226ms"}
+{"ts":"2026-03-14T12:01:58.967129Z","service":"payments-api","level":"INFO","message":"handled request 949574 in 38ms"}
+{"ts":"2026-03-14T12:02:06.042072Z","service":"checkout-api","level":"INFO","message":"order 555262 placed in 170ms"}
+{"ts":"2026-03-14T12:02:28.620587Z","service":"inventory-api","level":"INFO","message":"handled request 646678 in 53ms"}
+{"ts":"2026-03-14T12:02:36.653218Z","service":"payments-api","level":"INFO","message":"handled request 314410 in 90ms"}
+{"ts":"2026-03-14T12:02:41.039036Z","service":"checkout-api","level":"INFO","message":"order 595077 placed in 233ms"}
+{"ts":"2026-03-14T12:03:00.068569Z","service":"payments-api","level":"INFO","message":"handled request 617553 in 62ms"}
+{"ts":"2026-03-14T12:03:14.634653Z","service":"inventory-api","level":"INFO","message":"handled request 441001 in 28ms"}
+{"ts":"2026-03-14T12:03:43.182281Z","service":"checkout-api","level":"INFO","message":"order 518196 placed in 250ms"}
+{"ts":"2026-03-14T12:03:55.107894Z","service":"checkout-api","level":"INFO","message":"order 114723 placed in 113ms"}
+{"ts":"2026-03-14T12:04:04.826749Z","service":"payments-api","level":"INFO","message":"handled request 435601 in 85ms"}
+{"ts":"2026-03-14T12:04:34.050644Z","service":"checkout-api","level":"INFO","message":"order 350206 placed in 126ms"}
+{"ts":"2026-03-14T12:04:48.190768Z","service":"checkout-api","level":"INFO","message":"order 569730 placed in 113ms"}
+{"ts":"2026-03-14T12:04:59.878298Z","service":"inventory-api","level":"INFO","message":"handled request 613054 in 33ms"}
+{"ts":"2026-03-14T12:05:17.465440Z","service":"checkout-api","level":"INFO","message":"order 230873 placed in 230ms"}
+{"ts":"2026-03-14T12:05:19.965031Z","service":"checkout-api","level":"INFO","message":"order 666528 placed in 142ms"}
+{"ts":"2026-03-14T12:05:35.257024Z","service":"inventory-api","level":"INFO","message":"handled request 566604 in 31ms"}
+{"ts":"2026-03-14T12:05:57.830313Z","service":"payments-api","level":"INFO","message":"handled request 732485 in 90ms"}
+{"ts":"2026-03-14T12:06:01.978345Z","service":"payments-api","level":"INFO","message":"handled request 788557 in 53ms"}
+{"ts":"2026-03-14T12:06:17.419770Z","service":"checkout-api","level":"INFO","message":"order 298591 placed in 137ms"}
+{"ts":"2026-03-14T12:06:23.094069Z","service":"checkout-api","level":"INFO","message":"order 703613 placed in 151ms"}
+{"ts":"2026-03-14T12:06:28.591860Z","service":"inventory-api","level":"INFO","message":"handled request 194187 in 36ms"}
+{"ts":"2026-03-14T12:07:16.538047Z","service":"inventory-api","level":"INFO","message":"handled request 951054 in 50ms"}
+{"ts":"2026-03-14T12:07:41.009903Z","service":"payments-api","level":"INFO","message":"handled request 978565 in 87ms"}
+{"ts":"2026-03-14T12:07:53.890387Z","service":"checkout-api","level":"INFO","message":"order 969647 placed in 228ms"}
+{"ts":"2026-03-14T12:07:55.402861Z","service":"checkout-api","level":"INFO","message":"order 983383 placed in 110ms"}
+{"ts":"2026-03-14T12:08:04.942379Z","service":"inventory-api","level":"INFO","message":"handled request 742549 in 34ms"}
+{"ts":"2026-03-14T12:08:34.781701Z","service":"checkout-api","level":"INFO","message":"order 572449 placed in 216ms"}
+{"ts":"2026-03-14T12:08:39.614723Z","service":"payments-api","level":"INFO","message":"handled request 834239 in 65ms"}
+{"ts":"2026-03-14T12:08:53.702338Z","service":"checkout-api","level":"INFO","message":"order 718451 placed in 197ms"}
+{"ts":"2026-03-14T12:09:07.028058Z","service":"payments-api","level":"INFO","message":"handled request 331169 in 67ms"}
+{"ts":"2026-03-14T12:09:14.582137Z","service":"checkout-api","level":"INFO","message":"order 867022 placed in 159ms"}
+{"ts":"2026-03-14T12:09:37.808840Z","service":"checkout-api","level":"INFO","message":"order 986128 placed in 138ms"}
+{"ts":"2026-03-14T12:09:47.674978Z","service":"inventory-api","level":"INFO","message":"handled request 448689 in 74ms"}
+{"ts":"2026-03-14T12:10:01.601808Z","service":"inventory-api","level":"INFO","message":"handled request 765845 in 44ms"}
+{"ts":"2026-03-14T12:10:02.714044Z","service":"checkout-api","level":"INFO","message":"order 701742 placed in 252ms"}
+{"ts":"2026-03-14T12:10:06.036451Z","service":"checkout-api","level":"INFO","message":"order 253467 placed in 146ms"}
+{"ts":"2026-03-14T12:10:54.600961Z","service":"payments-api","level":"INFO","message":"handled request 660147 in 29ms"}
+{"ts":"2026-03-14T12:11:22.208396Z","service":"checkout-api","level":"INFO","message":"order 221683 placed in 99ms"}
+{"ts":"2026-03-14T12:11:34.557177Z","service":"checkout-api","level":"INFO","message":"order 510212 placed in 113ms"}
+{"ts":"2026-03-14T12:11:36.330250Z","service":"payments-api","level":"INFO","message":"handled request 304043 in 43ms"}
+{"ts":"2026-03-14T12:11:43.086800Z","service":"inventory-api","level":"INFO","message":"handled request 602512 in 46ms"}
+{"ts":"2026-03-14T12:12:03.665094Z","service":"checkout-api","level":"INFO","message":"order 812347 placed in 95ms"}
+{"ts":"2026-03-14T12:12:04.318301Z","service":"inventory-api","level":"INFO","message":"handled request 415685 in 64ms"}
+{"ts":"2026-03-14T12:12:32.654125Z","service":"checkout-api","level":"INFO","message":"order 750746 placed in 115ms"}
+{"ts":"2026-03-14T12:12:50.154159Z","service":"payments-api","level":"INFO","message":"handled request 173404 in 48ms"}
+{"ts":"2026-03-14T12:13:03.662546Z","service":"checkout-api","level":"INFO","message":"order 589822 placed in 100ms"}
+{"ts":"2026-03-14T12:13:11.961347Z","service":"payments-api","level":"INFO","message":"handled request 475972 in 80ms"}
+{"ts":"2026-03-14T12:13:35.789095Z","service":"checkout-api","level":"INFO","message":"order 833293 placed in 190ms"}
+{"ts":"2026-03-14T12:13:50.299594Z","service":"inventory-api","level":"INFO","message":"handled request 697445 in 41ms"}
+{"ts":"2026-03-14T12:14:12.204881Z","service":"checkout-api","level":"INFO","message":"order 904623 placed in 104ms"}
+{"ts":"2026-03-14T12:14:20.538752Z","service":"payments-api","level":"INFO","message":"handled request 362864 in 35ms"}
+{"ts":"2026-03-14T12:14:35.807484Z","service":"inventory-api","level":"INFO","message":"handled request 563799 in 42ms"}
+{"ts":"2026-03-14T12:14:40.876841Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 696757: SMTP timeout after 9s"}
+{"ts":"2026-03-14T12:14:47.318897Z","service":"checkout-api","level":"INFO","message":"order 265893 placed in 131ms"}
+{"ts":"2026-03-14T12:15:09.204766Z","service":"payments-api","level":"INFO","message":"handled request 824380 in 21ms"}
+{"ts":"2026-03-14T12:15:23.318535Z","service":"checkout-api","level":"INFO","message":"order 789560 placed in 154ms"}
+{"ts":"2026-03-14T12:15:27.477252Z","service":"inventory-api","level":"INFO","message":"handled request 182914 in 62ms"}
+{"ts":"2026-03-14T12:15:55.050667Z","service":"checkout-api","level":"INFO","message":"order 780456 placed in 181ms"}
+{"ts":"2026-03-14T12:16:32.659170Z","service":"checkout-api","level":"INFO","message":"order 241387 placed in 151ms"}
+{"ts":"2026-03-14T12:16:35.416661Z","service":"inventory-api","level":"INFO","message":"handled request 764532 in 36ms"}
+{"ts":"2026-03-14T12:16:36.608139Z","service":"payments-api","level":"INFO","message":"handled request 806114 in 65ms"}
+{"ts":"2026-03-14T12:16:45.729999Z","service":"checkout-api","level":"INFO","message":"order 605232 placed in 180ms"}
+{"ts":"2026-03-14T12:17:04.843386Z","service":"checkout-api","level":"INFO","message":"order 723459 placed in 139ms"}
+{"ts":"2026-03-14T12:17:13.385869Z","service":"inventory-api","level":"INFO","message":"handled request 569903 in 68ms"}
+{"ts":"2026-03-14T12:17:23.281034Z","service":"checkout-api","level":"INFO","message":"order 534548 placed in 256ms"}
+{"ts":"2026-03-14T12:17:41.914961Z","service":"payments-api","level":"INFO","message":"handled request 267855 in 50ms"}
+{"ts":"2026-03-14T12:18:09.940498Z","service":"inventory-api","level":"INFO","message":"handled request 166989 in 53ms"}
+{"ts":"2026-03-14T12:18:24.136025Z","service":"checkout-api","level":"INFO","message":"order 835921 placed in 235ms"}
+{"ts":"2026-03-14T12:18:25.093593Z","service":"payments-api","level":"INFO","message":"handled request 794362 in 25ms"}
+{"ts":"2026-03-14T12:18:40.426512Z","service":"checkout-api","level":"INFO","message":"order 534536 placed in 98ms"}
+{"ts":"2026-03-14T12:19:02.991420Z","service":"inventory-api","level":"INFO","message":"handled request 962684 in 73ms"}
+{"ts":"2026-03-14T12:19:26.781883Z","service":"checkout-api","level":"INFO","message":"order 610935 placed in 233ms"}
+{"ts":"2026-03-14T12:19:29.674960Z","service":"payments-api","level":"INFO","message":"handled request 427216 in 79ms"}
+{"ts":"2026-03-14T12:19:36.238643Z","service":"checkout-api","level":"INFO","message":"order 100072 placed in 99ms"}
+{"ts":"2026-03-14T12:20:18.970628Z","service":"inventory-api","level":"INFO","message":"handled request 323896 in 21ms"}
+{"ts":"2026-03-14T12:20:24.109009Z","service":"payments-api","level":"INFO","message":"handled request 811474 in 73ms"}
+{"ts":"2026-03-14T12:20:50.246904Z","service":"checkout-api","level":"INFO","message":"order 236861 placed in 93ms"}
+{"ts":"2026-03-14T12:20:59.965222Z","service":"checkout-api","level":"INFO","message":"order 763841 placed in 111ms"}
+{"ts":"2026-03-14T12:21:00.141454Z","service":"checkout-api","level":"INFO","message":"order 962696 placed in 225ms"}
+{"ts":"2026-03-14T12:21:16.798965Z","service":"inventory-api","level":"INFO","message":"handled request 291072 in 32ms"}
+{"ts":"2026-03-14T12:21:36.501578Z","service":"payments-api","level":"INFO","message":"handled request 308159 in 58ms"}
+{"ts":"2026-03-14T12:21:36.723718Z","service":"checkout-api","level":"INFO","message":"order 299711 placed in 120ms"}
+{"ts":"2026-03-14T12:22:01.310730Z","service":"checkout-api","level":"INFO","message":"order 574982 placed in 119ms"}
+{"ts":"2026-03-14T12:22:49.036393Z","service":"inventory-api","level":"INFO","message":"handled request 776269 in 64ms"}
+{"ts":"2026-03-14T12:22:51.681594Z","service":"payments-api","level":"INFO","message":"handled request 239901 in 86ms"}
+{"ts":"2026-03-14T12:22:55.366184Z","service":"checkout-api","level":"INFO","message":"order 758127 placed in 110ms"}
+{"ts":"2026-03-14T12:23:02.537856Z","service":"checkout-api","level":"INFO","message":"order 315729 placed in 156ms"}
+{"ts":"2026-03-14T12:23:09.266408Z","service":"checkout-api","level":"INFO","message":"order 992589 placed in 94ms"}
+{"ts":"2026-03-14T12:23:33.501344Z","service":"payments-api","level":"INFO","message":"handled request 484716 in 25ms"}
+{"ts":"2026-03-14T12:23:50.781595Z","service":"inventory-api","level":"INFO","message":"handled request 835392 in 83ms"}
+{"ts":"2026-03-14T12:24:00.533825Z","service":"inventory-api","level":"INFO","message":"handled request 258359 in 54ms"}
+{"ts":"2026-03-14T12:24:12.470646Z","service":"payments-api","level":"INFO","message":"handled request 715645 in 57ms"}
+{"ts":"2026-03-14T12:24:22.346956Z","service":"checkout-api","level":"INFO","message":"order 664059 placed in 135ms"}
+{"ts":"2026-03-14T12:24:54.162609Z","service":"checkout-api","level":"INFO","message":"order 771236 placed in 201ms"}
+{"ts":"2026-03-14T12:25:02.472177Z","service":"payments-api","level":"INFO","message":"handled request 271820 in 39ms"}
+{"ts":"2026-03-14T12:25:20.295358Z","service":"checkout-api","level":"INFO","message":"order 750681 placed in 99ms"}
+{"ts":"2026-03-14T12:25:47.377390Z","service":"checkout-api","level":"INFO","message":"order 853401 placed in 113ms"}
+{"ts":"2026-03-14T12:25:58.914844Z","service":"inventory-api","level":"INFO","message":"handled request 403595 in 66ms"}
+{"ts":"2026-03-14T12:26:18.472786Z","service":"payments-api","level":"INFO","message":"handled request 998667 in 86ms"}
+{"ts":"2026-03-14T12:26:28.683880Z","service":"checkout-api","level":"INFO","message":"order 351350 placed in 102ms"}
+{"ts":"2026-03-14T12:26:32.909058Z","service":"checkout-api","level":"INFO","message":"order 407659 placed in 119ms"}
+{"ts":"2026-03-14T12:26:43.719645Z","service":"inventory-api","level":"INFO","message":"handled request 417373 in 71ms"}
+{"ts":"2026-03-14T12:27:07.459488Z","service":"inventory-api","level":"INFO","message":"handled request 221643 in 83ms"}
+{"ts":"2026-03-14T12:27:17.953530Z","service":"checkout-api","level":"INFO","message":"order 213929 placed in 115ms"}
+{"ts":"2026-03-14T12:27:20.224833Z","service":"payments-api","level":"INFO","message":"handled request 936631 in 63ms"}
+{"ts":"2026-03-14T12:27:33.649799Z","service":"checkout-api","level":"INFO","message":"order 604545 placed in 211ms"}
+{"ts":"2026-03-14T12:28:03.950081Z","service":"inventory-api","level":"INFO","message":"handled request 188782 in 45ms"}
+{"ts":"2026-03-14T12:28:18.114187Z","service":"checkout-api","level":"INFO","message":"order 870442 placed in 129ms"}
+{"ts":"2026-03-14T12:28:22.534281Z","service":"payments-api","level":"INFO","message":"handled request 769912 in 31ms"}
+{"ts":"2026-03-14T12:28:55.181331Z","service":"checkout-api","level":"INFO","message":"order 757186 placed in 234ms"}
+{"ts":"2026-03-14T12:29:03.669369Z","service":"checkout-api","level":"INFO","message":"order 108232 placed in 115ms"}
+{"ts":"2026-03-14T12:29:23.628477Z","service":"checkout-api","level":"INFO","message":"order 644214 placed in 164ms"}
+{"ts":"2026-03-14T12:29:25.382284Z","service":"inventory-api","level":"INFO","message":"handled request 486223 in 48ms"}
+{"ts":"2026-03-14T12:29:26.912657Z","service":"payments-api","level":"INFO","message":"handled request 612353 in 47ms"}
+{"ts":"2026-03-14T12:30:03.831477Z","service":"payments-api","level":"INFO","message":"handled request 994287 in 23ms"}
+{"ts":"2026-03-14T12:30:15.654992Z","service":"checkout-api","level":"INFO","message":"order 914848 placed in 132ms"}
+{"ts":"2026-03-14T12:30:25.873261Z","service":"checkout-api","level":"INFO","message":"order 475935 placed in 119ms"}
+{"ts":"2026-03-14T12:30:54.180642Z","service":"inventory-api","level":"INFO","message":"handled request 573549 in 45ms"}
+{"ts":"2026-03-14T12:31:02.526086Z","service":"checkout-api","level":"INFO","message":"order 936169 placed in 145ms"}
+{"ts":"2026-03-14T12:31:23.877216Z","service":"checkout-api","level":"INFO","message":"order 317298 placed in 254ms"}
+{"ts":"2026-03-14T12:31:27.504483Z","service":"inventory-api","level":"INFO","message":"handled request 479209 in 89ms"}
+{"ts":"2026-03-14T12:31:37.404905Z","service":"payments-api","level":"INFO","message":"handled request 209712 in 45ms"}
+{"ts":"2026-03-14T12:32:06.284777Z","service":"checkout-api","level":"INFO","message":"order 725203 placed in 214ms"}
+{"ts":"2026-03-14T12:32:08.904121Z","service":"checkout-api","level":"INFO","message":"order 525624 placed in 253ms"}
+{"ts":"2026-03-14T12:32:40.759102Z","service":"inventory-api","level":"INFO","message":"handled request 438124 in 83ms"}
+{"ts":"2026-03-14T12:32:40.795769Z","service":"payments-api","level":"INFO","message":"handled request 646547 in 83ms"}
+{"ts":"2026-03-14T12:33:20.413219Z","service":"payments-api","level":"INFO","message":"handled request 883327 in 60ms"}
+{"ts":"2026-03-14T12:33:36.586237Z","service":"checkout-api","level":"INFO","message":"order 329400 placed in 92ms"}
+{"ts":"2026-03-14T12:33:38.103888Z","service":"checkout-api","level":"INFO","message":"order 311803 placed in 228ms"}
+{"ts":"2026-03-14T12:33:49.087103Z","service":"inventory-api","level":"INFO","message":"handled request 137191 in 87ms"}
+{"ts":"2026-03-14T12:34:03.981548Z","service":"inventory-api","level":"INFO","message":"handled request 188754 in 86ms"}
+{"ts":"2026-03-14T12:34:15.412915Z","service":"checkout-api","level":"INFO","message":"order 922258 placed in 129ms"}
+{"ts":"2026-03-14T12:34:43.087899Z","service":"payments-api","level":"INFO","message":"handled request 946258 in 80ms"}
+{"ts":"2026-03-14T12:34:50.540000Z","service":"checkout-api","level":"INFO","message":"order 711265 placed in 165ms"}
+{"ts":"2026-03-14T12:35:02.364950Z","service":"checkout-api","level":"INFO","message":"order 336024 placed in 123ms"}
+{"ts":"2026-03-14T12:35:02.437922Z","service":"checkout-api","level":"INFO","message":"order 116027 placed in 204ms"}
+{"ts":"2026-03-14T12:35:19.835662Z","service":"payments-api","level":"INFO","message":"handled request 268495 in 39ms"}
+{"ts":"2026-03-14T12:35:52.121731Z","service":"inventory-api","level":"INFO","message":"handled request 583115 in 67ms"}
+{"ts":"2026-03-14T12:36:34.432349Z","service":"checkout-api","level":"INFO","message":"order 811533 placed in 222ms"}
+{"ts":"2026-03-14T12:36:45.470783Z","service":"payments-api","level":"INFO","message":"handled request 180067 in 74ms"}
+{"ts":"2026-03-14T12:36:54.065429Z","service":"checkout-api","level":"INFO","message":"order 626834 placed in 98ms"}
+{"ts":"2026-03-14T12:36:54.346843Z","service":"inventory-api","level":"INFO","message":"handled request 316116 in 57ms"}
+{"ts":"2026-03-14T12:37:35.183307Z","service":"payments-api","level":"INFO","message":"handled request 992670 in 22ms"}
+{"ts":"2026-03-14T12:37:35.916856Z","service":"checkout-api","level":"INFO","message":"order 965805 placed in 213ms"}
+{"ts":"2026-03-14T12:37:39.419073Z","service":"inventory-api","level":"INFO","message":"handled request 100252 in 43ms"}
+{"ts":"2026-03-14T12:37:50.729519Z","service":"checkout-api","level":"INFO","message":"order 507444 placed in 245ms"}
+{"ts":"2026-03-14T12:38:03.735526Z","service":"inventory-api","level":"INFO","message":"handled request 772121 in 36ms"}
+{"ts":"2026-03-14T12:38:29.610601Z","service":"checkout-api","level":"INFO","message":"order 374734 placed in 167ms"}
+{"ts":"2026-03-14T12:38:34.215998Z","service":"checkout-api","level":"INFO","message":"order 448846 placed in 106ms"}
+{"ts":"2026-03-14T12:38:46.348809Z","service":"payments-api","level":"INFO","message":"handled request 502820 in 69ms"}
+{"ts":"2026-03-14T12:39:08.454293Z","service":"payments-api","level":"INFO","message":"handled request 731207 in 30ms"}
+{"ts":"2026-03-14T12:39:40.412629Z","service":"inventory-api","level":"INFO","message":"handled request 258726 in 65ms"}
+{"ts":"2026-03-14T12:39:43.767040Z","service":"checkout-api","level":"INFO","message":"order 450250 placed in 104ms"}
+{"ts":"2026-03-14T12:39:56.511726Z","service":"checkout-api","level":"INFO","message":"order 604711 placed in 196ms"}
+{"ts":"2026-03-14T12:40:01.213684Z","service":"payments-api","level":"INFO","message":"handled request 727363 in 36ms"}
+{"ts":"2026-03-14T12:40:02.821975Z","service":"checkout-api","level":"INFO","message":"order 593763 placed in 128ms"}
+{"ts":"2026-03-14T12:40:36.706252Z","service":"checkout-api","level":"INFO","message":"order 505466 placed in 207ms"}
+{"ts":"2026-03-14T12:40:37.797977Z","service":"inventory-api","level":"INFO","message":"handled request 210407 in 90ms"}
+{"ts":"2026-03-14T12:41:06.659815Z","service":"checkout-api","level":"INFO","message":"order 163083 placed in 246ms"}
+{"ts":"2026-03-14T12:41:11.698417Z","service":"checkout-api","level":"INFO","message":"order 921472 placed in 215ms"}
+{"ts":"2026-03-14T12:41:39.028331Z","service":"inventory-api","level":"INFO","message":"handled request 815684 in 57ms"}
+{"ts":"2026-03-14T12:41:42.049045Z","service":"payments-api","level":"INFO","message":"handled request 744172 in 63ms"}
+{"ts":"2026-03-14T12:42:02.291065Z","service":"inventory-api","level":"INFO","message":"handled request 511069 in 76ms"}
+{"ts":"2026-03-14T12:42:07.626547Z","service":"checkout-api","level":"INFO","message":"order 506475 placed in 165ms"}
+{"ts":"2026-03-14T12:42:31.140439Z","service":"payments-api","level":"INFO","message":"handled request 923645 in 44ms"}
+{"ts":"2026-03-14T12:42:55.013244Z","service":"checkout-api","level":"INFO","message":"order 814087 placed in 121ms"}
+{"ts":"2026-03-14T12:43:04.520375Z","service":"checkout-api","level":"INFO","message":"order 146809 placed in 100ms"}
+{"ts":"2026-03-14T12:43:11.428654Z","service":"checkout-api","level":"INFO","message":"order 473873 placed in 251ms"}
+{"ts":"2026-03-14T12:43:29.169906Z","service":"payments-api","level":"INFO","message":"handled request 127950 in 86ms"}
+{"ts":"2026-03-14T12:43:39.990669Z","service":"inventory-api","level":"INFO","message":"handled request 699572 in 47ms"}
+{"ts":"2026-03-14T12:44:18.318695Z","service":"payments-api","level":"INFO","message":"handled request 218955 in 38ms"}
+{"ts":"2026-03-14T12:44:25.558215Z","service":"inventory-api","level":"INFO","message":"handled request 693507 in 74ms"}
+{"ts":"2026-03-14T12:44:41.910146Z","service":"checkout-api","level":"INFO","message":"order 540518 placed in 219ms"}
+{"ts":"2026-03-14T12:44:46.580559Z","service":"checkout-api","level":"INFO","message":"order 757905 placed in 218ms"}
+{"ts":"2026-03-14T12:45:05.952659Z","service":"checkout-api","level":"INFO","message":"order 911407 placed in 129ms"}
+{"ts":"2026-03-14T12:45:25.865179Z","service":"inventory-api","level":"INFO","message":"handled request 537276 in 23ms"}
+{"ts":"2026-03-14T12:45:44.056760Z","service":"payments-api","level":"INFO","message":"handled request 132192 in 77ms"}
+{"ts":"2026-03-14T12:45:56.145286Z","service":"checkout-api","level":"INFO","message":"order 535831 placed in 106ms"}
+{"ts":"2026-03-14T12:46:04.712312Z","service":"checkout-api","level":"INFO","message":"order 173745 placed in 121ms"}
+{"ts":"2026-03-14T12:46:20.872664Z","service":"inventory-api","level":"INFO","message":"handled request 110448 in 49ms"}
+{"ts":"2026-03-14T12:46:21.555199Z","service":"payments-api","level":"INFO","message":"handled request 130804 in 64ms"}
+{"ts":"2026-03-14T12:46:51.843460Z","service":"checkout-api","level":"INFO","message":"order 440261 placed in 154ms"}
+{"ts":"2026-03-14T12:47:00.193926Z","service":"checkout-api","level":"INFO","message":"order 791030 placed in 121ms"}
+{"ts":"2026-03-14T12:47:04.231057Z","service":"checkout-api","level":"INFO","message":"order 250251 placed in 143ms"}
+{"ts":"2026-03-14T12:47:41.367989Z","service":"inventory-api","level":"INFO","message":"handled request 734229 in 49ms"}
+{"ts":"2026-03-14T12:47:44.878609Z","service":"payments-api","level":"INFO","message":"handled request 407508 in 67ms"}
+{"ts":"2026-03-14T12:48:01.676175Z","service":"payments-api","level":"INFO","message":"handled request 318229 in 66ms"}
+{"ts":"2026-03-14T12:48:11.219502Z","service":"checkout-api","level":"INFO","message":"order 217850 placed in 212ms"}
+{"ts":"2026-03-14T12:48:20.100790Z","service":"inventory-api","level":"INFO","message":"handled request 406846 in 57ms"}
+{"ts":"2026-03-14T12:48:20.666976Z","service":"checkout-api","level":"INFO","message":"order 370762 placed in 123ms"}
+{"ts":"2026-03-14T12:49:11.042733Z","service":"checkout-api","level":"INFO","message":"order 184734 placed in 116ms"}
+{"ts":"2026-03-14T12:49:22.595336Z","service":"inventory-api","level":"INFO","message":"handled request 254063 in 36ms"}
+{"ts":"2026-03-14T12:49:31.993673Z","service":"payments-api","level":"INFO","message":"handled request 422712 in 40ms"}
+{"ts":"2026-03-14T12:49:57.488874Z","service":"checkout-api","level":"INFO","message":"order 766805 placed in 173ms"}
+{"ts":"2026-03-14T12:50:18.953485Z","service":"checkout-api","level":"INFO","message":"order 354634 placed in 150ms"}
+{"ts":"2026-03-14T12:50:25.187123Z","service":"payments-api","level":"INFO","message":"handled request 148502 in 36ms"}
+{"ts":"2026-03-14T12:50:36.072493Z","service":"inventory-api","level":"INFO","message":"handled request 512930 in 29ms"}
+{"ts":"2026-03-14T12:50:45.291505Z","service":"checkout-api","level":"INFO","message":"order 405198 placed in 185ms"}
+{"ts":"2026-03-14T12:51:05.073342Z","service":"inventory-api","level":"INFO","message":"handled request 566418 in 67ms"}
+{"ts":"2026-03-14T12:51:07.921217Z","service":"checkout-api","level":"INFO","message":"order 413929 placed in 230ms"}
+{"ts":"2026-03-14T12:51:25.004960Z","service":"checkout-api","level":"INFO","message":"order 249195 placed in 241ms"}
+{"ts":"2026-03-14T12:51:25.331325Z","service":"payments-api","level":"INFO","message":"handled request 767907 in 65ms"}
+{"ts":"2026-03-14T12:52:00.505656Z","service":"checkout-api","level":"INFO","message":"order 863552 placed in 172ms"}
+{"ts":"2026-03-14T12:52:26.477843Z","service":"payments-api","level":"INFO","message":"handled request 489647 in 57ms"}
+{"ts":"2026-03-14T12:52:31.752438Z","service":"checkout-api","level":"INFO","message":"order 494717 placed in 194ms"}
+{"ts":"2026-03-14T12:52:57.140456Z","service":"inventory-api","level":"INFO","message":"handled request 195479 in 43ms"}
+{"ts":"2026-03-14T12:53:16.618215Z","service":"checkout-api","level":"INFO","message":"order 685295 placed in 245ms"}
+{"ts":"2026-03-14T12:53:25.902990Z","service":"inventory-api","level":"INFO","message":"handled request 360002 in 78ms"}
+{"ts":"2026-03-14T12:53:41.292018Z","service":"checkout-api","level":"INFO","message":"order 934306 placed in 204ms"}
+{"ts":"2026-03-14T12:53:55.696093Z","service":"payments-api","level":"INFO","message":"handled request 294385 in 73ms"}
+{"ts":"2026-03-14T12:54:17.913607Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 905971: SMTP timeout after 7s"}
+{"ts":"2026-03-14T12:54:31.400919Z","service":"checkout-api","level":"INFO","message":"order 472629 placed in 208ms"}
+{"ts":"2026-03-14T12:54:37.891015Z","service":"checkout-api","level":"INFO","message":"order 190701 placed in 213ms"}
+{"ts":"2026-03-14T12:54:45.302104Z","service":"payments-api","level":"INFO","message":"handled request 409045 in 20ms"}
+{"ts":"2026-03-14T12:54:49.810426Z","service":"inventory-api","level":"INFO","message":"handled request 570903 in 79ms"}
+{"ts":"2026-03-14T12:55:32.624449Z","service":"inventory-api","level":"INFO","message":"handled request 524993 in 55ms"}
+{"ts":"2026-03-14T12:55:32.712487Z","service":"checkout-api","level":"INFO","message":"order 263809 placed in 198ms"}
+{"ts":"2026-03-14T12:55:40.690725Z","service":"payments-api","level":"INFO","message":"handled request 897011 in 49ms"}
+{"ts":"2026-03-14T12:55:42.377643Z","service":"checkout-api","level":"INFO","message":"order 594335 placed in 113ms"}
+{"ts":"2026-03-14T12:56:00.015193Z","service":"checkout-api","level":"INFO","message":"order 517782 placed in 224ms"}
+{"ts":"2026-03-14T12:56:01.297163Z","service":"checkout-api","level":"INFO","message":"order 383197 placed in 100ms"}
+{"ts":"2026-03-14T12:56:26.675073Z","service":"inventory-api","level":"INFO","message":"handled request 882815 in 52ms"}
+{"ts":"2026-03-14T12:56:53.433709Z","service":"payments-api","level":"INFO","message":"handled request 844451 in 70ms"}
+{"ts":"2026-03-14T12:57:20.393424Z","service":"inventory-api","level":"INFO","message":"handled request 655939 in 51ms"}
+{"ts":"2026-03-14T12:57:35.724595Z","service":"checkout-api","level":"INFO","message":"order 137173 placed in 108ms"}
+{"ts":"2026-03-14T12:57:47.534188Z","service":"payments-api","level":"INFO","message":"handled request 420448 in 88ms"}
+{"ts":"2026-03-14T12:57:52.277881Z","service":"checkout-api","level":"INFO","message":"order 805217 placed in 140ms"}
+{"ts":"2026-03-14T12:58:08.065232Z","service":"payments-api","level":"INFO","message":"handled request 648468 in 46ms"}
+{"ts":"2026-03-14T12:58:31.882548Z","service":"inventory-api","level":"INFO","message":"handled request 530759 in 89ms"}
+{"ts":"2026-03-14T12:58:45.720033Z","service":"checkout-api","level":"INFO","message":"order 171400 placed in 196ms"}
+{"ts":"2026-03-14T12:58:51.656465Z","service":"checkout-api","level":"INFO","message":"order 396482 placed in 223ms"}
+{"ts":"2026-03-14T12:59:17.535250Z","service":"checkout-api","level":"INFO","message":"order 489865 placed in 235ms"}
+{"ts":"2026-03-14T12:59:37.728654Z","service":"payments-api","level":"INFO","message":"handled request 264699 in 35ms"}
+{"ts":"2026-03-14T12:59:41.821916Z","service":"inventory-api","level":"INFO","message":"handled request 499955 in 71ms"}
+{"ts":"2026-03-14T12:59:46.713016Z","service":"checkout-api","level":"INFO","message":"order 926463 placed in 161ms"}
+{"ts":"2026-03-14T13:00:08.371986Z","service":"checkout-api","level":"INFO","message":"order 800719 placed in 166ms"}
+{"ts":"2026-03-14T13:00:13.080598Z","service":"payments-api","level":"INFO","message":"handled request 612604 in 84ms"}
+{"ts":"2026-03-14T13:00:19.094411Z","service":"inventory-api","level":"INFO","message":"handled request 783728 in 27ms"}
+{"ts":"2026-03-14T13:00:21.243472Z","service":"checkout-api","level":"INFO","message":"order 595625 placed in 196ms"}
+{"ts":"2026-03-14T13:01:08.568686Z","service":"checkout-api","level":"INFO","message":"order 619593 placed in 103ms"}
+{"ts":"2026-03-14T13:01:21.324082Z","service":"payments-api","level":"INFO","message":"handled request 509957 in 21ms"}
+{"ts":"2026-03-14T13:01:50.773490Z","service":"inventory-api","level":"INFO","message":"handled request 169685 in 30ms"}
+{"ts":"2026-03-14T13:01:53.240114Z","service":"checkout-api","level":"INFO","message":"order 326192 placed in 96ms"}
+{"ts":"2026-03-14T13:02:00.385407Z","service":"checkout-api","level":"INFO","message":"order 143178 placed in 119ms"}
+{"ts":"2026-03-14T13:02:37.252608Z","service":"payments-api","level":"INFO","message":"handled request 383459 in 57ms"}
+{"ts":"2026-03-14T13:02:43.625997Z","service":"inventory-api","level":"INFO","message":"handled request 337698 in 38ms"}
+{"ts":"2026-03-14T13:02:44.517231Z","service":"checkout-api","level":"INFO","message":"order 801505 placed in 191ms"}
+{"ts":"2026-03-14T13:03:08.881157Z","service":"inventory-api","level":"INFO","message":"handled request 843259 in 38ms"}
+{"ts":"2026-03-14T13:03:10.095324Z","service":"payments-api","level":"INFO","message":"handled request 542194 in 75ms"}
+{"ts":"2026-03-14T13:03:17.275446Z","service":"checkout-api","level":"INFO","message":"order 210583 placed in 201ms"}
+{"ts":"2026-03-14T13:03:27.653694Z","service":"checkout-api","level":"INFO","message":"order 446235 placed in 188ms"}
+{"ts":"2026-03-14T13:04:07.753382Z","service":"checkout-api","level":"INFO","message":"order 295899 placed in 203ms"}
+{"ts":"2026-03-14T13:04:20.950033Z","service":"checkout-api","level":"INFO","message":"order 507765 placed in 199ms"}
+{"ts":"2026-03-14T13:04:47.735007Z","service":"inventory-api","level":"INFO","message":"handled request 560610 in 46ms"}
+{"ts":"2026-03-14T13:04:48.410761Z","service":"payments-api","level":"INFO","message":"handled request 508458 in 48ms"}
+{"ts":"2026-03-14T13:05:02.987596Z","service":"checkout-api","level":"INFO","message":"order 507211 placed in 98ms"}
+{"ts":"2026-03-14T13:05:13.983850Z","service":"inventory-api","level":"INFO","message":"handled request 411979 in 31ms"}
+{"ts":"2026-03-14T13:05:14.041756Z","service":"checkout-api","level":"INFO","message":"order 188769 placed in 137ms"}
+{"ts":"2026-03-14T13:05:21.816610Z","service":"payments-api","level":"INFO","message":"handled request 879262 in 42ms"}
+{"ts":"2026-03-14T13:06:24.685940Z","service":"checkout-api","level":"INFO","message":"order 156560 placed in 251ms"}
+{"ts":"2026-03-14T13:06:30.727119Z","service":"checkout-api","level":"INFO","message":"order 398240 placed in 180ms"}
+{"ts":"2026-03-14T13:06:41.808303Z","service":"payments-api","level":"INFO","message":"handled request 797963 in 90ms"}
+{"ts":"2026-03-14T13:06:55.785591Z","service":"inventory-api","level":"INFO","message":"handled request 551521 in 78ms"}
+{"ts":"2026-03-14T13:07:09.771453Z","service":"payments-api","level":"INFO","message":"handled request 104062 in 57ms"}
+{"ts":"2026-03-14T13:07:15.952322Z","service":"checkout-api","level":"INFO","message":"order 145935 placed in 103ms"}
+{"ts":"2026-03-14T13:07:39.277655Z","service":"inventory-api","level":"INFO","message":"handled request 247227 in 28ms"}
+{"ts":"2026-03-14T13:07:42.247009Z","service":"checkout-api","level":"INFO","message":"order 325883 placed in 176ms"}
+{"ts":"2026-03-14T13:08:11.570894Z","service":"payments-api","level":"INFO","message":"handled request 737868 in 33ms"}
+{"ts":"2026-03-14T13:08:33.466110Z","service":"checkout-api","level":"INFO","message":"order 331706 placed in 206ms"}
+{"ts":"2026-03-14T13:08:36.381271Z","service":"inventory-api","level":"INFO","message":"handled request 189779 in 60ms"}
+{"ts":"2026-03-14T13:08:40.830240Z","service":"checkout-api","level":"INFO","message":"order 738203 placed in 191ms"}
+{"ts":"2026-03-14T13:09:01.729747Z","service":"checkout-api","level":"INFO","message":"order 146506 placed in 138ms"}
+{"ts":"2026-03-14T13:09:20.744833Z","service":"inventory-api","level":"INFO","message":"handled request 977963 in 45ms"}
+{"ts":"2026-03-14T13:09:22.122248Z","service":"payments-api","level":"INFO","message":"handled request 319772 in 87ms"}
+{"ts":"2026-03-14T13:09:27.344663Z","service":"checkout-api","level":"INFO","message":"order 440937 placed in 155ms"}
+{"ts":"2026-03-14T13:10:02.670174Z","service":"inventory-api","level":"INFO","message":"handled request 678786 in 29ms"}
+{"ts":"2026-03-14T13:10:28.925080Z","service":"payments-api","level":"INFO","message":"handled request 847089 in 50ms"}
+{"ts":"2026-03-14T13:10:29.718032Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 559484: SMTP timeout after 5s"}
+{"ts":"2026-03-14T13:10:31.014033Z","service":"checkout-api","level":"INFO","message":"order 503357 placed in 155ms"}
+{"ts":"2026-03-14T13:10:43.741560Z","service":"checkout-api","level":"INFO","message":"order 415958 placed in 169ms"}
+{"ts":"2026-03-14T13:11:04.888620Z","service":"payments-api","level":"INFO","message":"handled request 203526 in 39ms"}
+{"ts":"2026-03-14T13:11:24.840771Z","service":"inventory-api","level":"INFO","message":"handled request 323835 in 76ms"}
+{"ts":"2026-03-14T13:11:27.630700Z","service":"checkout-api","level":"INFO","message":"order 223861 placed in 111ms"}
+{"ts":"2026-03-14T13:11:55.028887Z","service":"checkout-api","level":"INFO","message":"order 532139 placed in 216ms"}
+{"ts":"2026-03-14T13:12:02.361101Z","service":"checkout-api","level":"INFO","message":"order 289151 placed in 153ms"}
+{"ts":"2026-03-14T13:12:29.400807Z","service":"payments-api","level":"INFO","message":"handled request 234307 in 55ms"}
+{"ts":"2026-03-14T13:12:49.080519Z","service":"checkout-api","level":"INFO","message":"order 686165 placed in 190ms"}
+{"ts":"2026-03-14T13:12:56.067653Z","service":"inventory-api","level":"INFO","message":"handled request 435121 in 75ms"}
+{"ts":"2026-03-14T13:13:32.169902Z","service":"inventory-api","level":"INFO","message":"handled request 373665 in 54ms"}
+{"ts":"2026-03-14T13:13:46.647861Z","service":"payments-api","level":"INFO","message":"handled request 639005 in 79ms"}
+{"ts":"2026-03-14T13:13:47.342263Z","service":"checkout-api","level":"INFO","message":"order 845608 placed in 165ms"}
+{"ts":"2026-03-14T13:13:53.977538Z","service":"checkout-api","level":"INFO","message":"order 739717 placed in 228ms"}
+{"ts":"2026-03-14T13:14:07.123814Z","service":"checkout-api","level":"INFO","message":"order 921552 placed in 115ms"}
+{"ts":"2026-03-14T13:14:10.354571Z","service":"checkout-api","level":"INFO","message":"order 534802 placed in 153ms"}
+{"ts":"2026-03-14T13:14:13.083882Z","service":"payments-api","level":"INFO","message":"handled request 871839 in 20ms"}
+{"ts":"2026-03-14T13:14:44.515293Z","service":"inventory-api","level":"INFO","message":"handled request 640313 in 74ms"}
+{"ts":"2026-03-14T13:15:07.094659Z","service":"checkout-api","level":"INFO","message":"order 873097 placed in 234ms"}
+{"ts":"2026-03-14T13:15:07.307633Z","service":"checkout-api","level":"INFO","message":"order 776538 placed in 159ms"}
+{"ts":"2026-03-14T13:15:21.534280Z","service":"payments-api","level":"INFO","message":"handled request 807665 in 89ms"}
+{"ts":"2026-03-14T13:15:39.636507Z","service":"inventory-api","level":"INFO","message":"handled request 332320 in 50ms"}
+{"ts":"2026-03-14T13:16:18.451107Z","service":"checkout-api","level":"INFO","message":"order 443208 placed in 149ms"}
+{"ts":"2026-03-14T13:16:22.391815Z","service":"checkout-api","level":"INFO","message":"order 603599 placed in 163ms"}
+{"ts":"2026-03-14T13:16:33.187366Z","service":"inventory-api","level":"INFO","message":"handled request 443812 in 66ms"}
+{"ts":"2026-03-14T13:16:34.923624Z","service":"payments-api","level":"INFO","message":"handled request 243956 in 21ms"}
+{"ts":"2026-03-14T13:17:01.517184Z","service":"checkout-api","level":"INFO","message":"order 236129 placed in 191ms"}
+{"ts":"2026-03-14T13:17:09.314588Z","service":"checkout-api","level":"INFO","message":"order 285351 placed in 220ms"}
+{"ts":"2026-03-14T13:17:46.886632Z","service":"inventory-api","level":"INFO","message":"handled request 912438 in 83ms"}
+{"ts":"2026-03-14T13:17:59.473719Z","service":"payments-api","level":"INFO","message":"handled request 242166 in 46ms"}
+{"ts":"2026-03-14T13:18:37.739361Z","service":"inventory-api","level":"INFO","message":"handled request 213260 in 23ms"}
+{"ts":"2026-03-14T13:18:41.741924Z","service":"checkout-api","level":"INFO","message":"order 323826 placed in 150ms"}
+{"ts":"2026-03-14T13:18:43.953635Z","service":"checkout-api","level":"INFO","message":"order 955820 placed in 149ms"}
+{"ts":"2026-03-14T13:18:45.597992Z","service":"payments-api","level":"INFO","message":"handled request 470632 in 36ms"}
+{"ts":"2026-03-14T13:19:00.758130Z","service":"checkout-api","level":"INFO","message":"order 330763 placed in 232ms"}
+{"ts":"2026-03-14T13:19:21.516847Z","service":"checkout-api","level":"INFO","message":"order 577734 placed in 169ms"}
+{"ts":"2026-03-14T13:19:39.165805Z","service":"payments-api","level":"INFO","message":"handled request 792950 in 83ms"}
+{"ts":"2026-03-14T13:19:48.554197Z","service":"inventory-api","level":"INFO","message":"handled request 873190 in 81ms"}
+{"ts":"2026-03-14T13:20:08.246657Z","service":"checkout-api","level":"INFO","message":"order 521374 placed in 138ms"}
+{"ts":"2026-03-14T13:20:23.045540Z","service":"inventory-api","level":"INFO","message":"handled request 162055 in 46ms"}
+{"ts":"2026-03-14T13:20:42.253445Z","service":"checkout-api","level":"INFO","message":"order 182598 placed in 156ms"}
+{"ts":"2026-03-14T13:20:43.587623Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 361733: SMTP timeout after 7s"}
+{"ts":"2026-03-14T13:20:49.301778Z","service":"payments-api","level":"INFO","message":"handled request 923518 in 57ms"}
+{"ts":"2026-03-14T13:21:21.381474Z","service":"inventory-api","level":"INFO","message":"handled request 665720 in 27ms"}
+{"ts":"2026-03-14T13:21:39.469875Z","service":"checkout-api","level":"INFO","message":"order 372741 placed in 178ms"}
+{"ts":"2026-03-14T13:21:40.295091Z","service":"payments-api","level":"INFO","message":"handled request 419713 in 22ms"}
+{"ts":"2026-03-14T13:21:51.777764Z","service":"checkout-api","level":"INFO","message":"order 800902 placed in 258ms"}
+{"ts":"2026-03-14T13:22:02.697794Z","service":"payments-api","level":"INFO","message":"handled request 336742 in 61ms"}
+{"ts":"2026-03-14T13:22:03.992706Z","service":"inventory-api","level":"INFO","message":"handled request 165437 in 64ms"}
+{"ts":"2026-03-14T13:22:09.072973Z","service":"checkout-api","level":"INFO","message":"order 123055 placed in 215ms"}
+{"ts":"2026-03-14T13:22:37.669797Z","service":"checkout-api","level":"INFO","message":"order 125757 placed in 151ms"}
+{"ts":"2026-03-14T13:23:10.616132Z","service":"payments-api","level":"INFO","message":"handled request 444785 in 72ms"}
+{"ts":"2026-03-14T13:23:22.960097Z","service":"inventory-api","level":"INFO","message":"handled request 529165 in 53ms"}
+{"ts":"2026-03-14T13:23:25.359174Z","service":"checkout-api","level":"INFO","message":"order 327042 placed in 204ms"}
+{"ts":"2026-03-14T13:23:26.112791Z","service":"checkout-api","level":"INFO","message":"order 475427 placed in 169ms"}
+{"ts":"2026-03-14T13:24:00.186607Z","service":"inventory-api","level":"INFO","message":"handled request 244941 in 85ms"}
+{"ts":"2026-03-14T13:24:24.536028Z","service":"payments-api","level":"INFO","message":"handled request 509258 in 41ms"}
+{"ts":"2026-03-14T13:24:45.545161Z","service":"checkout-api","level":"INFO","message":"order 692160 placed in 121ms"}
+{"ts":"2026-03-14T13:24:48.276032Z","service":"checkout-api","level":"INFO","message":"order 820001 placed in 208ms"}
+{"ts":"2026-03-14T13:25:14.242828Z","service":"checkout-api","level":"INFO","message":"order 968488 placed in 135ms"}
+{"ts":"2026-03-14T13:25:14.807656Z","service":"payments-api","level":"INFO","message":"handled request 123042 in 41ms"}
+{"ts":"2026-03-14T13:25:41.976096Z","service":"checkout-api","level":"INFO","message":"order 183516 placed in 174ms"}
+{"ts":"2026-03-14T13:25:44.568704Z","service":"inventory-api","level":"INFO","message":"handled request 979067 in 41ms"}
+{"ts":"2026-03-14T13:26:20.415019Z","service":"inventory-api","level":"INFO","message":"handled request 873865 in 68ms"}
+{"ts":"2026-03-14T13:26:25.630636Z","service":"checkout-api","level":"INFO","message":"order 726920 placed in 116ms"}
+{"ts":"2026-03-14T13:26:36.896227Z","service":"payments-api","level":"INFO","message":"handled request 141994 in 52ms"}
+{"ts":"2026-03-14T13:26:37.230610Z","service":"checkout-api","level":"INFO","message":"order 579735 placed in 128ms"}
+{"ts":"2026-03-14T13:26:55.945381Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 138080: SMTP timeout after 8s"}
+{"ts":"2026-03-14T13:27:05.377159Z","service":"checkout-api","level":"INFO","message":"order 406954 placed in 128ms"}
+{"ts":"2026-03-14T13:27:09.737085Z","service":"payments-api","level":"INFO","message":"handled request 889554 in 71ms"}
+{"ts":"2026-03-14T13:27:20.258746Z","service":"inventory-api","level":"INFO","message":"handled request 942346 in 83ms"}
+{"ts":"2026-03-14T13:27:27.487009Z","service":"checkout-api","level":"INFO","message":"order 632087 placed in 181ms"}
+{"ts":"2026-03-14T13:28:00.887035Z","service":"checkout-api","level":"INFO","message":"order 656103 placed in 163ms"}
+{"ts":"2026-03-14T13:28:27.355063Z","service":"inventory-api","level":"INFO","message":"handled request 856429 in 35ms"}
+{"ts":"2026-03-14T13:28:33.026907Z","service":"checkout-api","level":"INFO","message":"order 136625 placed in 226ms"}
+{"ts":"2026-03-14T13:28:34.229958Z","service":"payments-api","level":"INFO","message":"handled request 375195 in 24ms"}
+{"ts":"2026-03-14T13:29:29.760302Z","service":"checkout-api","level":"INFO","message":"order 121688 placed in 159ms"}
+{"ts":"2026-03-14T13:29:40.843523Z","service":"payments-api","level":"INFO","message":"handled request 710275 in 57ms"}
+{"ts":"2026-03-14T13:29:44.397510Z","service":"checkout-api","level":"INFO","message":"order 135938 placed in 155ms"}
+{"ts":"2026-03-14T13:29:59.696428Z","service":"inventory-api","level":"INFO","message":"handled request 899100 in 46ms"}
+{"ts":"2026-03-14T13:30:12.538184Z","service":"checkout-api","level":"INFO","message":"order 693534 placed in 174ms"}
+{"ts":"2026-03-14T13:30:30.975661Z","service":"checkout-api","level":"INFO","message":"order 504825 placed in 154ms"}
+{"ts":"2026-03-14T13:30:40.879485Z","service":"inventory-api","level":"INFO","message":"handled request 470520 in 40ms"}
+{"ts":"2026-03-14T13:30:48.287966Z","service":"payments-api","level":"INFO","message":"handled request 354433 in 88ms"}
+{"ts":"2026-03-14T13:31:09.370006Z","service":"payments-api","level":"INFO","message":"handled request 461319 in 66ms"}
+{"ts":"2026-03-14T13:31:17.471437Z","service":"inventory-api","level":"INFO","message":"handled request 407677 in 61ms"}
+{"ts":"2026-03-14T13:31:35.095962Z","service":"checkout-api","level":"INFO","message":"order 153744 placed in 234ms"}
+{"ts":"2026-03-14T13:31:53.967212Z","service":"checkout-api","level":"INFO","message":"order 446720 placed in 92ms"}
+{"ts":"2026-03-14T13:32:00.060768Z","service":"checkout-api","level":"INFO","message":"order 247596 placed in 235ms"}
+{"ts":"2026-03-14T13:32:02.616083Z","service":"payments-api","level":"INFO","message":"handled request 231961 in 63ms"}
+{"ts":"2026-03-14T13:32:24.219497Z","service":"checkout-api","level":"INFO","message":"order 551942 placed in 133ms"}
+{"ts":"2026-03-14T13:32:55.763118Z","service":"inventory-api","level":"INFO","message":"handled request 856678 in 81ms"}
+{"ts":"2026-03-14T13:33:32.932636Z","service":"payments-api","level":"INFO","message":"handled request 544469 in 55ms"}
+{"ts":"2026-03-14T13:33:39.852542Z","service":"checkout-api","level":"INFO","message":"order 795034 placed in 155ms"}
+{"ts":"2026-03-14T13:33:44.836917Z","service":"checkout-api","level":"INFO","message":"order 296770 placed in 107ms"}
+{"ts":"2026-03-14T13:33:56.987283Z","service":"inventory-api","level":"INFO","message":"handled request 282277 in 87ms"}
+{"ts":"2026-03-14T13:34:06.603220Z","service":"checkout-api","level":"INFO","message":"order 628401 placed in 251ms"}
+{"ts":"2026-03-14T13:34:39.531705Z","service":"checkout-api","level":"INFO","message":"order 265047 placed in 238ms"}
+{"ts":"2026-03-14T13:34:45.285238Z","service":"inventory-api","level":"INFO","message":"handled request 378668 in 59ms"}
+{"ts":"2026-03-14T13:34:47.799658Z","service":"payments-api","level":"INFO","message":"handled request 734436 in 69ms"}
+{"ts":"2026-03-14T13:35:25.722219Z","service":"checkout-api","level":"INFO","message":"order 959571 placed in 161ms"}
+{"ts":"2026-03-14T13:35:33.273591Z","service":"payments-api","level":"INFO","message":"handled request 458889 in 44ms"}
+{"ts":"2026-03-14T13:35:42.334362Z","service":"inventory-api","level":"INFO","message":"handled request 552666 in 38ms"}
+{"ts":"2026-03-14T13:35:56.775237Z","service":"checkout-api","level":"INFO","message":"order 663998 placed in 224ms"}
+{"ts":"2026-03-14T13:36:23.048674Z","service":"payments-api","level":"INFO","message":"handled request 586676 in 24ms"}
+{"ts":"2026-03-14T13:36:33.695919Z","service":"inventory-api","level":"INFO","message":"handled request 531632 in 49ms"}
+{"ts":"2026-03-14T13:36:42.083455Z","service":"checkout-api","level":"INFO","message":"order 919491 placed in 234ms"}
+{"ts":"2026-03-14T13:36:45.003163Z","service":"checkout-api","level":"INFO","message":"order 262878 placed in 259ms"}
+{"ts":"2026-03-14T13:37:01.148488Z","service":"payments-api","level":"INFO","message":"handled request 870974 in 51ms"}
+{"ts":"2026-03-14T13:37:21.733346Z","service":"checkout-api","level":"INFO","message":"order 266216 placed in 139ms"}
+{"ts":"2026-03-14T13:37:34.293527Z","service":"inventory-api","level":"INFO","message":"handled request 353838 in 55ms"}
+{"ts":"2026-03-14T13:37:37.854480Z","service":"checkout-api","level":"INFO","message":"order 758311 placed in 217ms"}
+{"ts":"2026-03-14T13:38:34.388434Z","service":"checkout-api","level":"INFO","message":"order 348233 placed in 205ms"}
+{"ts":"2026-03-14T13:38:45.484482Z","service":"checkout-api","level":"INFO","message":"order 540383 placed in 109ms"}
+{"ts":"2026-03-14T13:38:51.825765Z","service":"payments-api","level":"INFO","message":"handled request 946016 in 32ms"}
+{"ts":"2026-03-14T13:38:57.480253Z","service":"inventory-api","level":"INFO","message":"handled request 272476 in 76ms"}
+{"ts":"2026-03-14T13:39:00.658170Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 362729: SMTP timeout after 6s"}
+{"ts":"2026-03-14T13:39:36.581340Z","service":"inventory-api","level":"INFO","message":"handled request 195031 in 59ms"}
+{"ts":"2026-03-14T13:39:52.907237Z","service":"payments-api","level":"INFO","message":"handled request 911051 in 65ms"}
+{"ts":"2026-03-14T13:39:55.679175Z","service":"checkout-api","level":"INFO","message":"order 765582 placed in 191ms"}
+{"ts":"2026-03-14T13:39:56.423450Z","service":"checkout-api","level":"INFO","message":"order 364960 placed in 201ms"}
+{"ts":"2026-03-14T13:40:34.961353Z","service":"inventory-api","level":"INFO","message":"handled request 471807 in 36ms"}
+{"ts":"2026-03-14T13:40:41.825949Z","service":"payments-api","level":"INFO","message":"handled request 962504 in 24ms"}
+{"ts":"2026-03-14T13:40:45.741145Z","service":"checkout-api","level":"INFO","message":"order 505405 placed in 201ms"}
+{"ts":"2026-03-14T13:40:46.526804Z","service":"checkout-api","level":"INFO","message":"order 756033 placed in 189ms"}
+{"ts":"2026-03-14T13:41:02.495175Z","service":"payments-api","level":"INFO","message":"handled request 693409 in 64ms"}
+{"ts":"2026-03-14T13:41:16.700986Z","service":"checkout-api","level":"INFO","message":"order 961934 placed in 96ms"}
+{"ts":"2026-03-14T13:41:21.661282Z","service":"inventory-api","level":"INFO","message":"handled request 172743 in 44ms"}
+{"ts":"2026-03-14T13:41:23.885562Z","service":"checkout-api","level":"INFO","message":"order 647034 placed in 124ms"}
+{"ts":"2026-03-14T13:42:18.871935Z","service":"checkout-api","level":"INFO","message":"order 982235 placed in 96ms"}
+{"ts":"2026-03-14T13:42:18.888062Z","service":"payments-api","level":"INFO","message":"handled request 231355 in 55ms"}
+{"ts":"2026-03-14T13:42:24.385007Z","service":"inventory-api","level":"INFO","message":"handled request 249036 in 38ms"}
+{"ts":"2026-03-14T13:42:40.283780Z","service":"checkout-api","level":"INFO","message":"order 593986 placed in 101ms"}
+{"ts":"2026-03-14T13:43:07.522948Z","service":"checkout-api","level":"INFO","message":"order 240463 placed in 213ms"}
+{"ts":"2026-03-14T13:43:18.365871Z","service":"checkout-api","level":"INFO","message":"order 162755 placed in 131ms"}
+{"ts":"2026-03-14T13:43:42.318782Z","service":"payments-api","level":"INFO","message":"handled request 851067 in 25ms"}
+{"ts":"2026-03-14T13:43:43.788538Z","service":"inventory-api","level":"INFO","message":"handled request 644848 in 25ms"}
+{"ts":"2026-03-14T13:44:04.843765Z","service":"inventory-api","level":"INFO","message":"handled request 282898 in 53ms"}
+{"ts":"2026-03-14T13:44:23.235875Z","service":"checkout-api","level":"INFO","message":"order 288975 placed in 178ms"}
+{"ts":"2026-03-14T13:44:41.471311Z","service":"checkout-api","level":"INFO","message":"order 831189 placed in 251ms"}
+{"ts":"2026-03-14T13:44:48.008792Z","service":"payments-api","level":"INFO","message":"handled request 952491 in 30ms"}
+{"ts":"2026-03-14T13:45:15.657870Z","service":"checkout-api","level":"INFO","message":"order 834428 placed in 154ms"}
+{"ts":"2026-03-14T13:45:33.163589Z","service":"inventory-api","level":"INFO","message":"handled request 140476 in 42ms"}
+{"ts":"2026-03-14T13:45:46.939772Z","service":"checkout-api","level":"INFO","message":"order 642570 placed in 206ms"}
+{"ts":"2026-03-14T13:45:59.912582Z","service":"payments-api","level":"INFO","message":"handled request 262737 in 77ms"}
+{"ts":"2026-03-14T13:46:02.027742Z","service":"checkout-api","level":"INFO","message":"order 894497 placed in 170ms"}
+{"ts":"2026-03-14T13:46:38.903996Z","service":"payments-api","level":"INFO","message":"handled request 578724 in 50ms"}
+{"ts":"2026-03-14T13:46:48.736069Z","service":"inventory-api","level":"INFO","message":"handled request 647632 in 40ms"}
+{"ts":"2026-03-14T13:46:49.068008Z","service":"checkout-api","level":"INFO","message":"order 175123 placed in 139ms"}
+{"ts":"2026-03-14T13:47:00.147630Z","service":"inventory-api","level":"INFO","message":"handled request 912504 in 30ms"}
+{"ts":"2026-03-14T13:47:04.944992Z","service":"payments-api","level":"INFO","message":"handled request 642817 in 63ms"}
+{"ts":"2026-03-14T13:47:46.291252Z","service":"checkout-api","level":"INFO","message":"order 159941 placed in 229ms"}
+{"ts":"2026-03-14T13:47:54.760123Z","service":"checkout-api","level":"INFO","message":"order 241428 placed in 211ms"}
+{"ts":"2026-03-14T13:48:08.166509Z","service":"inventory-api","level":"INFO","message":"handled request 123829 in 43ms"}
+{"ts":"2026-03-14T13:48:20.148444Z","service":"checkout-api","level":"INFO","message":"order 496430 placed in 221ms"}
+{"ts":"2026-03-14T13:48:21.723294Z","service":"payments-api","level":"INFO","message":"handled request 982180 in 35ms"}
+{"ts":"2026-03-14T13:48:36.452452Z","service":"checkout-api","level":"INFO","message":"order 697975 placed in 205ms"}
+{"ts":"2026-03-14T13:49:01.152048Z","service":"checkout-api","level":"INFO","message":"order 736986 placed in 139ms"}
+{"ts":"2026-03-14T13:49:02.648370Z","service":"checkout-api","level":"INFO","message":"order 776743 placed in 105ms"}
+{"ts":"2026-03-14T13:49:15.225911Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 849548"}
+{"ts":"2026-03-14T13:49:23.788137Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 569543"}
+{"ts":"2026-03-14T13:49:24.771169Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 266772"}
+{"ts":"2026-03-14T13:49:35.719674Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 539518"}
+{"ts":"2026-03-14T13:49:41.930517Z","service":"payments-api","level":"INFO","message":"handled request 935470 in 69ms"}
+{"ts":"2026-03-14T13:49:45.057568Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 819602"}
+{"ts":"2026-03-14T13:49:54.700314Z","service":"inventory-api","level":"INFO","message":"handled request 729616 in 41ms"}
+{"ts":"2026-03-14T13:50:03.240384Z","service":"checkout-api","level":"INFO","message":"order 472223 placed in 244ms"}
+{"ts":"2026-03-14T13:50:06.552516Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 295061"}
+{"ts":"2026-03-14T13:50:06.610591Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 910920"}
+{"ts":"2026-03-14T13:50:17.299345Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 864376"}
+{"ts":"2026-03-14T13:50:40.339061Z","service":"inventory-api","level":"INFO","message":"handled request 690071 in 78ms"}
+{"ts":"2026-03-14T13:50:43.909245Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 605704"}
+{"ts":"2026-03-14T13:50:50.111553Z","service":"checkout-api","level":"INFO","message":"order 181182 placed in 194ms"}
+{"ts":"2026-03-14T13:50:54.110480Z","service":"payments-api","level":"INFO","message":"handled request 893213 in 52ms"}
+{"ts":"2026-03-14T13:50:55.166105Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 925813"}
+{"ts":"2026-03-14T13:51:01.841315Z","service":"checkout-api","level":"INFO","message":"order 941381 placed in 157ms"}
+{"ts":"2026-03-14T13:51:04.394171Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 142884"}
+{"ts":"2026-03-14T13:51:11.429606Z","service":"checkout-api","level":"INFO","message":"order 506489 placed in 106ms"}
+{"ts":"2026-03-14T13:51:16.236113Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 216013"}
+{"ts":"2026-03-14T13:51:21.047062Z","service":"inventory-api","level":"INFO","message":"handled request 285689 in 71ms"}
+{"ts":"2026-03-14T13:51:21.456561Z","service":"payments-api","level":"INFO","message":"handled request 229358 in 23ms"}
+{"ts":"2026-03-14T13:51:37.354704Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 633807"}
+{"ts":"2026-03-14T13:51:44.943507Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 374965"}
+{"ts":"2026-03-14T13:51:48.522624Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 940764"}
+{"ts":"2026-03-14T13:52:22.641692Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 604714"}
+{"ts":"2026-03-14T13:52:27.388551Z","service":"checkout-api","level":"INFO","message":"order 680966 placed in 216ms"}
+{"ts":"2026-03-14T13:52:28.591955Z","service":"payments-api","level":"INFO","message":"handled request 999653 in 26ms"}
+{"ts":"2026-03-14T13:52:30.951902Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 977238: SMTP timeout after 5s"}
+{"ts":"2026-03-14T13:52:32.136821Z","service":"inventory-api","level":"INFO","message":"handled request 521457 in 53ms"}
+{"ts":"2026-03-14T13:52:37.156787Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 247262"}
+{"ts":"2026-03-14T13:52:39.206061Z","service":"checkout-api","level":"INFO","message":"order 114309 placed in 172ms"}
+{"ts":"2026-03-14T13:52:52.092349Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 428507"}
+{"ts":"2026-03-14T13:52:52.235269Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 527925"}
+{"ts":"2026-03-14T13:52:57.254222Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 245222"}
+{"ts":"2026-03-14T13:53:00.043591Z","service":"inventory-api","level":"INFO","message":"handled request 454094 in 40ms"}
+{"ts":"2026-03-14T13:53:02.773479Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 920003"}
+{"ts":"2026-03-14T13:53:02.863969Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 532454"}
+{"ts":"2026-03-14T13:53:20.016776Z","service":"checkout-api","level":"INFO","message":"order 203269 placed in 210ms"}
+{"ts":"2026-03-14T13:53:23.051972Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 707341"}
+{"ts":"2026-03-14T13:53:37.531929Z","service":"payments-api","level":"INFO","message":"handled request 401026 in 24ms"}
+{"ts":"2026-03-14T13:53:44.070878Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 336049"}
+{"ts":"2026-03-14T13:53:53.799236Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 128951"}
+{"ts":"2026-03-14T13:53:58.088782Z","service":"checkout-api","level":"INFO","message":"order 261765 placed in 222ms"}
+{"ts":"2026-03-14T13:54:14.417429Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 395254: SMTP timeout after 7s"}
+{"ts":"2026-03-14T13:54:17.475376Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 524380"}
+{"ts":"2026-03-14T13:54:32.943786Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 837515"}
+{"ts":"2026-03-14T13:54:40.790223Z","service":"payments-api","level":"INFO","message":"handled request 755062 in 62ms"}
+{"ts":"2026-03-14T13:54:41.758609Z","service":"checkout-api","level":"INFO","message":"order 268357 placed in 134ms"}
+{"ts":"2026-03-14T13:54:43.670585Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 567337"}
+{"ts":"2026-03-14T13:54:46.759533Z","service":"checkout-api","level":"INFO","message":"order 266697 placed in 253ms"}
+{"ts":"2026-03-14T13:54:52.452672Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 973826"}
+{"ts":"2026-03-14T13:54:56.735960Z","service":"inventory-api","level":"INFO","message":"handled request 606374 in 70ms"}
+{"ts":"2026-03-14T13:54:57.921477Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 157439"}
+{"ts":"2026-03-14T13:55:05.249808Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 592414"}
+{"ts":"2026-03-14T13:55:08.549829Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 233288"}
+{"ts":"2026-03-14T13:55:10.201001Z","service":"checkout-api","level":"INFO","message":"order 349757 placed in 180ms"}
+{"ts":"2026-03-14T13:55:13.562409Z","service":"checkout-api","level":"INFO","message":"order 541186 placed in 208ms"}
+{"ts":"2026-03-14T13:55:21.797187Z","service":"payments-api","level":"INFO","message":"handled request 692844 in 37ms"}
+{"ts":"2026-03-14T13:55:23.190603Z","service":"inventory-api","level":"INFO","message":"handled request 908199 in 21ms"}
+{"ts":"2026-03-14T13:55:37.881395Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 717142"}
+{"ts":"2026-03-14T13:55:56.186147Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 971139"}
+{"ts":"2026-03-14T13:56:01.170584Z","service":"payments-api","level":"INFO","message":"handled request 964116 in 61ms"}
+{"ts":"2026-03-14T13:56:14.859671Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 522721"}
+{"ts":"2026-03-14T13:56:30.605278Z","service":"inventory-api","level":"INFO","message":"handled request 140036 in 26ms"}
+{"ts":"2026-03-14T13:56:35.019089Z","service":"checkout-api","level":"INFO","message":"order 820308 placed in 189ms"}
+{"ts":"2026-03-14T13:56:40.257146Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 767270"}
+{"ts":"2026-03-14T13:56:43.108026Z","service":"checkout-api","level":"INFO","message":"order 280315 placed in 128ms"}
+{"ts":"2026-03-14T13:56:45.502506Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 173571"}
+{"ts":"2026-03-14T13:56:50.700685Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 648897"}
+{"ts":"2026-03-14T13:56:51.520782Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 770542"}
+{"ts":"2026-03-14T13:57:06.714145Z","service":"checkout-api","level":"INFO","message":"order 741177 placed in 127ms"}
+{"ts":"2026-03-14T13:57:34.082630Z","service":"inventory-api","level":"INFO","message":"handled request 819775 in 62ms"}
+{"ts":"2026-03-14T13:57:43.532303Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 439025"}
+{"ts":"2026-03-14T13:57:44.788349Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 241120"}
+{"ts":"2026-03-14T13:57:45.434292Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 973083"}
+{"ts":"2026-03-14T13:57:46.699513Z","service":"checkout-api","level":"INFO","message":"order 806311 placed in 187ms"}
+{"ts":"2026-03-14T13:57:47.262175Z","service":"payments-api","level":"INFO","message":"handled request 539077 in 75ms"}
+{"ts":"2026-03-14T13:57:55.171881Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 220079"}
+{"ts":"2026-03-14T13:57:56.052312Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 106736"}
+{"ts":"2026-03-14T13:58:03.679351Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 491136"}
+{"ts":"2026-03-14T13:58:07.787858Z","service":"payments-api","level":"INFO","message":"handled request 693608 in 64ms"}
+{"ts":"2026-03-14T13:58:12.177820Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 572974"}
+{"ts":"2026-03-14T13:58:12.999771Z","service":"checkout-api","level":"INFO","message":"order 519836 placed in 108ms"}
+{"ts":"2026-03-14T13:58:19.419581Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 887544"}
+{"ts":"2026-03-14T13:58:19.510567Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 608750"}
+{"ts":"2026-03-14T13:58:27.666656Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 652018"}
+{"ts":"2026-03-14T13:58:55.352204Z","service":"checkout-api","level":"INFO","message":"order 481709 placed in 220ms"}
+{"ts":"2026-03-14T13:58:57.963041Z","service":"inventory-api","level":"INFO","message":"handled request 552503 in 75ms"}
+{"ts":"2026-03-14T13:59:04.141061Z","service":"payments-api","level":"INFO","message":"handled request 364627 in 55ms"}
+{"ts":"2026-03-14T13:59:08.450925Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 519022"}
+{"ts":"2026-03-14T13:59:18.553053Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 502335"}
+{"ts":"2026-03-14T13:59:22.905558Z","service":"checkout-api","level":"INFO","message":"order 514017 placed in 151ms"}
+{"ts":"2026-03-14T13:59:28.226079Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 546559"}
+{"ts":"2026-03-14T13:59:30.496680Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 329978"}
+{"ts":"2026-03-14T13:59:36.696276Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 597602: SMTP timeout after 6s"}
+{"ts":"2026-03-14T13:59:38.715884Z","service":"checkout-api","level":"INFO","message":"order 516346 placed in 238ms"}
+{"ts":"2026-03-14T13:59:45.660882Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 668547"}
+{"ts":"2026-03-14T13:59:53.102381Z","service":"inventory-api","level":"INFO","message":"handled request 489857 in 89ms"}
+{"ts":"2026-03-14T14:00:06.399608Z","service":"payments-api","level":"INFO","message":"handled request 993976 in 26ms"}
+{"ts":"2026-03-14T14:00:08.652434Z","service":"inventory-api","level":"INFO","message":"handled request 511492 in 23ms"}
+{"ts":"2026-03-14T14:00:09.166579Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 502702"}
+{"ts":"2026-03-14T14:00:16.576911Z","service":"checkout-api","level":"INFO","message":"order 740644 placed in 172ms"}
+{"ts":"2026-03-14T14:00:30.072708Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 255388"}
+{"ts":"2026-03-14T14:00:37.898737Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 221508"}
+{"ts":"2026-03-14T14:00:39.058325Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 649830"}
+{"ts":"2026-03-14T14:00:51.703091Z","service":"checkout-api","level":"ERROR","message":"NullPointerException in DiscountEngine.apply(DiscountEngine.java:118) for order 250128"}
+{"ts":"2026-03-14T14:00:52.039982Z","service":"checkout-api","level":"INFO","message":"order 509757 placed in 250ms"}

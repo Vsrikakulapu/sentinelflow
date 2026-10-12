@@ -1,0 +1,603 @@
+{"ts":"2026-03-14T12:00:05.631575Z","service":"inventory-api","level":"INFO","message":"handled request 129724 in 69ms"}
+{"ts":"2026-03-14T12:00:07.075122Z","service":"checkout-api","level":"INFO","message":"order 897926 placed in 205ms"}
+{"ts":"2026-03-14T12:00:28.334715Z","service":"payments-api","level":"INFO","message":"handled request 498055 in 46ms"}
+{"ts":"2026-03-14T12:00:48.135904Z","service":"checkout-api","level":"INFO","message":"order 166172 placed in 155ms"}
+{"ts":"2026-03-14T12:01:01.835399Z","service":"inventory-api","level":"INFO","message":"handled request 126681 in 89ms"}
+{"ts":"2026-03-14T12:01:15.979834Z","service":"checkout-api","level":"INFO","message":"order 940775 placed in 148ms"}
+{"ts":"2026-03-14T12:01:35.469206Z","service":"payments-api","level":"INFO","message":"handled request 207192 in 60ms"}
+{"ts":"2026-03-14T12:01:45.736805Z","service":"checkout-api","level":"INFO","message":"order 102208 placed in 204ms"}
+{"ts":"2026-03-14T12:01:52.874032Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 819830: SMTP timeout after 6s"}
+{"ts":"2026-03-14T12:02:20.742025Z","service":"inventory-api","level":"INFO","message":"handled request 809727 in 48ms"}
+{"ts":"2026-03-14T12:02:31.657765Z","service":"checkout-api","level":"INFO","message":"order 900798 placed in 202ms"}
+{"ts":"2026-03-14T12:02:56.350021Z","service":"payments-api","level":"INFO","message":"handled request 679715 in 49ms"}
+{"ts":"2026-03-14T12:02:58.142439Z","service":"checkout-api","level":"INFO","message":"order 861111 placed in 97ms"}
+{"ts":"2026-03-14T12:03:06.000016Z","service":"payments-api","level":"INFO","message":"handled request 759924 in 57ms"}
+{"ts":"2026-03-14T12:03:07.253398Z","service":"inventory-api","level":"INFO","message":"handled request 448856 in 84ms"}
+{"ts":"2026-03-14T12:03:50.254679Z","service":"checkout-api","level":"INFO","message":"order 683484 placed in 254ms"}
+{"ts":"2026-03-14T12:03:57.134667Z","service":"checkout-api","level":"INFO","message":"order 122533 placed in 196ms"}
+{"ts":"2026-03-14T12:04:18.202111Z","service":"checkout-api","level":"INFO","message":"order 716122 placed in 217ms"}
+{"ts":"2026-03-14T12:04:25.326420Z","service":"checkout-api","level":"INFO","message":"order 970355 placed in 138ms"}
+{"ts":"2026-03-14T12:04:35.340135Z","service":"inventory-api","level":"INFO","message":"handled request 136202 in 81ms"}
+{"ts":"2026-03-14T12:04:50.771845Z","service":"payments-api","level":"INFO","message":"handled request 629828 in 70ms"}
+{"ts":"2026-03-14T12:05:05.188055Z","service":"payments-api","level":"INFO","message":"handled request 796000 in 85ms"}
+{"ts":"2026-03-14T12:05:06.475876Z","service":"inventory-api","level":"INFO","message":"handled request 271650 in 86ms"}
+{"ts":"2026-03-14T12:05:10.380444Z","service":"checkout-api","level":"INFO","message":"order 675457 placed in 185ms"}
+{"ts":"2026-03-14T12:05:47.844255Z","service":"checkout-api","level":"INFO","message":"order 534439 placed in 260ms"}
+{"ts":"2026-03-14T12:06:10.115658Z","service":"inventory-api","level":"INFO","message":"handled request 337961 in 21ms"}
+{"ts":"2026-03-14T12:06:22.231360Z","service":"checkout-api","level":"INFO","message":"order 868360 placed in 97ms"}
+{"ts":"2026-03-14T12:06:28.159208Z","service":"checkout-api","level":"INFO","message":"order 423516 placed in 247ms"}
+{"ts":"2026-03-14T12:06:35.591024Z","service":"payments-api","level":"INFO","message":"handled request 512719 in 41ms"}
+{"ts":"2026-03-14T12:07:21.196450Z","service":"payments-api","level":"INFO","message":"handled request 382359 in 90ms"}
+{"ts":"2026-03-14T12:07:24.267292Z","service":"checkout-api","level":"INFO","message":"order 460527 placed in 237ms"}
+{"ts":"2026-03-14T12:07:32.377047Z","service":"checkout-api","level":"INFO","message":"order 674974 placed in 149ms"}
+{"ts":"2026-03-14T12:07:36.536690Z","service":"inventory-api","level":"INFO","message":"handled request 864831 in 20ms"}
+{"ts":"2026-03-14T12:08:12.329115Z","service":"payments-api","level":"INFO","message":"handled request 158849 in 81ms"}
+{"ts":"2026-03-14T12:08:48.548394Z","service":"checkout-api","level":"INFO","message":"order 643873 placed in 233ms"}
+{"ts":"2026-03-14T12:08:51.416948Z","service":"checkout-api","level":"INFO","message":"order 876474 placed in 221ms"}
+{"ts":"2026-03-14T12:08:52.200609Z","service":"inventory-api","level":"INFO","message":"handled request 697687 in 90ms"}
+{"ts":"2026-03-14T12:09:24.865471Z","service":"checkout-api","level":"INFO","message":"order 101661 placed in 227ms"}
+{"ts":"2026-03-14T12:09:27.488808Z","service":"inventory-api","level":"INFO","message":"handled request 129333 in 49ms"}
+{"ts":"2026-03-14T12:09:30.283228Z","service":"checkout-api","level":"INFO","message":"order 608480 placed in 181ms"}
+{"ts":"2026-03-14T12:09:32.406573Z","service":"payments-api","level":"INFO","message":"handled request 924646 in 62ms"}
+{"ts":"2026-03-14T12:10:01.947548Z","service":"payments-api","level":"INFO","message":"handled request 805810 in 29ms"}
+{"ts":"2026-03-14T12:10:04.994048Z","service":"inventory-api","level":"INFO","message":"handled request 117501 in 77ms"}
+{"ts":"2026-03-14T12:10:33.045376Z","service":"checkout-api","level":"INFO","message":"order 289565 placed in 113ms"}
+{"ts":"2026-03-14T12:10:45.335207Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 361681: SMTP timeout after 7s"}
+{"ts":"2026-03-14T12:10:47.906336Z","service":"checkout-api","level":"INFO","message":"order 935817 placed in 155ms"}
+{"ts":"2026-03-14T12:11:06.569318Z","service":"checkout-api","level":"INFO","message":"order 755152 placed in 137ms"}
+{"ts":"2026-03-14T12:11:09.577531Z","service":"payments-api","level":"INFO","message":"handled request 652998 in 41ms"}
+{"ts":"2026-03-14T12:11:20.665372Z","service":"checkout-api","level":"INFO","message":"order 172892 placed in 132ms"}
+{"ts":"2026-03-14T12:11:39.399390Z","service":"inventory-api","level":"INFO","message":"handled request 779689 in 57ms"}
+{"ts":"2026-03-14T12:12:01.418075Z","service":"checkout-api","level":"INFO","message":"order 505334 placed in 177ms"}
+{"ts":"2026-03-14T12:12:06.525702Z","service":"inventory-api","level":"INFO","message":"handled request 865620 in 85ms"}
+{"ts":"2026-03-14T12:12:19.320106Z","service":"checkout-api","level":"INFO","message":"order 596784 placed in 119ms"}
+{"ts":"2026-03-14T12:12:25.255121Z","service":"payments-api","level":"INFO","message":"handled request 297173 in 53ms"}
+{"ts":"2026-03-14T12:13:02.119563Z","service":"payments-api","level":"INFO","message":"handled request 268010 in 77ms"}
+{"ts":"2026-03-14T12:13:13.522441Z","service":"checkout-api","level":"INFO","message":"order 516615 placed in 127ms"}
+{"ts":"2026-03-14T12:13:42.276338Z","service":"inventory-api","level":"INFO","message":"handled request 811118 in 74ms"}
+{"ts":"2026-03-14T12:13:57.933811Z","service":"checkout-api","level":"INFO","message":"order 552623 placed in 95ms"}
+{"ts":"2026-03-14T12:14:01.842017Z","service":"payments-api","level":"INFO","message":"handled request 807686 in 61ms"}
+{"ts":"2026-03-14T12:14:13.235985Z","service":"checkout-api","level":"INFO","message":"order 761412 placed in 222ms"}
+{"ts":"2026-03-14T12:14:27.050702Z","service":"checkout-api","level":"INFO","message":"order 649344 placed in 256ms"}
+{"ts":"2026-03-14T12:14:39.589434Z","service":"inventory-api","level":"INFO","message":"handled request 547007 in 27ms"}
+{"ts":"2026-03-14T12:15:07.540999Z","service":"checkout-api","level":"INFO","message":"order 322436 placed in 102ms"}
+{"ts":"2026-03-14T12:15:18.383197Z","service":"checkout-api","level":"INFO","message":"order 180159 placed in 169ms"}
+{"ts":"2026-03-14T12:15:24.970336Z","service":"inventory-api","level":"INFO","message":"handled request 364616 in 36ms"}
+{"ts":"2026-03-14T12:15:52.723074Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 139758: SMTP timeout after 9s"}
+{"ts":"2026-03-14T12:15:55.030579Z","service":"payments-api","level":"INFO","message":"handled request 412349 in 40ms"}
+{"ts":"2026-03-14T12:16:10.291026Z","service":"checkout-api","level":"INFO","message":"order 917907 placed in 249ms"}
+{"ts":"2026-03-14T12:16:20.815853Z","service":"inventory-api","level":"INFO","message":"handled request 315756 in 75ms"}
+{"ts":"2026-03-14T12:16:30.532425Z","service":"payments-api","level":"INFO","message":"handled request 496329 in 45ms"}
+{"ts":"2026-03-14T12:16:49.164847Z","service":"checkout-api","level":"INFO","message":"order 697982 placed in 207ms"}
+{"ts":"2026-03-14T12:17:01.085579Z","service":"inventory-api","level":"INFO","message":"handled request 310609 in 61ms"}
+{"ts":"2026-03-14T12:17:17.764360Z","service":"checkout-api","level":"INFO","message":"order 624078 placed in 94ms"}
+{"ts":"2026-03-14T12:17:19.520739Z","service":"payments-api","level":"INFO","message":"handled request 521868 in 56ms"}
+{"ts":"2026-03-14T12:17:29.541045Z","service":"checkout-api","level":"INFO","message":"order 798307 placed in 189ms"}
+{"ts":"2026-03-14T12:18:25.754425Z","service":"checkout-api","level":"INFO","message":"order 379482 placed in 114ms"}
+{"ts":"2026-03-14T12:18:33.800432Z","service":"checkout-api","level":"INFO","message":"order 241707 placed in 176ms"}
+{"ts":"2026-03-14T12:18:50.262064Z","service":"payments-api","level":"INFO","message":"handled request 674228 in 64ms"}
+{"ts":"2026-03-14T12:18:54.866678Z","service":"inventory-api","level":"INFO","message":"handled request 978384 in 88ms"}
+{"ts":"2026-03-14T12:19:10.181649Z","service":"payments-api","level":"INFO","message":"handled request 664352 in 47ms"}
+{"ts":"2026-03-14T12:19:16.080597Z","service":"inventory-api","level":"INFO","message":"handled request 448372 in 84ms"}
+{"ts":"2026-03-14T12:19:43.527911Z","service":"checkout-api","level":"INFO","message":"order 188793 placed in 124ms"}
+{"ts":"2026-03-14T12:19:59.130494Z","service":"checkout-api","level":"INFO","message":"order 346038 placed in 106ms"}
+{"ts":"2026-03-14T12:20:08.120759Z","service":"payments-api","level":"INFO","message":"handled request 677944 in 33ms"}
+{"ts":"2026-03-14T12:20:17.472917Z","service":"checkout-api","level":"INFO","message":"order 733321 placed in 215ms"}
+{"ts":"2026-03-14T12:20:19.243557Z","service":"inventory-api","level":"INFO","message":"handled request 526349 in 29ms"}
+{"ts":"2026-03-14T12:20:22.086480Z","service":"checkout-api","level":"INFO","message":"order 456814 placed in 119ms"}
+{"ts":"2026-03-14T12:21:20.453848Z","service":"checkout-api","level":"INFO","message":"order 745069 placed in 240ms"}
+{"ts":"2026-03-14T12:21:34.246892Z","service":"inventory-api","level":"INFO","message":"handled request 334581 in 30ms"}
+{"ts":"2026-03-14T12:21:46.914216Z","service":"payments-api","level":"INFO","message":"handled request 496403 in 29ms"}
+{"ts":"2026-03-14T12:21:59.474003Z","service":"checkout-api","level":"INFO","message":"order 254485 placed in 122ms"}
+{"ts":"2026-03-14T12:22:21.893508Z","service":"checkout-api","level":"INFO","message":"order 409909 placed in 234ms"}
+{"ts":"2026-03-14T12:22:32.057651Z","service":"checkout-api","level":"INFO","message":"order 219869 placed in 207ms"}
+{"ts":"2026-03-14T12:22:49.666089Z","service":"inventory-api","level":"INFO","message":"handled request 112983 in 21ms"}
+{"ts":"2026-03-14T12:22:53.805565Z","service":"payments-api","level":"INFO","message":"handled request 212963 in 25ms"}
+{"ts":"2026-03-14T12:23:06.906150Z","service":"checkout-api","level":"INFO","message":"order 928247 placed in 100ms"}
+{"ts":"2026-03-14T12:23:10.043006Z","service":"inventory-api","level":"INFO","message":"handled request 353147 in 40ms"}
+{"ts":"2026-03-14T12:23:11.275326Z","service":"checkout-api","level":"INFO","message":"order 923669 placed in 240ms"}
+{"ts":"2026-03-14T12:23:25.260815Z","service":"payments-api","level":"INFO","message":"handled request 221171 in 77ms"}
+{"ts":"2026-03-14T12:24:00.630369Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 409906: SMTP timeout after 9s"}
+{"ts":"2026-03-14T12:24:06.007749Z","service":"inventory-api","level":"INFO","message":"handled request 783724 in 60ms"}
+{"ts":"2026-03-14T12:24:06.170049Z","service":"checkout-api","level":"INFO","message":"order 496652 placed in 228ms"}
+{"ts":"2026-03-14T12:24:15.204608Z","service":"payments-api","level":"INFO","message":"handled request 600181 in 60ms"}
+{"ts":"2026-03-14T12:24:54.553364Z","service":"checkout-api","level":"INFO","message":"order 408306 placed in 230ms"}
+{"ts":"2026-03-14T12:25:15.003769Z","service":"inventory-api","level":"INFO","message":"handled request 923274 in 89ms"}
+{"ts":"2026-03-14T12:25:19.215076Z","service":"checkout-api","level":"INFO","message":"order 510275 placed in 170ms"}
+{"ts":"2026-03-14T12:25:23.913310Z","service":"checkout-api","level":"INFO","message":"order 167310 placed in 171ms"}
+{"ts":"2026-03-14T12:25:58.188797Z","service":"payments-api","level":"INFO","message":"handled request 578001 in 34ms"}
+{"ts":"2026-03-14T12:26:10.993365Z","service":"checkout-api","level":"INFO","message":"order 317932 placed in 168ms"}
+{"ts":"2026-03-14T12:26:11.952954Z","service":"payments-api","level":"INFO","message":"handled request 477973 in 30ms"}
+{"ts":"2026-03-14T12:26:28.135206Z","service":"checkout-api","level":"INFO","message":"order 473111 placed in 156ms"}
+{"ts":"2026-03-14T12:26:49.198623Z","service":"inventory-api","level":"INFO","message":"handled request 193758 in 77ms"}
+{"ts":"2026-03-14T12:27:14.750888Z","service":"inventory-api","level":"INFO","message":"handled request 205851 in 89ms"}
+{"ts":"2026-03-14T12:27:19.634485Z","service":"payments-api","level":"INFO","message":"handled request 432120 in 58ms"}
+{"ts":"2026-03-14T12:27:23.428713Z","service":"checkout-api","level":"INFO","message":"order 421686 placed in 100ms"}
+{"ts":"2026-03-14T12:27:34.461374Z","service":"checkout-api","level":"INFO","message":"order 455345 placed in 148ms"}
+{"ts":"2026-03-14T12:28:00.595018Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 887196: SMTP timeout after 7s"}
+{"ts":"2026-03-14T12:28:13.209326Z","service":"checkout-api","level":"INFO","message":"order 947525 placed in 152ms"}
+{"ts":"2026-03-14T12:28:24.106419Z","service":"payments-api","level":"INFO","message":"handled request 381085 in 90ms"}
+{"ts":"2026-03-14T12:28:48.454062Z","service":"checkout-api","level":"INFO","message":"order 196515 placed in 152ms"}
+{"ts":"2026-03-14T12:28:52.053363Z","service":"inventory-api","level":"INFO","message":"handled request 864589 in 29ms"}
+{"ts":"2026-03-14T12:29:04.626419Z","service":"payments-api","level":"INFO","message":"handled request 797562 in 42ms"}
+{"ts":"2026-03-14T12:29:10.773986Z","service":"inventory-api","level":"INFO","message":"handled request 256828 in 38ms"}
+{"ts":"2026-03-14T12:29:29.595663Z","service":"checkout-api","level":"INFO","message":"order 261669 placed in 115ms"}
+{"ts":"2026-03-14T12:29:30.085775Z","service":"checkout-api","level":"INFO","message":"order 933600 placed in 173ms"}
+{"ts":"2026-03-14T12:30:07.577989Z","service":"payments-api","level":"INFO","message":"handled request 316783 in 38ms"}
+{"ts":"2026-03-14T12:30:19.187040Z","service":"checkout-api","level":"INFO","message":"order 212069 placed in 221ms"}
+{"ts":"2026-03-14T12:30:32.729578Z","service":"inventory-api","level":"INFO","message":"handled request 857730 in 24ms"}
+{"ts":"2026-03-14T12:30:50.081350Z","service":"checkout-api","level":"INFO","message":"order 731130 placed in 165ms"}
+{"ts":"2026-03-14T12:31:09.473817Z","service":"inventory-api","level":"INFO","message":"handled request 849547 in 51ms"}
+{"ts":"2026-03-14T12:31:10.689292Z","service":"payments-api","level":"INFO","message":"handled request 553653 in 88ms"}
+{"ts":"2026-03-14T12:31:49.261790Z","service":"checkout-api","level":"INFO","message":"order 753816 placed in 231ms"}
+{"ts":"2026-03-14T12:31:50.443111Z","service":"checkout-api","level":"INFO","message":"order 882431 placed in 142ms"}
+{"ts":"2026-03-14T12:32:03.864852Z","service":"checkout-api","level":"INFO","message":"order 568393 placed in 200ms"}
+{"ts":"2026-03-14T12:32:23.742627Z","service":"inventory-api","level":"INFO","message":"handled request 455120 in 41ms"}
+{"ts":"2026-03-14T12:32:32.956196Z","service":"checkout-api","level":"INFO","message":"order 667675 placed in 202ms"}
+{"ts":"2026-03-14T12:32:51.077560Z","service":"payments-api","level":"INFO","message":"handled request 575329 in 21ms"}
+{"ts":"2026-03-14T12:33:01.464510Z","service":"checkout-api","level":"INFO","message":"order 777840 placed in 196ms"}
+{"ts":"2026-03-14T12:33:35.612780Z","service":"inventory-api","level":"INFO","message":"handled request 245223 in 53ms"}
+{"ts":"2026-03-14T12:33:41.502205Z","service":"payments-api","level":"INFO","message":"handled request 708248 in 37ms"}
+{"ts":"2026-03-14T12:33:58.578720Z","service":"checkout-api","level":"INFO","message":"order 119829 placed in 105ms"}
+{"ts":"2026-03-14T12:34:10.330453Z","service":"checkout-api","level":"INFO","message":"order 193582 placed in 149ms"}
+{"ts":"2026-03-14T12:34:16.614860Z","service":"checkout-api","level":"INFO","message":"order 691472 placed in 192ms"}
+{"ts":"2026-03-14T12:34:19.034498Z","service":"inventory-api","level":"INFO","message":"handled request 780357 in 76ms"}
+{"ts":"2026-03-14T12:34:29.159802Z","service":"payments-api","level":"INFO","message":"handled request 286204 in 87ms"}
+{"ts":"2026-03-14T12:35:18.779093Z","service":"checkout-api","level":"INFO","message":"order 820318 placed in 212ms"}
+{"ts":"2026-03-14T12:35:20.217090Z","service":"inventory-api","level":"INFO","message":"handled request 740980 in 55ms"}
+{"ts":"2026-03-14T12:35:38.346651Z","service":"checkout-api","level":"INFO","message":"order 336695 placed in 151ms"}
+{"ts":"2026-03-14T12:35:57.392384Z","service":"payments-api","level":"INFO","message":"handled request 847473 in 72ms"}
+{"ts":"2026-03-14T12:36:13.168151Z","service":"checkout-api","level":"INFO","message":"order 175027 placed in 220ms"}
+{"ts":"2026-03-14T12:36:18.708122Z","service":"inventory-api","level":"INFO","message":"handled request 826198 in 58ms"}
+{"ts":"2026-03-14T12:36:30.697909Z","service":"payments-api","level":"INFO","message":"handled request 930975 in 46ms"}
+{"ts":"2026-03-14T12:36:38.717306Z","service":"checkout-api","level":"INFO","message":"order 486599 placed in 130ms"}
+{"ts":"2026-03-14T12:37:10.576554Z","service":"inventory-api","level":"INFO","message":"handled request 362768 in 74ms"}
+{"ts":"2026-03-14T12:37:22.296860Z","service":"checkout-api","level":"INFO","message":"order 835348 placed in 208ms"}
+{"ts":"2026-03-14T12:37:35.674668Z","service":"checkout-api","level":"INFO","message":"order 997871 placed in 121ms"}
+{"ts":"2026-03-14T12:37:53.796262Z","service":"payments-api","level":"INFO","message":"handled request 638916 in 68ms"}
+{"ts":"2026-03-14T12:38:20.878890Z","service":"payments-api","level":"INFO","message":"handled request 640075 in 41ms"}
+{"ts":"2026-03-14T12:38:29.701550Z","service":"checkout-api","level":"INFO","message":"order 512727 placed in 253ms"}
+{"ts":"2026-03-14T12:38:32.653373Z","service":"inventory-api","level":"INFO","message":"handled request 142686 in 87ms"}
+{"ts":"2026-03-14T12:38:34.171041Z","service":"checkout-api","level":"INFO","message":"order 894558 placed in 103ms"}
+{"ts":"2026-03-14T12:39:16.051575Z","service":"checkout-api","level":"INFO","message":"order 187786 placed in 125ms"}
+{"ts":"2026-03-14T12:39:26.703524Z","service":"inventory-api","level":"INFO","message":"handled request 352696 in 68ms"}
+{"ts":"2026-03-14T12:39:48.476624Z","service":"checkout-api","level":"INFO","message":"order 758976 placed in 115ms"}
+{"ts":"2026-03-14T12:39:58.153713Z","service":"payments-api","level":"INFO","message":"handled request 746869 in 30ms"}
+{"ts":"2026-03-14T12:40:07.151204Z","service":"inventory-api","level":"INFO","message":"handled request 729857 in 88ms"}
+{"ts":"2026-03-14T12:40:37.344153Z","service":"payments-api","level":"INFO","message":"handled request 611669 in 47ms"}
+{"ts":"2026-03-14T12:40:54.205556Z","service":"checkout-api","level":"INFO","message":"order 516536 placed in 132ms"}
+{"ts":"2026-03-14T12:40:54.605050Z","service":"checkout-api","level":"INFO","message":"order 559411 placed in 122ms"}
+{"ts":"2026-03-14T12:41:00.240537Z","service":"payments-api","level":"INFO","message":"handled request 299060 in 87ms"}
+{"ts":"2026-03-14T12:41:07.085402Z","service":"checkout-api","level":"INFO","message":"order 409828 placed in 161ms"}
+{"ts":"2026-03-14T12:41:14.892982Z","service":"checkout-api","level":"INFO","message":"order 885988 placed in 233ms"}
+{"ts":"2026-03-14T12:41:26.326384Z","service":"inventory-api","level":"INFO","message":"handled request 122056 in 23ms"}
+{"ts":"2026-03-14T12:42:12.396349Z","service":"checkout-api","level":"INFO","message":"order 398615 placed in 127ms"}
+{"ts":"2026-03-14T12:42:32.540366Z","service":"payments-api","level":"INFO","message":"handled request 386497 in 59ms"}
+{"ts":"2026-03-14T12:42:35.144285Z","service":"inventory-api","level":"INFO","message":"handled request 363069 in 77ms"}
+{"ts":"2026-03-14T12:42:36.337652Z","service":"checkout-api","level":"INFO","message":"order 975909 placed in 156ms"}
+{"ts":"2026-03-14T12:43:12.289304Z","service":"inventory-api","level":"INFO","message":"handled request 949935 in 33ms"}
+{"ts":"2026-03-14T12:43:21.417326Z","service":"checkout-api","level":"INFO","message":"order 540366 placed in 121ms"}
+{"ts":"2026-03-14T12:43:46.144043Z","service":"payments-api","level":"INFO","message":"handled request 698259 in 69ms"}
+{"ts":"2026-03-14T12:43:48.519277Z","service":"checkout-api","level":"INFO","message":"order 276139 placed in 229ms"}
+{"ts":"2026-03-14T12:44:01.449038Z","service":"checkout-api","level":"INFO","message":"order 696963 placed in 93ms"}
+{"ts":"2026-03-14T12:44:08.195641Z","service":"payments-api","level":"INFO","message":"handled request 624677 in 67ms"}
+{"ts":"2026-03-14T12:44:32.717225Z","service":"checkout-api","level":"INFO","message":"order 806649 placed in 256ms"}
+{"ts":"2026-03-14T12:44:34.354697Z","service":"inventory-api","level":"INFO","message":"handled request 426370 in 75ms"}
+{"ts":"2026-03-14T12:45:00.050683Z","service":"checkout-api","level":"INFO","message":"order 563800 placed in 205ms"}
+{"ts":"2026-03-14T12:45:20.361909Z","service":"inventory-api","level":"INFO","message":"handled request 866649 in 83ms"}
+{"ts":"2026-03-14T12:45:21.012765Z","service":"payments-api","level":"INFO","message":"handled request 665492 in 71ms"}
+{"ts":"2026-03-14T12:45:21.409126Z","service":"checkout-api","level":"INFO","message":"order 654061 placed in 172ms"}
+{"ts":"2026-03-14T12:46:11.932756Z","service":"inventory-api","level":"INFO","message":"handled request 584002 in 86ms"}
+{"ts":"2026-03-14T12:46:33.413314Z","service":"checkout-api","level":"INFO","message":"order 391106 placed in 252ms"}
+{"ts":"2026-03-14T12:46:35.889852Z","service":"payments-api","level":"INFO","message":"handled request 874441 in 85ms"}
+{"ts":"2026-03-14T12:46:55.068741Z","service":"checkout-api","level":"INFO","message":"order 500960 placed in 142ms"}
+{"ts":"2026-03-14T12:47:11.841667Z","service":"payments-api","level":"INFO","message":"handled request 651750 in 20ms"}
+{"ts":"2026-03-14T12:47:26.963289Z","service":"checkout-api","level":"INFO","message":"order 801330 placed in 225ms"}
+{"ts":"2026-03-14T12:47:40.712891Z","service":"inventory-api","level":"INFO","message":"handled request 707488 in 74ms"}
+{"ts":"2026-03-14T12:47:44.677837Z","service":"checkout-api","level":"INFO","message":"order 420168 placed in 133ms"}
+{"ts":"2026-03-14T12:48:20.160612Z","service":"checkout-api","level":"INFO","message":"order 751820 placed in 239ms"}
+{"ts":"2026-03-14T12:48:29.562123Z","service":"payments-api","level":"INFO","message":"handled request 881994 in 51ms"}
+{"ts":"2026-03-14T12:48:38.421324Z","service":"inventory-api","level":"INFO","message":"handled request 780258 in 57ms"}
+{"ts":"2026-03-14T12:48:58.469174Z","service":"checkout-api","level":"INFO","message":"order 833482 placed in 107ms"}
+{"ts":"2026-03-14T12:49:24.419938Z","service":"checkout-api","level":"INFO","message":"order 759829 placed in 129ms"}
+{"ts":"2026-03-14T12:49:38.023951Z","service":"checkout-api","level":"INFO","message":"order 516617 placed in 159ms"}
+{"ts":"2026-03-14T12:49:48.919552Z","service":"inventory-api","level":"INFO","message":"handled request 734873 in 21ms"}
+{"ts":"2026-03-14T12:49:50.776084Z","service":"payments-api","level":"INFO","message":"handled request 904781 in 29ms"}
+{"ts":"2026-03-14T12:50:09.124198Z","service":"payments-api","level":"INFO","message":"handled request 973437 in 53ms"}
+{"ts":"2026-03-14T12:50:15.874995Z","service":"checkout-api","level":"INFO","message":"order 842412 placed in 195ms"}
+{"ts":"2026-03-14T12:50:29.072585Z","service":"inventory-api","level":"INFO","message":"handled request 589792 in 85ms"}
+{"ts":"2026-03-14T12:50:30.616855Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 880924: SMTP timeout after 9s"}
+{"ts":"2026-03-14T12:50:52.436524Z","service":"checkout-api","level":"INFO","message":"order 670684 placed in 167ms"}
+{"ts":"2026-03-14T12:51:24.115424Z","service":"inventory-api","level":"INFO","message":"handled request 822372 in 55ms"}
+{"ts":"2026-03-14T12:51:25.355869Z","service":"checkout-api","level":"INFO","message":"order 472430 placed in 107ms"}
+{"ts":"2026-03-14T12:51:30.429816Z","service":"payments-api","level":"INFO","message":"handled request 269478 in 31ms"}
+{"ts":"2026-03-14T12:51:39.410612Z","service":"checkout-api","level":"INFO","message":"order 120700 placed in 132ms"}
+{"ts":"2026-03-14T12:52:04.493087Z","service":"payments-api","level":"INFO","message":"handled request 971028 in 86ms"}
+{"ts":"2026-03-14T12:52:12.533363Z","service":"checkout-api","level":"INFO","message":"order 317797 placed in 150ms"}
+{"ts":"2026-03-14T12:52:39.527097Z","service":"inventory-api","level":"INFO","message":"handled request 590667 in 85ms"}
+{"ts":"2026-03-14T12:52:53.161517Z","service":"checkout-api","level":"INFO","message":"order 382139 placed in 107ms"}
+{"ts":"2026-03-14T12:53:02.984543Z","service":"checkout-api","level":"INFO","message":"order 411297 placed in 257ms"}
+{"ts":"2026-03-14T12:53:16.185638Z","service":"payments-api","level":"INFO","message":"handled request 739281 in 49ms"}
+{"ts":"2026-03-14T12:53:23.553548Z","service":"inventory-api","level":"INFO","message":"handled request 519132 in 42ms"}
+{"ts":"2026-03-14T12:53:44.105186Z","service":"checkout-api","level":"INFO","message":"order 954593 placed in 232ms"}
+{"ts":"2026-03-14T12:54:15.571310Z","service":"checkout-api","level":"INFO","message":"order 740052 placed in 174ms"}
+{"ts":"2026-03-14T12:54:42.401419Z","service":"payments-api","level":"INFO","message":"handled request 984780 in 23ms"}
+{"ts":"2026-03-14T12:54:42.963138Z","service":"checkout-api","level":"INFO","message":"order 371337 placed in 246ms"}
+{"ts":"2026-03-14T12:54:51.106326Z","service":"inventory-api","level":"INFO","message":"handled request 752688 in 71ms"}
+{"ts":"2026-03-14T12:55:25.905937Z","service":"checkout-api","level":"INFO","message":"order 898588 placed in 153ms"}
+{"ts":"2026-03-14T12:55:34.885988Z","service":"inventory-api","level":"INFO","message":"handled request 863623 in 38ms"}
+{"ts":"2026-03-14T12:55:37.553190Z","service":"payments-api","level":"INFO","message":"handled request 273675 in 76ms"}
+{"ts":"2026-03-14T12:55:47.124717Z","service":"checkout-api","level":"INFO","message":"order 299125 placed in 108ms"}
+{"ts":"2026-03-14T12:56:08.317184Z","service":"checkout-api","level":"INFO","message":"order 244806 placed in 202ms"}
+{"ts":"2026-03-14T12:56:14.429616Z","service":"inventory-api","level":"INFO","message":"handled request 853043 in 46ms"}
+{"ts":"2026-03-14T12:56:15.719042Z","service":"checkout-api","level":"INFO","message":"order 652172 placed in 131ms"}
+{"ts":"2026-03-14T12:56:21.665386Z","service":"payments-api","level":"INFO","message":"handled request 887875 in 71ms"}
+{"ts":"2026-03-14T12:57:18.329753Z","service":"checkout-api","level":"INFO","message":"order 211553 placed in 148ms"}
+{"ts":"2026-03-14T12:57:23.820471Z","service":"checkout-api","level":"INFO","message":"order 616278 placed in 115ms"}
+{"ts":"2026-03-14T12:57:48.568668Z","service":"inventory-api","level":"INFO","message":"handled request 124414 in 47ms"}
+{"ts":"2026-03-14T12:57:57.319249Z","service":"payments-api","level":"INFO","message":"handled request 147165 in 27ms"}
+{"ts":"2026-03-14T12:58:05.713851Z","service":"inventory-api","level":"INFO","message":"handled request 519121 in 49ms"}
+{"ts":"2026-03-14T12:58:07.084026Z","service":"payments-api","level":"INFO","message":"handled request 826282 in 42ms"}
+{"ts":"2026-03-14T12:58:26.537242Z","service":"checkout-api","level":"INFO","message":"order 795127 placed in 160ms"}
+{"ts":"2026-03-14T12:58:29.667627Z","service":"checkout-api","level":"INFO","message":"order 654210 placed in 246ms"}
+{"ts":"2026-03-14T12:59:14.144205Z","service":"checkout-api","level":"INFO","message":"order 397419 placed in 208ms"}
+{"ts":"2026-03-14T12:59:22.673656Z","service":"checkout-api","level":"INFO","message":"order 276787 placed in 149ms"}
+{"ts":"2026-03-14T12:59:27.101814Z","service":"inventory-api","level":"INFO","message":"handled request 370401 in 62ms"}
+{"ts":"2026-03-14T12:59:32.821170Z","service":"payments-api","level":"INFO","message":"handled request 508518 in 47ms"}
+{"ts":"2026-03-14T13:00:02.773077Z","service":"checkout-api","level":"INFO","message":"order 936179 placed in 91ms"}
+{"ts":"2026-03-14T13:00:06.656738Z","service":"checkout-api","level":"INFO","message":"order 324235 placed in 110ms"}
+{"ts":"2026-03-14T13:00:50.874817Z","service":"inventory-api","level":"INFO","message":"handled request 401167 in 45ms"}
+{"ts":"2026-03-14T13:00:51.455270Z","service":"payments-api","level":"INFO","message":"handled request 435098 in 69ms"}
+{"ts":"2026-03-14T13:01:03.427181Z","service":"inventory-api","level":"INFO","message":"handled request 497923 in 52ms"}
+{"ts":"2026-03-14T13:01:09.136385Z","service":"checkout-api","level":"INFO","message":"order 131936 placed in 93ms"}
+{"ts":"2026-03-14T13:01:23.236307Z","service":"payments-api","level":"INFO","message":"handled request 797105 in 89ms"}
+{"ts":"2026-03-14T13:01:52.801810Z","service":"checkout-api","level":"INFO","message":"order 895408 placed in 255ms"}
+{"ts":"2026-03-14T13:02:02.568887Z","service":"inventory-api","level":"INFO","message":"handled request 386880 in 35ms"}
+{"ts":"2026-03-14T13:02:03.651105Z","service":"payments-api","level":"INFO","message":"handled request 981458 in 36ms"}
+{"ts":"2026-03-14T13:02:27.773356Z","service":"checkout-api","level":"INFO","message":"order 980783 placed in 167ms"}
+{"ts":"2026-03-14T13:02:54.365061Z","service":"checkout-api","level":"INFO","message":"order 137192 placed in 227ms"}
+{"ts":"2026-03-14T13:03:07.818704Z","service":"checkout-api","level":"INFO","message":"order 392836 placed in 139ms"}
+{"ts":"2026-03-14T13:03:11.406656Z","service":"checkout-api","level":"INFO","message":"order 623933 placed in 253ms"}
+{"ts":"2026-03-14T13:03:37.863781Z","service":"inventory-api","level":"INFO","message":"handled request 372464 in 51ms"}
+{"ts":"2026-03-14T13:03:39.780971Z","service":"payments-api","level":"INFO","message":"handled request 508632 in 62ms"}
+{"ts":"2026-03-14T13:04:10.516592Z","service":"checkout-api","level":"INFO","message":"order 549287 placed in 244ms"}
+{"ts":"2026-03-14T13:04:35.275501Z","service":"checkout-api","level":"INFO","message":"order 926240 placed in 241ms"}
+{"ts":"2026-03-14T13:04:41.883381Z","service":"payments-api","level":"INFO","message":"handled request 769391 in 86ms"}
+{"ts":"2026-03-14T13:04:58.148544Z","service":"inventory-api","level":"INFO","message":"handled request 470385 in 90ms"}
+{"ts":"2026-03-14T13:05:11.962100Z","service":"checkout-api","level":"INFO","message":"order 662461 placed in 198ms"}
+{"ts":"2026-03-14T13:05:12.200791Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 548897: SMTP timeout after 5s"}
+{"ts":"2026-03-14T13:05:15.094842Z","service":"inventory-api","level":"INFO","message":"handled request 201258 in 39ms"}
+{"ts":"2026-03-14T13:05:44.596984Z","service":"payments-api","level":"INFO","message":"handled request 856144 in 29ms"}
+{"ts":"2026-03-14T13:05:55.195243Z","service":"checkout-api","level":"INFO","message":"order 173488 placed in 158ms"}
+{"ts":"2026-03-14T13:06:03.168675Z","service":"checkout-api","level":"INFO","message":"order 195649 placed in 221ms"}
+{"ts":"2026-03-14T13:06:28.150010Z","service":"checkout-api","level":"INFO","message":"order 488238 placed in 115ms"}
+{"ts":"2026-03-14T13:06:31.887903Z","service":"inventory-api","level":"INFO","message":"handled request 564885 in 36ms"}
+{"ts":"2026-03-14T13:06:59.081248Z","service":"payments-api","level":"INFO","message":"handled request 142066 in 36ms"}
+{"ts":"2026-03-14T13:07:15.000509Z","service":"payments-api","level":"INFO","message":"handled request 441221 in 30ms"}
+{"ts":"2026-03-14T13:07:18.110377Z","service":"inventory-api","level":"INFO","message":"handled request 502900 in 27ms"}
+{"ts":"2026-03-14T13:07:44.197531Z","service":"checkout-api","level":"INFO","message":"order 383104 placed in 113ms"}
+{"ts":"2026-03-14T13:07:45.804131Z","service":"checkout-api","level":"INFO","message":"order 567752 placed in 96ms"}
+{"ts":"2026-03-14T13:08:18.792402Z","service":"checkout-api","level":"INFO","message":"order 236320 placed in 156ms"}
+{"ts":"2026-03-14T13:08:25.489822Z","service":"inventory-api","level":"INFO","message":"handled request 357310 in 84ms"}
+{"ts":"2026-03-14T13:08:47.674333Z","service":"checkout-api","level":"INFO","message":"order 946116 placed in 119ms"}
+{"ts":"2026-03-14T13:08:51.351588Z","service":"payments-api","level":"INFO","message":"handled request 418499 in 32ms"}
+{"ts":"2026-03-14T13:09:06.281276Z","service":"payments-api","level":"INFO","message":"handled request 784274 in 77ms"}
+{"ts":"2026-03-14T13:09:19.806430Z","service":"checkout-api","level":"INFO","message":"order 455114 placed in 220ms"}
+{"ts":"2026-03-14T13:09:31.424783Z","service":"inventory-api","level":"INFO","message":"handled request 685782 in 86ms"}
+{"ts":"2026-03-14T13:09:47.017285Z","service":"checkout-api","level":"INFO","message":"order 712515 placed in 213ms"}
+{"ts":"2026-03-14T13:10:23.354312Z","service":"payments-api","level":"INFO","message":"handled request 439969 in 32ms"}
+{"ts":"2026-03-14T13:10:24.570174Z","service":"inventory-api","level":"INFO","message":"handled request 232505 in 28ms"}
+{"ts":"2026-03-14T13:10:44.590715Z","service":"checkout-api","level":"INFO","message":"order 309688 placed in 184ms"}
+{"ts":"2026-03-14T13:10:48.896921Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 782745: SMTP timeout after 9s"}
+{"ts":"2026-03-14T13:10:53.809104Z","service":"checkout-api","level":"INFO","message":"order 972013 placed in 164ms"}
+{"ts":"2026-03-14T13:11:08.925390Z","service":"inventory-api","level":"INFO","message":"handled request 862111 in 61ms"}
+{"ts":"2026-03-14T13:11:18.819010Z","service":"checkout-api","level":"INFO","message":"order 412812 placed in 171ms"}
+{"ts":"2026-03-14T13:11:21.156968Z","service":"checkout-api","level":"INFO","message":"order 441089 placed in 223ms"}
+{"ts":"2026-03-14T13:11:30.063411Z","service":"payments-api","level":"INFO","message":"handled request 651685 in 35ms"}
+{"ts":"2026-03-14T13:12:08.074873Z","service":"inventory-api","level":"INFO","message":"handled request 649151 in 82ms"}
+{"ts":"2026-03-14T13:12:28.781871Z","service":"checkout-api","level":"INFO","message":"order 481855 placed in 187ms"}
+{"ts":"2026-03-14T13:12:34.386600Z","service":"checkout-api","level":"INFO","message":"order 573761 placed in 161ms"}
+{"ts":"2026-03-14T13:12:48.937757Z","service":"payments-api","level":"INFO","message":"handled request 181967 in 27ms"}
+{"ts":"2026-03-14T13:13:21.694666Z","service":"payments-api","level":"INFO","message":"handled request 935621 in 67ms"}
+{"ts":"2026-03-14T13:13:24.154477Z","service":"inventory-api","level":"INFO","message":"handled request 587138 in 63ms"}
+{"ts":"2026-03-14T13:13:42.174973Z","service":"checkout-api","level":"INFO","message":"order 882918 placed in 176ms"}
+{"ts":"2026-03-14T13:13:59.549852Z","service":"checkout-api","level":"INFO","message":"order 922029 placed in 152ms"}
+{"ts":"2026-03-14T13:14:10.067852Z","service":"checkout-api","level":"INFO","message":"order 255561 placed in 154ms"}
+{"ts":"2026-03-14T13:14:41.234532Z","service":"checkout-api","level":"INFO","message":"order 690112 placed in 124ms"}
+{"ts":"2026-03-14T13:14:54.408376Z","service":"payments-api","level":"INFO","message":"handled request 293567 in 72ms"}
+{"ts":"2026-03-14T13:14:56.351743Z","service":"inventory-api","level":"INFO","message":"handled request 749807 in 26ms"}
+{"ts":"2026-03-14T13:15:04.006394Z","service":"payments-api","level":"INFO","message":"handled request 698963 in 87ms"}
+{"ts":"2026-03-14T13:15:38.461932Z","service":"inventory-api","level":"INFO","message":"handled request 996690 in 29ms"}
+{"ts":"2026-03-14T13:15:42.879469Z","service":"checkout-api","level":"INFO","message":"order 314270 placed in 156ms"}
+{"ts":"2026-03-14T13:15:58.715764Z","service":"checkout-api","level":"INFO","message":"order 814412 placed in 158ms"}
+{"ts":"2026-03-14T13:16:13.042844Z","service":"checkout-api","level":"INFO","message":"order 978983 placed in 134ms"}
+{"ts":"2026-03-14T13:16:30.688574Z","service":"checkout-api","level":"INFO","message":"order 553079 placed in 95ms"}
+{"ts":"2026-03-14T13:16:35.421549Z","service":"payments-api","level":"INFO","message":"handled request 988804 in 82ms"}
+{"ts":"2026-03-14T13:16:42.616705Z","service":"inventory-api","level":"INFO","message":"handled request 397535 in 48ms"}
+{"ts":"2026-03-14T13:17:27.131621Z","service":"checkout-api","level":"INFO","message":"order 484995 placed in 229ms"}
+{"ts":"2026-03-14T13:17:35.884680Z","service":"checkout-api","level":"INFO","message":"order 346647 placed in 198ms"}
+{"ts":"2026-03-14T13:17:43.549110Z","service":"inventory-api","level":"INFO","message":"handled request 953574 in 52ms"}
+{"ts":"2026-03-14T13:17:54.757356Z","service":"payments-api","level":"INFO","message":"handled request 297997 in 81ms"}
+{"ts":"2026-03-14T13:18:00.496791Z","service":"checkout-api","level":"INFO","message":"order 657830 placed in 187ms"}
+{"ts":"2026-03-14T13:18:02.407145Z","service":"inventory-api","level":"INFO","message":"handled request 992486 in 78ms"}
+{"ts":"2026-03-14T13:18:24.224584Z","service":"payments-api","level":"INFO","message":"handled request 634845 in 74ms"}
+{"ts":"2026-03-14T13:18:30.857028Z","service":"checkout-api","level":"INFO","message":"order 610736 placed in 109ms"}
+{"ts":"2026-03-14T13:18:57.631319Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 829804: SMTP timeout after 5s"}
+{"ts":"2026-03-14T13:19:16.950411Z","service":"inventory-api","level":"INFO","message":"handled request 531422 in 89ms"}
+{"ts":"2026-03-14T13:19:30.749517Z","service":"checkout-api","level":"INFO","message":"order 883139 placed in 170ms"}
+{"ts":"2026-03-14T13:19:32.446347Z","service":"checkout-api","level":"INFO","message":"order 961787 placed in 167ms"}
+{"ts":"2026-03-14T13:19:58.247504Z","service":"payments-api","level":"INFO","message":"handled request 669406 in 90ms"}
+{"ts":"2026-03-14T13:20:26.650999Z","service":"inventory-api","level":"INFO","message":"handled request 247143 in 90ms"}
+{"ts":"2026-03-14T13:20:27.151336Z","service":"payments-api","level":"INFO","message":"handled request 237304 in 84ms"}
+{"ts":"2026-03-14T13:20:36.166161Z","service":"checkout-api","level":"INFO","message":"order 709285 placed in 168ms"}
+{"ts":"2026-03-14T13:20:55.607365Z","service":"checkout-api","level":"INFO","message":"order 643020 placed in 194ms"}
+{"ts":"2026-03-14T13:21:00.576349Z","service":"checkout-api","level":"INFO","message":"order 544782 placed in 259ms"}
+{"ts":"2026-03-14T13:21:24.128333Z","service":"inventory-api","level":"INFO","message":"handled request 791003 in 22ms"}
+{"ts":"2026-03-14T13:21:33.954511Z","service":"payments-api","level":"INFO","message":"handled request 486256 in 73ms"}
+{"ts":"2026-03-14T13:21:58.473138Z","service":"checkout-api","level":"INFO","message":"order 365021 placed in 252ms"}
+{"ts":"2026-03-14T13:22:23.004972Z","service":"checkout-api","level":"INFO","message":"order 586921 placed in 159ms"}
+{"ts":"2026-03-14T13:22:46.118114Z","service":"inventory-api","level":"INFO","message":"handled request 507328 in 78ms"}
+{"ts":"2026-03-14T13:22:47.754450Z","service":"payments-api","level":"INFO","message":"handled request 490734 in 81ms"}
+{"ts":"2026-03-14T13:22:55.509819Z","service":"checkout-api","level":"INFO","message":"order 987455 placed in 91ms"}
+{"ts":"2026-03-14T13:23:08.895619Z","service":"checkout-api","level":"INFO","message":"order 280432 placed in 156ms"}
+{"ts":"2026-03-14T13:23:22.065957Z","service":"payments-api","level":"INFO","message":"handled request 233293 in 56ms"}
+{"ts":"2026-03-14T13:23:29.023447Z","service":"checkout-api","level":"INFO","message":"order 251723 placed in 196ms"}
+{"ts":"2026-03-14T13:23:56.977770Z","service":"inventory-api","level":"INFO","message":"handled request 532968 in 53ms"}
+{"ts":"2026-03-14T13:24:12.927857Z","service":"payments-api","level":"INFO","message":"handled request 969920 in 82ms"}
+{"ts":"2026-03-14T13:24:17.236616Z","service":"checkout-api","level":"INFO","message":"order 541192 placed in 160ms"}
+{"ts":"2026-03-14T13:24:26.010161Z","service":"checkout-api","level":"INFO","message":"order 914741 placed in 214ms"}
+{"ts":"2026-03-14T13:24:56.960784Z","service":"inventory-api","level":"INFO","message":"handled request 521427 in 74ms"}
+{"ts":"2026-03-14T13:25:07.768208Z","service":"checkout-api","level":"INFO","message":"order 256870 placed in 148ms"}
+{"ts":"2026-03-14T13:25:09.342769Z","service":"payments-api","level":"INFO","message":"handled request 912335 in 32ms"}
+{"ts":"2026-03-14T13:25:23.947794Z","service":"inventory-api","level":"INFO","message":"handled request 858650 in 43ms"}
+{"ts":"2026-03-14T13:25:43.809928Z","service":"checkout-api","level":"INFO","message":"order 208281 placed in 154ms"}
+{"ts":"2026-03-14T13:26:05.349721Z","service":"checkout-api","level":"INFO","message":"order 741615 placed in 103ms"}
+{"ts":"2026-03-14T13:26:20.802152Z","service":"payments-api","level":"INFO","message":"handled request 783241 in 33ms"}
+{"ts":"2026-03-14T13:26:32.975758Z","service":"checkout-api","level":"INFO","message":"order 660449 placed in 198ms"}
+{"ts":"2026-03-14T13:26:44.071254Z","service":"inventory-api","level":"INFO","message":"handled request 812054 in 73ms"}
+{"ts":"2026-03-14T13:27:10.742503Z","service":"checkout-api","level":"INFO","message":"order 944230 placed in 102ms"}
+{"ts":"2026-03-14T13:27:44.467256Z","service":"checkout-api","level":"INFO","message":"order 378223 placed in 161ms"}
+{"ts":"2026-03-14T13:27:47.185418Z","service":"payments-api","level":"INFO","message":"handled request 809683 in 31ms"}
+{"ts":"2026-03-14T13:27:51.983828Z","service":"inventory-api","level":"INFO","message":"handled request 229801 in 77ms"}
+{"ts":"2026-03-14T13:28:08.948011Z","service":"payments-api","level":"INFO","message":"handled request 743443 in 45ms"}
+{"ts":"2026-03-14T13:28:10.027406Z","service":"inventory-api","level":"INFO","message":"handled request 370123 in 73ms"}
+{"ts":"2026-03-14T13:28:30.469104Z","service":"checkout-api","level":"INFO","message":"order 512177 placed in 119ms"}
+{"ts":"2026-03-14T13:28:36.366676Z","service":"checkout-api","level":"INFO","message":"order 602467 placed in 117ms"}
+{"ts":"2026-03-14T13:29:51.662881Z","service":"inventory-api","level":"INFO","message":"handled request 207855 in 21ms"}
+{"ts":"2026-03-14T13:29:52.135858Z","service":"checkout-api","level":"INFO","message":"order 764443 placed in 229ms"}
+{"ts":"2026-03-14T13:29:54.782412Z","service":"payments-api","level":"INFO","message":"handled request 927024 in 63ms"}
+{"ts":"2026-03-14T13:29:56.108955Z","service":"checkout-api","level":"INFO","message":"order 662787 placed in 163ms"}
+{"ts":"2026-03-14T13:30:03.386327Z","service":"checkout-api","level":"INFO","message":"order 755833 placed in 202ms"}
+{"ts":"2026-03-14T13:30:13.713610Z","service":"inventory-api","level":"INFO","message":"handled request 387901 in 54ms"}
+{"ts":"2026-03-14T13:30:17.991852Z","service":"payments-api","level":"INFO","message":"handled request 983305 in 32ms"}
+{"ts":"2026-03-14T13:30:43.756948Z","service":"checkout-api","level":"INFO","message":"order 463728 placed in 158ms"}
+{"ts":"2026-03-14T13:31:11.718635Z","service":"checkout-api","level":"INFO","message":"order 688093 placed in 251ms"}
+{"ts":"2026-03-14T13:31:24.698583Z","service":"checkout-api","level":"INFO","message":"order 236526 placed in 155ms"}
+{"ts":"2026-03-14T13:31:35.909667Z","service":"payments-api","level":"INFO","message":"handled request 161268 in 88ms"}
+{"ts":"2026-03-14T13:31:50.066751Z","service":"inventory-api","level":"INFO","message":"handled request 634108 in 39ms"}
+{"ts":"2026-03-14T13:32:16.023435Z","service":"checkout-api","level":"INFO","message":"order 324815 placed in 217ms"}
+{"ts":"2026-03-14T13:32:16.209733Z","service":"checkout-api","level":"INFO","message":"order 603470 placed in 168ms"}
+{"ts":"2026-03-14T13:32:20.303698Z","service":"inventory-api","level":"INFO","message":"handled request 735156 in 43ms"}
+{"ts":"2026-03-14T13:32:22.061064Z","service":"payments-api","level":"INFO","message":"handled request 593406 in 50ms"}
+{"ts":"2026-03-14T13:33:08.965773Z","service":"checkout-api","level":"INFO","message":"order 628426 placed in 173ms"}
+{"ts":"2026-03-14T13:33:18.921982Z","service":"inventory-api","level":"INFO","message":"handled request 617714 in 81ms"}
+{"ts":"2026-03-14T13:33:31.708890Z","service":"payments-api","level":"INFO","message":"handled request 241628 in 47ms"}
+{"ts":"2026-03-14T13:33:34.832821Z","service":"checkout-api","level":"INFO","message":"order 573026 placed in 226ms"}
+{"ts":"2026-03-14T13:34:07.675336Z","service":"checkout-api","level":"INFO","message":"order 246923 placed in 155ms"}
+{"ts":"2026-03-14T13:34:13.501670Z","service":"checkout-api","level":"INFO","message":"order 766121 placed in 227ms"}
+{"ts":"2026-03-14T13:34:41.086005Z","service":"inventory-api","level":"INFO","message":"handled request 337238 in 45ms"}
+{"ts":"2026-03-14T13:34:49.741623Z","service":"payments-api","level":"INFO","message":"handled request 152461 in 42ms"}
+{"ts":"2026-03-14T13:35:05.073926Z","service":"inventory-api","level":"INFO","message":"handled request 335416 in 55ms"}
+{"ts":"2026-03-14T13:35:19.658457Z","service":"checkout-api","level":"INFO","message":"order 911376 placed in 95ms"}
+{"ts":"2026-03-14T13:35:39.594273Z","service":"checkout-api","level":"INFO","message":"order 422817 placed in 198ms"}
+{"ts":"2026-03-14T13:35:49.303438Z","service":"payments-api","level":"INFO","message":"handled request 962147 in 48ms"}
+{"ts":"2026-03-14T13:36:01.387487Z","service":"payments-api","level":"INFO","message":"handled request 445856 in 64ms"}
+{"ts":"2026-03-14T13:36:08.366471Z","service":"inventory-api","level":"INFO","message":"handled request 363005 in 38ms"}
+{"ts":"2026-03-14T13:36:36.068339Z","service":"checkout-api","level":"INFO","message":"order 643613 placed in 187ms"}
+{"ts":"2026-03-14T13:36:59.099517Z","service":"checkout-api","level":"INFO","message":"order 457640 placed in 158ms"}
+{"ts":"2026-03-14T13:37:02.461376Z","service":"checkout-api","level":"INFO","message":"order 181133 placed in 113ms"}
+{"ts":"2026-03-14T13:37:02.985991Z","service":"inventory-api","level":"INFO","message":"handled request 132684 in 30ms"}
+{"ts":"2026-03-14T13:37:19.021199Z","service":"payments-api","level":"INFO","message":"handled request 382420 in 87ms"}
+{"ts":"2026-03-14T13:37:43.495753Z","service":"checkout-api","level":"INFO","message":"order 208223 placed in 166ms"}
+{"ts":"2026-03-14T13:38:16.417991Z","service":"payments-api","level":"INFO","message":"handled request 640266 in 61ms"}
+{"ts":"2026-03-14T13:38:23.959634Z","service":"checkout-api","level":"INFO","message":"order 855028 placed in 253ms"}
+{"ts":"2026-03-14T13:38:25.353086Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=26)"}
+{"ts":"2026-03-14T13:38:30.736472Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=34)"}
+{"ts":"2026-03-14T13:38:39.222960Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=13)"}
+{"ts":"2026-03-14T13:38:41.478135Z","service":"checkout-api","level":"INFO","message":"order 198420 placed in 174ms"}
+{"ts":"2026-03-14T13:38:42.255440Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=40)"}
+{"ts":"2026-03-14T13:38:54.824173Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=28)"}
+{"ts":"2026-03-14T13:38:57.537084Z","service":"inventory-api","level":"INFO","message":"handled request 217662 in 65ms"}
+{"ts":"2026-03-14T13:39:03.839175Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=19)"}
+{"ts":"2026-03-14T13:39:05.464381Z","service":"payments-api","level":"INFO","message":"handled request 704655 in 87ms"}
+{"ts":"2026-03-14T13:39:14.109660Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=19)"}
+{"ts":"2026-03-14T13:39:21.641150Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=39)"}
+{"ts":"2026-03-14T13:39:28.535136Z","service":"inventory-api","level":"INFO","message":"handled request 539060 in 88ms"}
+{"ts":"2026-03-14T13:39:36.369622Z","service":"checkout-api","level":"INFO","message":"order 384247 placed in 193ms"}
+{"ts":"2026-03-14T13:39:47.459161Z","service":"checkout-api","level":"INFO","message":"order 859339 placed in 122ms"}
+{"ts":"2026-03-14T13:39:54.264681Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=16)"}
+{"ts":"2026-03-14T13:40:00.446075Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=31)"}
+{"ts":"2026-03-14T13:40:10.132196Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=37)"}
+{"ts":"2026-03-14T13:40:14.434890Z","service":"inventory-api","level":"INFO","message":"handled request 555723 in 55ms"}
+{"ts":"2026-03-14T13:40:18.065713Z","service":"checkout-api","level":"INFO","message":"order 330049 placed in 251ms"}
+{"ts":"2026-03-14T13:40:18.160287Z","service":"checkout-api","level":"INFO","message":"order 239590 placed in 103ms"}
+{"ts":"2026-03-14T13:40:26.857549Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=32)"}
+{"ts":"2026-03-14T13:40:33.383863Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=7)"}
+{"ts":"2026-03-14T13:40:36.005485Z","service":"payments-api","level":"INFO","message":"handled request 215205 in 42ms"}
+{"ts":"2026-03-14T13:41:04.144487Z","service":"inventory-api","level":"INFO","message":"handled request 670633 in 66ms"}
+{"ts":"2026-03-14T13:41:15.024728Z","service":"checkout-api","level":"INFO","message":"order 384095 placed in 225ms"}
+{"ts":"2026-03-14T13:41:15.704693Z","service":"checkout-api","level":"INFO","message":"order 232197 placed in 193ms"}
+{"ts":"2026-03-14T13:41:16.374892Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=12)"}
+{"ts":"2026-03-14T13:41:34.396034Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=7)"}
+{"ts":"2026-03-14T13:41:42.532366Z","service":"payments-api","level":"INFO","message":"handled request 881100 in 67ms"}
+{"ts":"2026-03-14T13:41:50.555470Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=27)"}
+{"ts":"2026-03-14T13:41:53.259083Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=25)"}
+{"ts":"2026-03-14T13:42:07.598494Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=37)"}
+{"ts":"2026-03-14T13:42:09.346367Z","service":"inventory-api","level":"INFO","message":"handled request 707422 in 38ms"}
+{"ts":"2026-03-14T13:42:18.487677Z","service":"payments-api","level":"INFO","message":"handled request 815561 in 36ms"}
+{"ts":"2026-03-14T13:42:20.541931Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=19)"}
+{"ts":"2026-03-14T13:42:21.406598Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=7)"}
+{"ts":"2026-03-14T13:42:37.377615Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=11)"}
+{"ts":"2026-03-14T13:42:41.075354Z","service":"checkout-api","level":"INFO","message":"order 131891 placed in 248ms"}
+{"ts":"2026-03-14T13:42:50.629087Z","service":"checkout-api","level":"INFO","message":"order 858291 placed in 219ms"}
+{"ts":"2026-03-14T13:43:08.745848Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=5)"}
+{"ts":"2026-03-14T13:43:09.336275Z","service":"payments-api","level":"INFO","message":"handled request 933739 in 68ms"}
+{"ts":"2026-03-14T13:43:16.947054Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=34)"}
+{"ts":"2026-03-14T13:43:21.486917Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=13)"}
+{"ts":"2026-03-14T13:43:21.905469Z","service":"checkout-api","level":"INFO","message":"order 406544 placed in 130ms"}
+{"ts":"2026-03-14T13:43:37.507322Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=34)"}
+{"ts":"2026-03-14T13:43:49.610624Z","service":"checkout-api","level":"INFO","message":"order 607585 placed in 175ms"}
+{"ts":"2026-03-14T13:43:49.987811Z","service":"inventory-api","level":"INFO","message":"handled request 525344 in 35ms"}
+{"ts":"2026-03-14T13:44:02.058246Z","service":"checkout-api","level":"ERROR","message":"FATAL: remaining connection slots are reserved for non-replication superuser connections"}
+{"ts":"2026-03-14T13:44:05.401164Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=38)"}
+{"ts":"2026-03-14T13:44:07.568315Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=29)"}
+{"ts":"2026-03-14T13:44:08.708613Z","service":"checkout-api","level":"INFO","message":"order 409636 placed in 260ms"}
+{"ts":"2026-03-14T13:44:35.438443Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=10)"}
+{"ts":"2026-03-14T13:44:37.818197Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=38)"}
+{"ts":"2026-03-14T13:44:41.217298Z","service":"checkout-api","level":"INFO","message":"order 769905 placed in 244ms"}
+{"ts":"2026-03-14T13:44:46.828930Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=31)"}
+{"ts":"2026-03-14T13:44:55.180870Z","service":"inventory-api","level":"INFO","message":"handled request 774166 in 36ms"}
+{"ts":"2026-03-14T13:44:57.186682Z","service":"payments-api","level":"INFO","message":"handled request 663378 in 21ms"}
+{"ts":"2026-03-14T13:45:01.821972Z","service":"checkout-api","level":"INFO","message":"order 552936 placed in 243ms"}
+{"ts":"2026-03-14T13:45:12.388070Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=27)"}
+{"ts":"2026-03-14T13:45:14.217437Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=37)"}
+{"ts":"2026-03-14T13:45:22.335915Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=24)"}
+{"ts":"2026-03-14T13:45:24.505854Z","service":"inventory-api","level":"INFO","message":"handled request 735205 in 79ms"}
+{"ts":"2026-03-14T13:45:25.746456Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=8)"}
+{"ts":"2026-03-14T13:45:28.245832Z","service":"checkout-api","level":"ERROR","message":"failed to send confirmation email for order 139231: SMTP timeout after 5s"}
+{"ts":"2026-03-14T13:45:33.714826Z","service":"checkout-api","level":"INFO","message":"order 206056 placed in 207ms"}
+{"ts":"2026-03-14T13:45:40.754958Z","service":"payments-api","level":"INFO","message":"handled request 389472 in 67ms"}
+{"ts":"2026-03-14T13:46:00.211177Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=31)"}
+{"ts":"2026-03-14T13:46:05.377880Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=35)"}
+{"ts":"2026-03-14T13:46:06.532096Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=9)"}
+{"ts":"2026-03-14T13:46:20.869007Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=16)"}
+{"ts":"2026-03-14T13:46:35.243479Z","service":"checkout-api","level":"INFO","message":"order 656210 placed in 220ms"}
+{"ts":"2026-03-14T13:46:45.792175Z","service":"payments-api","level":"INFO","message":"handled request 677795 in 54ms"}
+{"ts":"2026-03-14T13:46:46.975579Z","service":"inventory-api","level":"INFO","message":"handled request 695826 in 65ms"}
+{"ts":"2026-03-14T13:46:48.731261Z","service":"checkout-api","level":"INFO","message":"order 972168 placed in 118ms"}
+{"ts":"2026-03-14T13:46:50.862019Z","service":"checkout-api","level":"ERROR","message":"FATAL: remaining connection slots are reserved for non-replication superuser connections"}
+{"ts":"2026-03-14T13:46:53.578139Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=19)"}
+{"ts":"2026-03-14T13:47:14.388697Z","service":"checkout-api","level":"INFO","message":"order 689673 placed in 181ms"}
+{"ts":"2026-03-14T13:47:16.273872Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=34)"}
+{"ts":"2026-03-14T13:47:17.535989Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=6)"}
+{"ts":"2026-03-14T13:47:33.720328Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=39)"}
+{"ts":"2026-03-14T13:47:39.405919Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=5)"}
+{"ts":"2026-03-14T13:47:49.182502Z","service":"checkout-api","level":"INFO","message":"order 357082 placed in 249ms"}
+{"ts":"2026-03-14T13:47:50.400755Z","service":"checkout-api","level":"ERROR","message":"FATAL: remaining connection slots are reserved for non-replication superuser connections"}
+{"ts":"2026-03-14T13:47:52.319810Z","service":"payments-api","level":"INFO","message":"handled request 222057 in 25ms"}
+{"ts":"2026-03-14T13:47:54.980500Z","service":"inventory-api","level":"INFO","message":"handled request 428936 in 74ms"}
+{"ts":"2026-03-14T13:48:15.794745Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=24)"}
+{"ts":"2026-03-14T13:48:15.810274Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=15)"}
+{"ts":"2026-03-14T13:48:20.775366Z","service":"checkout-api","level":"INFO","message":"order 789496 placed in 250ms"}
+{"ts":"2026-03-14T13:48:21.524653Z","service":"inventory-api","level":"INFO","message":"handled request 890528 in 63ms"}
+{"ts":"2026-03-14T13:48:25.968038Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=7)"}
+{"ts":"2026-03-14T13:48:37.017141Z","service":"payments-api","level":"INFO","message":"handled request 535091 in 68ms"}
+{"ts":"2026-03-14T13:48:45.540139Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=34)"}
+{"ts":"2026-03-14T13:48:59.747376Z","service":"checkout-api","level":"INFO","message":"order 909574 placed in 104ms"}
+{"ts":"2026-03-14T13:49:18.873445Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=29)"}
+{"ts":"2026-03-14T13:49:25.752530Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=22)"}
+{"ts":"2026-03-14T13:49:31.139747Z","service":"checkout-api","level":"INFO","message":"order 158752 placed in 177ms"}
+{"ts":"2026-03-14T13:49:32.582035Z","service":"inventory-api","level":"INFO","message":"handled request 756308 in 82ms"}
+{"ts":"2026-03-14T13:49:34.407915Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=15)"}
+{"ts":"2026-03-14T13:49:40.382115Z","service":"payments-api","level":"INFO","message":"handled request 637965 in 42ms"}
+{"ts":"2026-03-14T13:49:41.954418Z","service":"checkout-api","level":"INFO","message":"order 765773 placed in 246ms"}
+{"ts":"2026-03-14T13:49:44.673765Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=30)"}
+{"ts":"2026-03-14T13:50:01.299881Z","service":"checkout-api","level":"INFO","message":"order 319376 placed in 188ms"}
+{"ts":"2026-03-14T13:50:18.014065Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=8)"}
+{"ts":"2026-03-14T13:50:28.071377Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=18)"}
+{"ts":"2026-03-14T13:50:32.925650Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=29)"}
+{"ts":"2026-03-14T13:50:37.896151Z","service":"payments-api","level":"INFO","message":"handled request 283198 in 70ms"}
+{"ts":"2026-03-14T13:50:42.995495Z","service":"inventory-api","level":"INFO","message":"handled request 204539 in 51ms"}
+{"ts":"2026-03-14T13:50:45.448507Z","service":"checkout-api","level":"INFO","message":"order 227383 placed in 239ms"}
+{"ts":"2026-03-14T13:50:58.397112Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=35)"}
+{"ts":"2026-03-14T13:51:15.239371Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=23)"}
+{"ts":"2026-03-14T13:51:22.172992Z","service":"payments-api","level":"INFO","message":"handled request 783072 in 44ms"}
+{"ts":"2026-03-14T13:51:25.919472Z","service":"inventory-api","level":"INFO","message":"handled request 518232 in 89ms"}
+{"ts":"2026-03-14T13:51:30.342049Z","service":"checkout-api","level":"ERROR","message":"FATAL: remaining connection slots are reserved for non-replication superuser connections"}
+{"ts":"2026-03-14T13:51:46.426067Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=38)"}
+{"ts":"2026-03-14T13:51:47.071426Z","service":"checkout-api","level":"INFO","message":"order 583713 placed in 210ms"}
+{"ts":"2026-03-14T13:51:51.700759Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=12)"}
+{"ts":"2026-03-14T13:51:52.491278Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=27)"}
+{"ts":"2026-03-14T13:51:58.194521Z","service":"checkout-api","level":"INFO","message":"order 788511 placed in 152ms"}
+{"ts":"2026-03-14T13:52:06.538350Z","service":"payments-api","level":"INFO","message":"handled request 127497 in 29ms"}
+{"ts":"2026-03-14T13:52:08.992874Z","service":"checkout-api","level":"INFO","message":"order 494391 placed in 196ms"}
+{"ts":"2026-03-14T13:52:14.258159Z","service":"checkout-api","level":"ERROR","message":"FATAL: remaining connection slots are reserved for non-replication superuser connections"}
+{"ts":"2026-03-14T13:52:21.831838Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=4)"}
+{"ts":"2026-03-14T13:52:27.616184Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=40)"}
+{"ts":"2026-03-14T13:52:29.296662Z","service":"checkout-api","level":"INFO","message":"order 379400 placed in 122ms"}
+{"ts":"2026-03-14T13:52:50.033548Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=32)"}
+{"ts":"2026-03-14T13:52:53.537104Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=38)"}
+{"ts":"2026-03-14T13:52:56.480982Z","service":"inventory-api","level":"INFO","message":"handled request 581083 in 68ms"}
+{"ts":"2026-03-14T13:52:58.669918Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=33)"}
+{"ts":"2026-03-14T13:53:00.704140Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=21)"}
+{"ts":"2026-03-14T13:53:09.257319Z","service":"checkout-api","level":"INFO","message":"order 650086 placed in 117ms"}
+{"ts":"2026-03-14T13:53:23.792849Z","service":"inventory-api","level":"INFO","message":"handled request 764585 in 49ms"}
+{"ts":"2026-03-14T13:53:42.622308Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=36)"}
+{"ts":"2026-03-14T13:53:45.254043Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=8)"}
+{"ts":"2026-03-14T13:53:46.158970Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=22)"}
+{"ts":"2026-03-14T13:53:47.872259Z","service":"checkout-api","level":"INFO","message":"order 402517 placed in 129ms"}
+{"ts":"2026-03-14T13:53:56.806924Z","service":"payments-api","level":"INFO","message":"handled request 119699 in 79ms"}
+{"ts":"2026-03-14T13:54:04.563439Z","service":"inventory-api","level":"INFO","message":"handled request 662412 in 40ms"}
+{"ts":"2026-03-14T13:54:05.755289Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=24)"}
+{"ts":"2026-03-14T13:54:21.079091Z","service":"checkout-api","level":"ERROR","message":"FATAL: remaining connection slots are reserved for non-replication superuser connections"}
+{"ts":"2026-03-14T13:54:23.447544Z","service":"checkout-api","level":"INFO","message":"order 105582 placed in 229ms"}
+{"ts":"2026-03-14T13:54:33.262677Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=11)"}
+{"ts":"2026-03-14T13:54:35.600183Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=40)"}
+{"ts":"2026-03-14T13:54:39.736110Z","service":"payments-api","level":"INFO","message":"handled request 459111 in 50ms"}
+{"ts":"2026-03-14T13:54:48.231795Z","service":"checkout-api","level":"INFO","message":"order 543516 placed in 130ms"}
+{"ts":"2026-03-14T13:54:54.560286Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=32)"}
+{"ts":"2026-03-14T13:55:06.896817Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=37)"}
+{"ts":"2026-03-14T13:55:11.052279Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=7)"}
+{"ts":"2026-03-14T13:55:25.645511Z","service":"checkout-api","level":"INFO","message":"order 932989 placed in 100ms"}
+{"ts":"2026-03-14T13:55:29.303287Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=25)"}
+{"ts":"2026-03-14T13:55:34.634599Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=6)"}
+{"ts":"2026-03-14T13:55:35.121165Z","service":"checkout-api","level":"INFO","message":"order 638043 placed in 145ms"}
+{"ts":"2026-03-14T13:55:36.287689Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=6)"}
+{"ts":"2026-03-14T13:55:42.018352Z","service":"inventory-api","level":"INFO","message":"handled request 824161 in 88ms"}
+{"ts":"2026-03-14T13:55:56.146943Z","service":"payments-api","level":"INFO","message":"handled request 859824 in 44ms"}
+{"ts":"2026-03-14T13:56:02.698771Z","service":"inventory-api","level":"INFO","message":"handled request 643662 in 50ms"}
+{"ts":"2026-03-14T13:56:05.381120Z","service":"payments-api","level":"INFO","message":"handled request 199185 in 81ms"}
+{"ts":"2026-03-14T13:56:23.889787Z","service":"checkout-api","level":"INFO","message":"order 587532 placed in 120ms"}
+{"ts":"2026-03-14T13:56:25.595965Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=12)"}
+{"ts":"2026-03-14T13:56:29.617961Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=40)"}
+{"ts":"2026-03-14T13:56:31.358645Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=18)"}
+{"ts":"2026-03-14T13:56:34.020758Z","service":"checkout-api","level":"INFO","message":"order 150695 placed in 189ms"}
+{"ts":"2026-03-14T13:56:46.137225Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=14)"}
+{"ts":"2026-03-14T13:56:50.897676Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=9)"}
+{"ts":"2026-03-14T13:57:01.251065Z","service":"checkout-api","level":"INFO","message":"order 427163 placed in 209ms"}
+{"ts":"2026-03-14T13:57:03.343070Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=5)"}
+{"ts":"2026-03-14T13:57:16.684355Z","service":"checkout-api","level":"INFO","message":"order 535745 placed in 132ms"}
+{"ts":"2026-03-14T13:57:25.393910Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=22)"}
+{"ts":"2026-03-14T13:57:35.698004Z","service":"payments-api","level":"INFO","message":"handled request 688948 in 60ms"}
+{"ts":"2026-03-14T13:57:46.235960Z","service":"inventory-api","level":"INFO","message":"handled request 767420 in 77ms"}
+{"ts":"2026-03-14T13:57:47.763584Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=8)"}
+{"ts":"2026-03-14T13:57:49.595339Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=31)"}
+{"ts":"2026-03-14T13:57:50.338133Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=20)"}
+{"ts":"2026-03-14T13:58:12.629396Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=6)"}
+{"ts":"2026-03-14T13:58:21.599455Z","service":"inventory-api","level":"INFO","message":"handled request 258844 in 53ms"}
+{"ts":"2026-03-14T13:58:32.554274Z","service":"checkout-api","level":"ERROR","message":"FATAL: remaining connection slots are reserved for non-replication superuser connections"}
+{"ts":"2026-03-14T13:58:41.932916Z","service":"checkout-api","level":"INFO","message":"order 832477 placed in 189ms"}
+{"ts":"2026-03-14T13:58:47.575213Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=15)"}
+{"ts":"2026-03-14T13:58:48.182677Z","service":"checkout-api","level":"INFO","message":"order 680722 placed in 132ms"}
+{"ts":"2026-03-14T13:58:48.502571Z","service":"payments-api","level":"INFO","message":"handled request 619458 in 55ms"}
+{"ts":"2026-03-14T13:58:54.742573Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=31)"}
+{"ts":"2026-03-14T13:58:56.057914Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=30)"}
+{"ts":"2026-03-14T13:59:05.019809Z","service":"checkout-api","level":"INFO","message":"order 478036 placed in 176ms"}
+{"ts":"2026-03-14T13:59:13.492175Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=7)"}
+{"ts":"2026-03-14T13:59:15.136449Z","service":"inventory-api","level":"INFO","message":"handled request 502928 in 55ms"}
+{"ts":"2026-03-14T13:59:18.926496Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=17)"}
+{"ts":"2026-03-14T13:59:20.872615Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=13)"}
+{"ts":"2026-03-14T13:59:21.493508Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=32)"}
+{"ts":"2026-03-14T13:59:44.386583Z","service":"checkout-api","level":"ERROR","message":"FATAL: remaining connection slots are reserved for non-replication superuser connections"}
+{"ts":"2026-03-14T13:59:50.690605Z","service":"checkout-api","level":"INFO","message":"order 918477 placed in 249ms"}
+{"ts":"2026-03-14T13:59:55.701755Z","service":"payments-api","level":"INFO","message":"handled request 371023 in 52ms"}
+{"ts":"2026-03-14T13:59:58.235369Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=18)"}
+{"ts":"2026-03-14T14:00:00.808091Z","service":"checkout-api","level":"INFO","message":"order 236589 placed in 154ms"}
+{"ts":"2026-03-14T14:00:09.113408Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=37)"}
+{"ts":"2026-03-14T14:00:13.554924Z","service":"checkout-api","level":"INFO","message":"order 173882 placed in 238ms"}
+{"ts":"2026-03-14T14:00:22.428603Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=34)"}
+{"ts":"2026-03-14T14:00:25.753026Z","service":"inventory-api","level":"INFO","message":"handled request 351478 in 37ms"}
+{"ts":"2026-03-14T14:00:27.763421Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=20)"}
+{"ts":"2026-03-14T14:00:32.253409Z","service":"payments-api","level":"INFO","message":"handled request 308049 in 89ms"}
+{"ts":"2026-03-14T14:00:40.261430Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=4)"}
+{"ts":"2026-03-14T14:00:45.659764Z","service":"checkout-api","level":"ERROR","message":"could not acquire connection: connection pool exhausted (active=50, idle=0, waiting=22)"}

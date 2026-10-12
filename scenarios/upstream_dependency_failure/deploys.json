@@ -1,0 +1,1 @@
+[{"id":"d-1","service":"search-api","version":"v9.3.1","deployed_at":"2026-03-14T13:40:00Z","kind":"code","summary":"Reindex tuning"},{"id":"d-2","service":"inventory-api","version":"v5.12.0","deployed_at":"2026-03-14T09:30:00Z","kind":"code","summary":"Dependency bumps"}]
