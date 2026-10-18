@@ -1,9 +1,4 @@
-"""Shared data models.
-
-Everything the pipeline produces is one of these types, so a report can be
-serialised to JSON, stored in PostgreSQL and rendered to Markdown without
-losing the link between a conclusion and the evidence it rests on.
-"""
+"""Shared data models."""
 
 from __future__ import annotations
 

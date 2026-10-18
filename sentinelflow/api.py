@@ -1,7 +1,4 @@
-"""HTTP API.
-
-Run with:  uvicorn sentinelflow.api:create_app --factory
-"""
+"""FastAPI app for triaging incidents and storing reports."""
 
 from __future__ import annotations
 

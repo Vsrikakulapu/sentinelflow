@@ -1,17 +1,4 @@
-"""Evaluation harness: attribution accuracy on generated incidents.
-
-For every scenario and seed the pipeline is run under several *evidence
-conditions* - all sources present, or one source withheld - and each outcome
-is classified:
-
-* ``correct``   - attributed to the true root cause (or, for negative
-                  controls, correctly declined to attribute)
-* ``abstained`` - declined to attribute although a cause existed
-* ``wrong``     - attributed to something that was not the cause
-
-``wrong`` is the number that matters operationally: a triage tool that sends
-responders after the wrong system is worse than one that says "unknown".
-"""
+"""Run the pipeline over generated incidents and count correct, abstained and wrong results."""
 
 from __future__ import annotations
 

@@ -1,14 +1,4 @@
-"""Database-health collector.
-
-Works from ``DbSnapshot`` objects, which come from one of two places:
-
-* ``PostgresHealthProbe`` - queries a live PostgreSQL instance
-  (``pg_stat_activity``, ``pg_blocking_pids``, ``pg_stat_database``)
-* snapshots supplied with the triage request (replayed incidents, tests)
-
-Both paths feed the same analysis, so the logic that is unit-tested is the
-logic that runs against a real database.
-"""
+"""Database health evidence, from a live PostgreSQL or saved snapshots."""
 
 from __future__ import annotations
 
@@ -81,12 +71,7 @@ SELECT CASE WHEN pg_is_in_recovery()
 
 
 class PostgresHealthProbe:
-    """Takes a ``DbSnapshot`` of a live PostgreSQL instance.
-
-    ``connection`` is any DB-API connection whose driver uses ``%(name)s``
-    parameters (psycopg 3 in production). It is injected so the probe can be
-    exercised without a database driver installed.
-    """
+    """Takes a `DbSnapshot` of a live PostgreSQL instance."""
 
     def __init__(self, connection: Any, database: str = "postgres") -> None:
         self._connection = connection

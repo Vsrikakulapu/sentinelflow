@@ -1,9 +1,4 @@
-"""Persistence for triage reports and deployment history.
-
-``PostgresStore`` is the production backend (reports as JSONB, evidence
-denormalised into its own table so it can be queried across incidents).
-``InMemoryStore`` implements the same interface for tests and local runs.
-"""
+"""Persistence for triage reports and deployment history."""
 
 from __future__ import annotations
 

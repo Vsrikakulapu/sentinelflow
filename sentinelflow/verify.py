@@ -1,20 +1,4 @@
-"""Verification: turn check outcomes into a confidence score and an attribution.
-
-The scoring is deliberately simple enough to explain in one paragraph:
-
-    confidence = (supported weight - 1.5 x contradicted weight) / total weight
-
-* a hypothesis whose *required* check is not supported is rejected outright
-* contradiction costs more than support earns, because one fact that cannot be
-  true under a hypothesis outweighs one fact that merely fits it
-* support that comes from a single signal source is discounted by 20%:
-  corroboration across logs / metrics / database / deploys is what makes an
-  attribution trustworthy
-
-A root cause is only *attributed* when the best hypothesis clears 0.60 and
-beats the runner-up by 0.15. Otherwise the report says so and lists the
-evidence that would settle it. Declining to name a cause is a valid result.
-"""
+"""Score hypotheses from their check results and decide whether one cause stands out."""
 
 from __future__ import annotations
 

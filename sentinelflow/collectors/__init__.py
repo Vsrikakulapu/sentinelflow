@@ -1,10 +1,4 @@
-"""Evidence collectors.
-
-Each collector turns one raw signal (logs, metrics, database health, deploy
-history) into ``Evidence`` items. Collectors only *observe*: they never decide
-what caused the incident. That separation is what lets the verification stage
-test every hypothesis against the same, independently gathered facts.
-"""
+"""Turn raw logs, metrics, database health and deploys into evidence items."""
 
 from __future__ import annotations
 

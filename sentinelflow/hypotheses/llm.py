@@ -1,20 +1,4 @@
-"""Optional LLM stage: propose hypotheses the catalog does not cover.
-
-The model is treated as an untrusted suggestion engine:
-
-1. It only sees the collected evidence (ids, sources, summaries) - never raw logs.
-2. Every hypothesis it returns must cite evidence ids. Citations that do not
-   exist are dropped; a hypothesis left with fewer than two real citations is
-   discarded as ungrounded.
-3. Surviving hypotheses are verified with generic checks (grounding,
-   cross-source corroboration, temporal order) and their confidence is capped
-   below the attribution threshold. An LLM hypothesis can be reported as
-   *plausible*; it can never be reported as the confirmed root cause.
-
-Any OpenAI-compatible chat-completions endpoint works (OpenAI, Groq, Ollama,
-vLLM). With no API key configured the stage is skipped and the pipeline is
-fully deterministic.
-"""
+"""Optional LLM step that suggests extra causes; suggestions must cite real evidence."""
 
 from __future__ import annotations
 

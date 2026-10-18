@@ -1,7 +1,4 @@
-"""Integration tests against a real PostgreSQL.
-
-Skipped unless SENTINELFLOW_TEST_DATABASE_URL is set (CI provides a postgres service).
-"""
+"""Integration tests against a real PostgreSQL."""
 
 import os
 import threading

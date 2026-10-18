@@ -1,15 +1,4 @@
-"""Incident bundles on disk.
-
-A bundle is a directory:
-
-    incident.json       service, detected_at, lookback_minutes, topology
-    logs.jsonl          one log record per line
-    metrics.json        list of time series
-    db_snapshots.json   list of database health snapshots
-    deploys.json        list of deploy records
-
-Any file except ``incident.json`` may be missing - triage degrades gracefully.
-"""
+"""Load and save incident bundles (a folder of logs, metrics, snapshots and deploys)."""
 
 from __future__ import annotations
 

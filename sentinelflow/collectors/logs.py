@@ -1,15 +1,4 @@
-"""Application-log collector.
-
-Reduces raw log lines to three kinds of evidence:
-
-* ``error_spike``           - error volume in the incident window is far above baseline
-* ``new_error_signature``   - an error template that never appeared in the baseline
-* ``error_signature_surge`` - a known error template whose rate jumped
-
-Messages are normalised into *signatures* (numbers, ids, addresses and quoted
-values replaced by placeholders) so that thousands of lines collapse into a
-handful of templates that can be compared between baseline and incident.
-"""
+"""Error spikes and new or surging error messages from application logs."""
 
 from __future__ import annotations
 

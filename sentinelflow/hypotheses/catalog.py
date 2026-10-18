@@ -1,18 +1,4 @@
-"""Catalog of failure hypotheses.
-
-A hypothesis is a claim about the root cause plus the *predictions* that claim
-makes about the evidence. Each prediction is a check that returns
-``supported``, ``contradicted`` or ``inconclusive`` and cites the evidence it
-looked at. Nothing here assigns a confidence: that is the verifier's job
-(``sentinelflow.verify``), so every hypothesis is scored by the same rules.
-
-Design rules for checks:
-
-* exactly one check per hypothesis is ``required`` - the signal without which
-  the claim makes no sense (no deploy => cannot be a bad deploy)
-* every hypothesis has a temporal check - a cause must not start after its effect
-* absence of evidence is ``inconclusive``, never ``supported``
-"""
+"""Possible root causes and the checks each one has to pass."""
 
 from __future__ import annotations
 

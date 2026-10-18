@@ -1,16 +1,4 @@
-"""Service-metrics collector.
-
-For every in-scope time series this emits up to three kinds of evidence:
-
-* ``metric_anomaly``    - the incident window deviates from the reference period
-  (robust z-score on median / MAD, so a single outlier cannot trigger it)
-* ``metric_trend``      - sustained, near-linear growth across the whole series
-  (what a leak looks like, as opposed to a step change after a deploy)
-* ``metric_saturation`` - the series reached its declared limit
-
-Each anomaly carries an *onset* timestamp. Onsets are what make temporal
-verification possible: a cause has to start before its effect.
-"""
+"""Metric anomalies, steady growth and saturation, each with an onset time."""
 
 from __future__ import annotations
 
@@ -36,12 +24,7 @@ def robust_sigma(values: list[float]) -> float:
 def find_onset(
     points: list[tuple[datetime, float]], centre: float, sigma: float, direction: str
 ) -> datetime | None:
-    """Start of the excursion that contains the peak.
-
-    Walks backwards from the most extreme point while values stay beyond
-    3 sigma (tolerating a single in-range point), so an isolated noise blip
-    earlier in the series is never mistaken for the start of the incident.
-    """
+    """When the anomaly containing the peak started (ignores earlier one-off blips)."""
     if not points:
         return None
     sign = 1.0 if direction == "up" else -1.0

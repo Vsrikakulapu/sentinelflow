@@ -1,9 +1,4 @@
-"""Deployment-history collector.
-
-Emits one ``deploy`` evidence item per rollout to the affected service or one
-of its dependencies in the hours before detection. Deploys to unrelated
-services are ignored: a rollout somewhere else in the fleet is not evidence.
-"""
+"""Recent deploys to the affected service or anything it depends on."""
 
 from __future__ import annotations
 

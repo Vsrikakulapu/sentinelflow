@@ -1,14 +1,4 @@
-"""Synthetic incident generator.
-
-Produces realistic, seeded ``TriageRequest`` bundles for six failure modes
-plus two negative cases (a quiet period, and an unexplained latency rise).
-Used by the test-suite, the evaluation harness (``python -m sentinelflow eval``)
-and to create the sample bundles under ``scenarios/``.
-
-Each scenario varies with the seed: onset time, magnitude, noise, and
-*confounders* - unrelated deploys, old deploys to the affected service - so
-that timing and scoping logic is exercised rather than memorised.
-"""
+"""Generate test incidents for each failure type, with random timing, noise and distractions."""
 
 from __future__ import annotations
 
